@@ -47,3 +47,10 @@
 python -m http.server 8080
 ```
 จากนั้นเปิดเบราว์เซอร์ไปที่: `http://localhost:8080/index.html`
+
+#### วิธีที่ 3: เผยแพร่ผ่าน Vercel (Public on Vercel)
+โปรเจกต์นี้ได้รับการปรับแต่งไฟล์ `vercel.json` และโครงสร้างเรียบร้อยแล้ว:
+1. เข้าไปที่ [Vercel Dashboard](https://vercel.com/new)
+2. นำเข้า (Import) Repository `Newwee/BioTerm2`
+3. กด **Deploy** ได้ทันทีโดยไม่ต้องตั้งค่า Build Command เพิ่มเติม ระบบจะ Deploy ขึ้นเป็น Public Website ทันที
+

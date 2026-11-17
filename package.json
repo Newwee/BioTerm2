@@ -1,0 +1,9 @@
+{
+  "name": "bioterm2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BioLab Interactive Learning Platform for Kingdom Monera & Protista",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
