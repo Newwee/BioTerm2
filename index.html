@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="format-detection" content="telephone=no">
+  <title>BioLab Interactive | ชีววิทยา ม.ปลาย: อาณาจักรมอเนอรา และ โพรติสตา</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@400;500;600;700;800&family=Sarabun:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="app-header">
+    <div class="header-container">
+      <a href="javascript:void(0)" class="brand-section" onclick="switchView('dashboard')">
+        <div class="brand-icon">🧬</div>
+        <div class="brand-info">
+          <span class="brand-title">BioLab Interactive</span>
+          <span class="brand-subtitle">ชีววิทยา เทอม 2 • มอเนอรา & โพรติสตา</span>
+        </div>
+      </a>
+
+      <nav class="nav-tabs" aria-label="Main Navigation">
+        <button class="nav-tab-btn active" data-view="dashboard">
+          <span>📊</span>
+          <span>ภาพรวม</span>
+        </button>
+        <button class="nav-tab-btn" data-view="library">
+          <span>📚</span>
+          <span>คลังบทเรียน</span>
+        </button>
+        <button class="nav-tab-btn" data-view="reader">
+          <span>📖</span>
+          <span>อ่านเนื้อหา</span>
+        </button>
+        <button class="nav-tab-btn" data-view="memory">
+          <span>🧠</span>
+          <span>ฝึกความจำ</span>
+        </button>
+        <button class="nav-tab-btn" data-view="review">
+          <span>⏳</span>
+          <span>ศูนย์ทบทวน</span>
+        </button>
+        <button class="nav-tab-btn" data-view="analytics">
+          <span>📈</span>
+          <span>สถิติ</span>
+        </button>
+      </nav>
+
+      <div class="header-actions">
+        <button id="theme-toggle-btn" class="icon-action-btn" onclick="toggleTheme()" title="สลับโหมดมืด/สว่าง" aria-label="สลับโหมดมืดหรือสว่าง">
+          🌙
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <section id="view-dashboard" class="view-section active"></section>
+    <section id="view-library" class="view-section"></section>
+    <section id="view-reader" class="view-section"></section>
+    <section id="view-memory" class="view-section"></section>
+    <section id="view-review" class="view-section"></section>
+    <section id="view-analytics" class="view-section"></section>
+  </main>
+
+  <div id="image-lightbox-modal" class="modal-backdrop" onclick="closeLightbox()">
+    <div class="lightbox-content" onclick="event.stopPropagation()">
+      <button class="modal-close-btn" onclick="closeLightbox()" title="ปิดภาพ">✕</button>
+      <img id="lightbox-img" src="" alt="ภาพสไลด์ต้นฉบับขนาดเต็ม">
+    </div>
+  </div>
+
+  <script src="biology_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "monera-01",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 1,
+    "chapter_id": "monera-mod-1",
+    "chapter_title": "โมดูล 1: ประวัติและระบบการจัดหมวดหมู่สิ่งมีชีวิต",
+    "title": "สไลด์ 1: อาณาจักรมอเนอรา (Kingdom Monera)",
+    "subtitle": "ภาพรวมอาณาจักรสิ่งมีชีวิตโพรแคริโอตยุคดึกดำบรรพ์",
+    "keywords": [
+      "Monera",
+      "Prokaryote",
+      "Bacteria",
+      "Evolution",
+      "Biosphere"
+    ],
+    "original_content": "Kingdom Monera\nอาณาจักรของสิ่งมีชีวิตเซลล์เดียวขนาดเล็กที่มีโครงสร้างเซลล์แบบโพรแคริโอต (Prokaryote) ไม่มีเยื่อหุ้มนิวเคลียสและไม่มีออร์แกเนลล์ที่มีเยื่อหุ้ม ประกอบด้วยแบคทีเรียและไซยาโนแบคทีเรีย",
+    "deep_explanation": "คำว่า 'Monera' มาจากภาษากรีก 'moneres' แปลว่า 'เดี่ยว' หรือ 'เรียบง่าย' บัญญัติขึ้นโดย Ernst Haeckel ในปี 1866 เพื่อจัดกลุ่มสิ่งมีชีวิตเซลล์เดียวที่ไม่มีนิวเคลียส โพรแคริโอตเป็นสิ่งมีชีวิตกลุ่มแรกที่วิวัฒนาการขึ้นมาบนโลกเมื่อประมาณ 3.5-3.8 พันล้านปีก่อน มีบทบาทสำคัญอย่างยิ่งต่อการกำเนิดชีวมณฑล (Biosphere) ผ่านการสังเคราะห์ด้วยแสงที่ผลิตออกซิเจนและวัฏจักรสารอาหารชีวธรณีเคมี",
+    "real_world_examples": "จุลินทรีย์ในทางเดินอาหารของมนุษย์ (Gut Microbiome) มีเซลล์มากกว่าเซลล์ร่างกายมนุษย์ถึง 1-10 เท่า และมีน้ำหนักรวมกันราว 1-2 กิโลกรัม ช่วยในการย่อยอาหาร สังเคราะห์วิตามินเค และกระตุ้นระบบภูมิคุ้มกัน",
+    "pro_tips": "ในระบบการจัดหมวดหมู่สมัยใหม่ (Three-Domain System ของ Carl Woese) คำว่า 'Kingdom Monera' ถูกยกเลิกในการจำแนกระดับสากล และแตกออกเป็น 2 โดเมนหลักคือ Bacteria และ Archaea แต่ในหลักสูตรมัธยมศึกษายังคงศึกษาร่วมกันในฐานะกลุ่มสิ่งมีชีวิตโพรแคริโอต",
+    "references": [
+      {
+        "title": "NCBI Bookshelf: Medical Microbiology (Prokaryotic Structure)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "title": "Lumen Learning: Microbiology - A Systematic Approach",
+        "url": "https://courses.lumenlearning.com/microbiology/chapter/a-systematic-approach/"
+      }
+    ],
+    "image": "slides_img/monera/slide_01.png"
+  },
+  {
+    "id": "monera-02",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 2,
+    "chapter_id": "monera-mod-1",
+    "chapter_title": "โมดูล 1: ประวัติและระบบการจัดหมวดหมู่สิ่งมีชีวิต",
+    "title": "สไลด์ 2: เส้นเวลาวิวัฒนาการของการจัดจำแนกสิ่งมีชีวิต (Classification Timeline)",
+    "subtitle": "จากระบบ 2 อาณาจักรของลินเนียส สู่ระบบ 5 อาณาจักรของวิตเทเกอร์",
+    "keywords": [
+      "Linnaeus",
+      "Ernst Haeckel",
+      "Robert Whittaker",
+      "2 Kingdoms",
+      "4 Kingdoms",
+      "5 Kingdoms"
+    ],
+    "original_content": "ประวัติการจัดหมวดหมู่สิ่งมีชีวิตตามลำดับเวลา:\n- 1758: Carolus Linnaeus จำแนกสิ่งมีชีวิตออกเป็น 2 อาณาจักร คือ พืช (Plants) และสัตว์ (Animals)\n- 1866: Ernst Haeckel เสนอหนังสือ General Morphology of Organisms เพิ่มอาณาจักร Protists และ Monera รวมเป็น 3-4 อาณาจักร\n- 1969: Robert Whittaker เสนอเพิ่มอาณาจักรที่ 5 คือ เห็ดรา (Fungi) ในต้นไม้วิวัฒนาการ (Tree of Life)",
+    "deep_explanation": "วิวัฒนาการของเกณฑ์การจัดหมวดหมู่เปลี่ยนจากลักษณะสัณฐานวิทยาภายนอก (Morphology) มาเป็นโครงสร้างระดับเซลล์ (Cellular Organization) และรูปแบบการได้รับสารอาหาร (Mode of Nutrition) ตามที่ Robert Whittaker เสนอ ซึ่งใช้เกณฑ์ 3 ประการคือ:\n1. ความซับซ้อนของเซลล์ (Prokaryote vs Eukaryote)\n2. ความซับซ้อนของโครงสร้างร่างกาย (Unicellular vs Multicellular)\n3. วิธีการได้รับอาหาร (Autotroph โดยการสังเคราะห์ด้วยแสง, Ingestion โดยการกินกลืน, Absorption โดยการหลั่งเอนไซม์ย่อยแล้วดูดซึม)",
+    "real_world_examples": "ก่อนยุคของแฮกเกิลและวิตเทเกอร์ เชื้อราถูกจัดอยู่ในกลุ่มพืชเพราะมีผนังเซลล์และเคลื่อนที่ไม่ได้ แต่ต่อมาพบว่าผนังเซลล์เป็นไคติน (Chitin) ไม่ใช่เซลลูโลส และมีการกินอาหารแบบดูดซึม (Absorptive heterotroph) จึงต้องแยกเป็นอาณาจักรฟังไจ",
+    "pro_tips": "จำลำดับปีและนักวิทยาศาสตร์: Linnaeus (1758, 2 อาณาจักร: พืช-สัตว์) -> Haeckel (1866, เพิ่ม Protista & Monera) -> Whittaker (1969, 5 อาณาจักร: เพิ่ม Fungi)",
+    "references": [
+      {
+        "title": "Lumen Learning: History of Taxonomy & Robert Whittaker",
+        "url": "https://courses.lumenlearning.com/microbiology/chapter/a-systematic-approach/"
+      },
+      {
+        "title": "Britannica: Whittaker's Five Kingdom System",
+        "url": "https://www.britannica.com/science/five-kingdom-system"
+      }
+    ],
+    "image": "slides_img/monera/slide_02.png"
+  },
+  {
+    "id": "monera-03",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 3,
+    "chapter_id": "monera-mod-1",
+    "chapter_title": "โมดูล 1: ประวัติและระบบการจัดหมวดหมู่สิ่งมีชีวิต",
+    "title": "สไลด์ 3: ระบบ 3 โดเมน (Three-Domain Classification System)",
+    "subtitle": "การปฏิวัติการจัดหมวดหมู่ด้วยชีววิทยาระดับโมเลกุล 16S rRNA โดย Carl Woese",
+    "keywords": [
+      "Carl Woese",
+      "Domain Bacteria",
+      "Domain Archaea",
+      "Domain Eukarya",
+      "16S rRNA",
+      "Phylogenetic Tree"
+    ],
+    "original_content": "Three Domain Classification system โดยแตกสายวิวัฒนาการจากบรรพบุรุษร่วม (Common Ancestor) เป็น 3 โดเมน:\n1. Bacteria (Thermotogales, Flavobacteria, Cyanobacteria, Purple bacteria, Gram-positives, Green nonsulfur bacteria)\n2. Archaea (Crenarchaeota: Thermoproteus, Pyrodictium; Euryarchaeota: Methanogens, Halophiles, T. celer)\n3. Eukarya (Diplomonads, Microsporidia, Trichomonads, Flagellates, Ciliates, Plants, Entamoebae, Slime molds, Animals, Fungi)",
+    "deep_explanation": "Carl Woese (1990) ปฏิวัติวงการอนุกรมวิธานโดยใช้การเปรียบเทียบลำดับเบสบนยีน 16S rRNA (Small subunit ribosomal RNA) ซึ่งเป็นโมเลกุลที่พบในสิ่งมีชีวิตทุกชนิดและมีอัตราการกลายพันธุ์ช้ามาก การค้นพบสำคัญคือ Archaea มีโครงสร้างระดับโมเลกุล การจำลอง DNA การถอดรหัส (Transcription) และโปรตีนฮิสโตนที่ใกล้ชิดกับ Eukarya มากกว่า Bacteria แม้ภายนอกจะดูเหมือนแบคทีเรียก็ตาม",
+    "real_world_examples": "Taq Polymerase เอนไซม์สร้างสาย DNA ที่ทนความร้อนสูงซึ่งใช้ในเทคนิค PCR (Polymerase Chain Reaction) สกัดมาจากแบคทีเรียทนร้อน Thermus aquaticus ในบ่อน้ำพุร้อนเยลโลว์สโตน",
+    "pro_tips": "ข้อสอบออกบ่อยมาก: 'สิ่งมีชีวิตกลุ่มใดมีความสัมพันธ์ทางสายวิวัฒนาการใกล้ชิดกับ Eukarya มากที่สุด?' คำตอบคือ Archaea ไม่ใช่ Bacteria!",
+    "references": [
+      {
+        "title": "ResearchGate: Three-Domain Classification System",
+        "url": "https://www.researchgate.net/figure/Three-Domain-Classification-system_fig1_274708754"
+      },
+      {
+        "title": "Woese CR et al. (PNAS 1990): Towards a natural system of organisms",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.87.12.4576"
+      }
+    ],
+    "image": "slides_img/monera/slide_03.png"
+  },
+  {
+    "id": "monera-04",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 4,
+    "chapter_id": "monera-mod-1",
+    "chapter_title": "โมดูล 1: ประวัติและระบบการจัดหมวดหมู่สิ่งมีชีวิต",
+    "title": "สไลด์ 4: ตารางเปรียบเทียบการจำแนก 6 อาณาจักร (6-Kingdom Comparison Matrix)",
+    "subtitle": "วิเคราะห์ความแตกต่างของเซลล์ ผนังเซลล์ คลอโรพลาสต์ และโภชนาการ",
+    "keywords": [
+      "6 Kingdoms",
+      "Eubacteria",
+      "Archaebacteria",
+      "Protista",
+      "Fungi",
+      "Plantae",
+      "Animalia",
+      "Peptidoglycan"
+    ],
+    "original_content": "ตารางเปรียบเทียบ 6 อาณาจักร:\n- Eubacteria: Prokaryotic, ผนังเซลล์มี Peptidoglycan, เซลล์เดียว, Autotroph หรือ Heterotroph (เช่น Streptococcus, E. coli)\n- Archaebacteria: Prokaryotic, ผนังเซลล์ไม่มี Peptidoglycan (เป็น pseudopeptidoglycan/protein), เซลล์เดียว, Autotroph หรือ Heterotroph (เช่น Methanogens, Halophiles)\n- Protista: Eukaryotic, ผนังเซลล์มีเซลลูโลสในบางชนิด/บางชนิดมีคลอโรพลาสต์, ส่วนใหญ่เซลล์เดียว/บางชนิดเป็นโคโลนีหรือหลายเซลล์, Autotroph หรือ Heterotroph (เช่น Amoeba, Paramecium, Slime Molds, Giant Kelp)\n- Fungi: Eukaryotic, ผนังเซลล์มี Chitin, ส่วนใหญ่หลายเซลล์ (ยกเว้นยีสต์), Heterotroph (Absorptive) (เช่น เห็ด, ยีสต์)\n- Plantae: Eukaryotic, ผนังเซลล์มี Cellulose มี Chloroplasts, หลายเซลล์, Autotroph (เช่น มอส, เฟิร์น, พืชดอก)\n- Animalia: Eukaryotic, ไม่มีผนังเซลล์ ไม่มีคลอโรพลาสต์, หลายเซลล์, Heterotroph (Ingestive) (เช่น ฟองน้ำ, หนอน, แมลง, ปลา, สัตว์เลี้ยงลูกด้วยนม)",
+    "deep_explanation": "ความแตกต่างสำคัญระดับชีวเคมีระหว่าง Eubacteria และ Archaebacteria คือ ผนังเซลล์ของ Eubacteria มี Peptidoglycan (Murein) ซึ่งเป็นเป้าหมายของยาปฏิชีวนะกลุ่ม Penicillin แต่ Archaebacteria ไม่มี จึงทนทานต่อ Penicillin นอกจากนี้ เยื่อหุ้มเซลล์ของ Archaebacteria มีพันธะอีเทอร์ (Ether linkage) และโซ่ไฮโดรคาร์บอนแบบแตกกิ่ง (Branched isoprenoid chains) ช่วยให้เยื่อหุ้มเซลล์คงตัวในอุณหภูมิและสภาพความเป็นกรดด่างสุดขั้ว (Extremophiles)",
+    "real_world_examples": "แบคทีเรียกลุ่ม Methanogen ในกระเพาะรูเมนของวัวและในบ่อบำบัดน้ำเสีย สามารถผลิตก๊าซชีวภาพมีเทน (CH4) นำมาใช้เป็นพลังงานทดแทนได้",
+    "pro_tips": "ตารางเปรียบเทียบนี้คือข้อสอบ 100%! จุดเน้น: 1) สิ่งมีชีวิตกลุ่มเดียวที่มี Peptidoglycan คือ Eubacteria, 2) สิ่งมีชีวิตที่ไม่มีผนังเซลล์เลยคือ Animalia และโพรโทซัวบางชนิด, 3) Chitin พบใน Fungi และโครงร่างแข็งของแมลง (Exoskeleton)",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Structure of Prokaryotes",
+        "url": "https://openstax.org/books/biology-2e/pages/22-1-prokaryotic-diversity"
+      },
+      {
+        "title": "Six Kingdoms Digital Portfolio",
+        "url": "https://6kingdomsoflifedigitalportfolio.weebly.com/analysis--conclusion-questions.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_04.png"
+  },
+  {
+    "id": "monera-05",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 5,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 5: ลักษณะพื้นฐานของสิ่งมีชีวิตโพรแคริโอต (Prokaryotes Characteristics)",
+    "subtitle": "เซลล์ไร้เยื่อหุ้มนิวเคลียสและ 2 สายวิวัฒนาการหลัก Archaebacteria และ Eubacteria",
+    "keywords": [
+      "Prokaryotes",
+      "No nucleus",
+      "No chloroplasts",
+      "No mitochondria",
+      "Archaebacteria",
+      "Eubacteria"
+    ],
+    "original_content": "Kingdom Monera - PROKARYOTES\n- No nucleus (ไม่มีเยื่อหุ้มนิวเคลียส มีสารพันธุกรรมอยู่ในบริเวณนิวคลีออยด์)\n- No chloroplasts (ไม่มีคลอโรพลาสต์ แต่สังเคราะห์ด้วยแสงได้ในไซยาโนแบคทีเรียโดยใช้ไทลาคอยด์ในไซโทพลาสซึม)\n- No mitochondria (ไม่มีไมโทคอนเดรีย ใช้เยื่อหุ้มเซลล์ในการสร้าง ATP)\n- Two major clades of bacteria:\n  1. Archaebacteria\n  2. Eubacteria ได้แก่ Cyanobacteria (สาหร่ายสีเขียวแกมน้ำเงิน), Gram negative (-) bacteria, Gram positive (+) bacteria",
+    "deep_explanation": "แม้โพรแคริโอตจะไม่มีออร์แกเนลล์ที่มีเยื่อหุ้ม (Membrane-bound organelles) เช่น ไมโทคอนเดรียหรือคลอโรพลาสต์ แต่พวกมันดำเนินกระบวนการระดับเซลล์ที่ซับซ้อนได้โดยใช้เยื่อหุ้มเซลล์ (Plasma membrane) ซึ่งมีเอนไซม์ในระบบถ่ายทอดอิเล็กตรอน (Electron Transport Chain) และ ATP synthase ฝังตัวอยู่ ตามทฤษฎี Endosymbiotic Theory ไมโทคอนเดรียและคลอโรพลาสต์ในเซลล์ยูแคริโอตก็วิวัฒนาการมาจากแบคทีเรียกลุ่ม Proteobacteria และ Cyanobacteria ที่เข้ามาอาศัยอยู่ภายในเซลล์บรรพบุรุษ",
+    "real_world_examples": "ยาปฏิชีวนะ Erythromycin และ Tetracycline ออกฤทธิ์ยับยั้งการทำงานของไรโบโซมชนิด 70S ของแบคทีเรีย โดยไม่รบกวนไรโบโซมชนิด 80S ของเซลล์มนุษย์ ทำให้ฆ่าเชื้อแบคทีเรียได้โดยปลอดภัยต่อผู้ป่วย",
+    "pro_tips": "จำให้แม่น: ไรโบโซมของโพรแคริโอตคือ 70S (หน่วยย่อย 50S + 30S) ส่วนยูแคริโอตในไซโทพลาสซึมคือ 80S (60S + 40S)",
+    "references": [
+      {
+        "title": "Nature Education: Prokaryotes and the Origin of Eukaryotes",
+        "url": "https://www.nature.com/scitable/topicpage/the-origin-of-mitochondria-14232356/"
+      },
+      {
+        "title": "NCBI Bookshelf: Structure and Classification of Bacteria",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      }
+    ],
+    "image": "slides_img/monera/slide_05.png"
+  },
+  {
+    "id": "monera-06",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 6,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 6: ขนาด แหล่งที่พบ และรูปร่างพื้นฐาน 3 แบบของแบคทีเรีย",
+    "subtitle": "ทรงกลม (Coccus) รูปท่อน (Bacillus) และรูปเกลียว (Spiral: Vibrio, Spirillum, Spirochete)",
+    "keywords": [
+      "Eubacteria",
+      "Coccus",
+      "Bacillus",
+      "Spiral",
+      "Vibrio",
+      "Spirillum",
+      "Spirochete"
+    ],
+    "original_content": "Eubacteria:\n1. ขนาดเซลล์: เล็กมาก ยาวประมาณ 2-10 ไมโครเมตร (μm) และกว้างเพียง 0.2-2.0 ไมโครเมตร\n2. แหล่งที่พบ: แทบทุกแห่งในโลก ในดิน ในน้ำ ในอากาศ น้ำพุร้อน เขตหิมะ ทะเลลึก ทางเดินอาหารสิ่งมีชีวิต\n3. รูปร่างพื้นฐานของเซลล์แบคทีเรียมีอยู่ 3 แบบคือ:\n- รูปร่างแบบกลม (Coccus หรือ Spherical)\n- รูปร่างแบบท่อน (Bacillus หรือ Rod) บางชนิดเป็นก้ำกึ่งทรงรีเรียก Coccobacillus\n- รูปร่างแบบเกลียว (Spiral) จำแนกย่อยเป็น:\n  • ท่อนโค้ง หรือครึ่งเกลียว (Curve หรือ Vibrio เช่น คล้ายเครื่องหมายจุลภาค)\n  • เกลียวห่าง ๆ และผนังเซลล์แข็ง (Spirillum)\n  • เกลียวถี่มาก ผนังเซลล์ยืดหยุ่น (Spirochete)",
+    "deep_explanation": "อัตราส่วนพื้นที่ผิวต่อปริมาตร (Surface-to-volume ratio: S/V) ของแบคทีเรียมีค่าสูงมากเนื่องจากมีขนาดเล็ก ทำให้การแลกเปลี่ยนสารอาหาร ของเสีย และก๊าซผ่านเยื่อหุ้มเซลล์เกิดขึ้นได้อย่างรวดเร็วโดยการแพร่ ไม่จำเป็นต้องมีระบบลำเลียงภายในเซลล์ รูปร่างของเซลล์ถูกกำหนดโดยผนังเซลล์ Peptidoglycan และโปรตีนโครงร่างเซลล์ของโพรแคริโอต เช่น FtsZ และ MreB",
+    "real_world_examples": "Vibrio cholerae แบคทีเรียรูปท่อนโค้งเป็นสาเหตุของโรคอหิวาตกโรค ระบาดผ่านน้ำดื่มและอาหารที่ไม่สะอาด ทำให้ท้องร่วงรุนแรง",
+    "pro_tips": "แยกให้ออกระหว่าง Spirillum กับ Spirochete: Spirillum เป็นเกลียวคลื่นห่าง ผนังเซลล์แข็ง เคลื่อนที่ด้วยแฟลกเจลลาภายนอก; Spirochete เป็นเกลียวคลื่นถี่ ผนังเซลล์ยืดหยุ่น เคลื่อนที่ด้วยเส้นใยแกน (Axial filament / Endoflagella) ภายในเซลล์แบบควงสว่าน",
+    "references": [
+      {
+        "title": "CDC: Cholera (Vibrio cholerae)",
+        "url": "https://www.cdc.gov/cholera/index.html"
+      },
+      {
+        "title": "MicrobeNotes: Bacterial Morphology and Shapes",
+        "url": "https://microbenotes.com/bacterial-morphology-and-shapes/"
+      }
+    ],
+    "image": "slides_img/monera/slide_06.png"
+  },
+  {
+    "id": "monera-07",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 7,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 7: การจัดเรียงตัวของเซลล์แบคทีเรีย (Bacterial Cell Arrangements)",
+    "subtitle": "การแบ่งตัวตามระนาบสู่รูปคู่ (Diplo-), สายโซ่ (Strepto-) และพวงองุ่น (Staphylo-)",
+    "keywords": [
+      "Diplococci",
+      "Streptococci",
+      "Staphylococci",
+      "Sarcina",
+      "E. coli",
+      "Staphylococcus aureus"
+    ],
+    "original_content": "การเรียงตัวของเซลล์ทำให้เกิดลักษณะเฉพาะ โดยเฉพาะแบคทีเรียทรงกลม (Coccus):\n- เซลล์ทรงกลม 2 เซลล์เรียงต่อกัน: Diplococci (เช่น Neisseria gonorrhoeae, Streptococcus pneumoniae)\n- เซลล์หลายเซลล์เรียงต่อกันเป็นลูกโซ่หรือสายยาว: Streptococci (เช่น Streptococcus mutans สาเหตุฟันผุ)\n- เซลล์เรียงกันเป็นกลุ่มก้อนคล้ายพวงองุ่น: Staphylococci (เช่น Staphylococcus aureus ก่อหนองและฝี)\n- เซลล์ 8 เซลล์ เรียงเป็นลูกบาศก์: Sarcina\nตัวอย่างที่พบบ่อย:\n- Staphylococcus: เซลล์กลมรวมกลุ่มคล้ายพวงองุ่น\n- E. coli (Escherichia coli): เซลล์รูปแท่ง (Bacillus)\n- Streptococcus: เซลล์กลมเรียงต่อกันเป็นสาย",
+    "deep_explanation": "รูปแบบการเรียงตัวของเซลล์ขึ้นอยู่กับ 'ระนาบของการแบ่งเซลล์' (Planes of division):\n1. ถ้าแบ่งในระนาบเดียวแล้วแยกออกจากกัน = Single coccus\n2. ถ้าแบ่งในระนาบเดียวแล้วติดกันเป็นคู่ = Diplococci\n3. ถ้าแบ่งในระนาบเดียวอย่างต่อเนื่องไม่แยกจากกัน = Streptococci (โซ่ยาว)\n4. ถ้าแบ่งใน 2 ระนาบตั้งฉากกัน = Tetrad (กลุ่มละ 4 เซลล์)\n5. ถ้าแบ่งใน 3 ระนาบตั้งฉากกัน = Sarcina (ลูกบาศก์ 8 เซลล์)\n6. ถ้าแบ่งในหลายระนาบแบบสุ่มไม่แน่นอน = Staphylococci (พวงองุ่น)",
+    "real_world_examples": "Staphylococcus aureus ดื้อยาเมทิซิลลิน (MRSA: Methicillin-Resistant S. aureus) เป็นเชื้อดื้อยาที่เป็นปัญหาใหญ่ในโรงพยาบาลทั่วโลก ก่อให้เกิดการติดเชื้อในกระแสเลือดและแผลผ่าตัด",
+    "pro_tips": "เทคนิคการจำ: 'Strepto-' แปลว่า 'สายโซ่' (Chain) นึกถึงสายสร้อยคอ; 'Staphylo-' แปลว่า 'พวงองุ่น' (Cluster of grapes) สระอาเหมือนพวงองุ่นห้อยลงมา",
+    "references": [
+      {
+        "title": "Microbiology Online: Cell Morphology & Arrangements",
+        "url": "https://microbiologyonline.org/about-microbiology/introducing-microbes/bacteria"
+      },
+      {
+        "title": "CDC: Methicillin-resistant Staphylococcus aureus (MRSA)",
+        "url": "https://www.cdc.gov/mrsa/index.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_07.png"
+  },
+  {
+    "id": "monera-08",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 8,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 8: โครงสร้างภายในและส่วนห่อหุ้มเซลล์ (Ribosome, Nucleoid, Cell Wall, Capsule)",
+    "subtitle": "ไรโบโซม 70S, สารพันธุกรรมวงกลม, ผนังเซลล์เพปทิโดไกลแคน และแคปซูลป้องกันตัว",
+    "keywords": [
+      "70S Ribosome",
+      "Nucleoid",
+      "Peptidoglycan",
+      "Cell wall",
+      "Capsule",
+      "Virulence factor"
+    ],
+    "original_content": "4. โครงสร้างของแบคทีเรียที่แตกต่างจากเซลล์อื่นๆ:\n4.1 Ribosome ชนิด 70S (ประกอบด้วยหน่วยย่อย 50S + 30S) และสารพันธุกรรมบริเวณ Nucleoid ซึ่งเป็นที่อยู่ของโครโมโซมหลัก (Bacterial chromosome) ลักษณะเป็น single circular double-stranded DNA กระจายอยู่ในไซโทพลาสซึมโดยไม่มีเยื่อหุ้ม นอกจากนี้ยังอาจพบ DNA วงกลมขนาดเล็กเรียก Plasmid\n4.2 ผนังเซลล์ (Cell wall): ทำหน้าที่คงรูปร่างของเซลล์ ป้องกันเซลล์แตกจากแรงดันออสโมซิส ประกอบด้วยสาร Peptidoglycan\n4.3 แคปซูล (Capsule): อยู่ภายนอกผนังเซลล์ สารประกอบส่วนใหญ่เป็นพอลิแซ็กคาไรด์ ช่วยให้ทนต่อสภาพแวดล้อมแห้งแล้ง ทนต่อการทำลาย (Phagocytosis) ของเม็ดเลือดขาว พบในบางชนิดเท่านั้น **แบคทีเรียที่มีแคปซูลมักก่อโรครุนแรง",
+    "deep_explanation": "Peptidoglycan (Murein) เป็นพอลิเมอร์ร่างแหที่ประกอบด้วยน้ำตาลดัดแปลงสลับกัน 2 ชนิดคือ NAG (N-acetylglucosamine) และ NAM (N-acetylmuramic acid) เชื่อมต่อกันด้วยพันธะเบตา-1,4-ไกลโคซิดิก และมีสายเพปไทด์สั้นเชื่อมขวาง (Tetrapeptide cross-link) ยาเพนิซิลลินออกฤทธิ์ยับยั้งเอนไซม์ Transpeptidase ที่ทำหน้าที่เชื่อมพันธะเพปไทด์ ทำให้ผนังเซลล์ไม่สมบูรณ์และเซลล์แตกเมื่ออยู่ในสารละลายไฮโพโทนิก",
+    "real_world_examples": "การทดลองอันโด่งดังของ Frederick Griffith ในปี 1928 เรื่อง Transformation: ใช้ Streptococcus pneumoniae สายพันธุ์ S (Smooth มีแคปซูล ก่อโรครุนแรง ทำให้หนูตาย) และสายพันธุ์ R (Rough ไม่มีแคปซูล ไม่ก่อโรค หนูกินแล้วรอด)",
+    "pro_tips": "ระวังข้อสอบลวง: 'แบคทีเรียทุกชนิดมีแคปซูลใช่หรือไม่?' -> ไม่ใช่! มีเฉพาะบางชนิด และสายพันธุ์ที่มีแคปซูลมักเป็นสายพันธุ์ที่ทำให้เกิดโรครุนแรง (High virulence)",
+    "references": [
+      {
+        "title": "OpenStax Microbiology: Unique Characteristics of Prokaryotic Cells",
+        "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells"
+      },
+      {
+        "title": "PubMed: The Bacterial Cell Wall and Peptidoglycan Architecture",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18413809/"
+      }
+    ],
+    "image": "slides_img/monera/slide_08.png"
+  },
+  {
+    "id": "monera-09",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 9,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 9: รยางค์ภายนอกและเยื่อหุ้มเซลล์ (Pili, Mesosome, Flagella)",
+    "subtitle": "พิลีสำหรับยึดเกาะ คอนจูเกชัน เมโซโซม และกลไกใบพัดหมุนของแฟลกเจลลา",
+    "keywords": [
+      "Pili",
+      "Sex pilus",
+      "Conjugation",
+      "Mesosome",
+      "Flagella",
+      "Flagellin",
+      "Basal body",
+      "Hook",
+      "Filament"
+    ],
+    "original_content": "4.4 Pili (Pilus) หรือ Fimbriae: ลักษณะเป็นขนคล้ายแฟลกเจลลาแต่มีขนาดเล็กกว่ามาก เป็นท่อกลวงทำจากโปรตีน Pilin ทำหน้าที่ช่วยเกาะยึดติดกับผิววัสดุหรือเซลล์โฮสต์ และมี Sex pilus ที่ใช้ในการสืบพันธุ์แบบถ่ายโอนสารพันธุกรรม (Conjugation)\n4.5 Mesosome: เป็นส่วนของเยื่อหุ้มเซลล์ที่ยื่นเว้าพับเข้าไปในไซโทพลาสซึม พบบริเวณที่จะมีการแบ่งเซลล์และช่วยในการจำลอง DNA และการหายใจระดับเซลล์\n4.6 Flagella: โครงสร้างใช้ในการเคลื่อนที่ ประกอบด้วยโปรตีน Flagellin เป็นเส้นใยเดี่ยว ต่างจากแฟลกเจลลาของยูแคริโอตที่เป็นโครงสร้างไมโครทูบูลแบบ 9+2 มีตั้งแต่ 1 เส้นจนถึงรอบตัว ประกอบด้วย 3 ส่วนคือ Basal body (ฐานฝังในเยื่อหุ้ม), Hook (ข้อต่อโค้ง) และ Filament (เส้นใยยาว)",
+    "deep_explanation": "แฟลกเจลลาของแบคทีเรียทำงานคล้าย 'ใบพัดเรือหมุนรอบแกน' ขับเคลื่อนด้วยแรงขับเคลื่อนโปรตอน (Proton Motive Force: H+ gradient) หมุนได้เร็วถึง 100,000 รอบต่อนาที แตกต่างจากแฟลกเจลลาของยูแคริโอต (เช่น อสุจิ) ที่เคลื่อนไหวแบบสะบัดพัดโบก (Whip-like / Bending) ขับเคลื่อนด้วยพลังงาน ATP และโปรตีนไดนีน (Dynein)",
+    "real_world_examples": "Neisseria gonorrhoeae ใช้ Pili เกาะติดกับเยื่อบุผิวทางเดินปัสสาวะอย่างเหนียวแน่น หากเชื้อไม่มี Pili เม็ดเลือดขาวและกระแสน้ำปัสสาวะจะชะล้างออกไปได้ง่ายและไม่ก่อโรค",
+    "pro_tips": "เปรียบเทียบแฟลกเจลลา: แบคทีเรีย = หมุนคล้ายใบพัด (Rotary motor), โปรตีนแฟลเจลลิน (Flagellin), ไม่มีเยื่อหุ้ม; ยูแคริโอต = พัดโบกไปมา (Bending), โปรตีนทูบูลิน (Tubulin 9+2), มีเยื่อหุ้มเซลล์หุ้มรอบ",
+    "references": [
+      {
+        "title": "NCBI Bookshelf: Bacterial Motility and Chemotaxis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "title": "Cell: The Bacterial Flagellar Motor",
+        "url": "https://www.cell.com/trends/microbiology/fulltext/S0966-842X(06)00155-2"
+      }
+    ],
+    "image": "slides_img/monera/slide_09.png"
+  },
+  {
+    "id": "monera-10",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 10,
+    "chapter_id": "monera-mod-2",
+    "chapter_title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+    "title": "สไลด์ 10: พลาสมิดและเอนโดสปอร์ (Plasmid & Endospore)",
+    "subtitle": "DNA วงกลมส่งต่อยีนดื้อยา และโครงสร้างทนสภาวะวิกฤตที่ไม่ได้เกิดเพื่อการสืบพันธุ์",
+    "keywords": [
+      "Plasmid",
+      "R-plasmid",
+      "Endospore",
+      "Bacillus",
+      "Clostridium",
+      "Dipicolinic acid",
+      "Survival structure"
+    ],
+    "original_content": "4.7 Plasmid:\n- เป็น DNA นอกโครโมโซมของแบคทีเรีย (Extrachromosomal DNA) มีลักษณะเป็นวงกลมเกลียวคู่ขนาดเล็ก\n- สามารถจำลองตัวเองได้เป็นอิสระ (Autonomously replicating) และถ่ายทอดไปยังแบคทีเรียอื่นได้\n- มียีนพิเศษ เช่น ยีนควบคุมการสร้าง Sex pilus (F-plasmid) และยีนต้านทานยาปฏิชีวนะ (R-plasmid)\n4.8 Endospore:\n- พบในแบคทีเรียบางชนิด โดยเฉพาะจีนัส Bacillus sp. และ Clostridium sp.\n- ช่วยให้ทนทานต่อสภาพแวดล้อมเลวร้าย เช่น ความร้อนสูง สารเคมี รังสี UV ความแห้งแล้ง\n- สร้างได้เพียง 1 สปอร์ต่อ 1 เซลล์ จึง**ไม่ถือว่าเป็นการสืบพันธุ์ แต่เป็นการปรับตัวเพื่อการดำรงชีพ** (Survival structure)",
+    "deep_explanation": "ความทนทานอย่างยิ่งยวดของเอนโดสปอร์เกิดจาก: 1) เปลือกหุ้มหนาหลายชั้น (Keratin-like protein coat), 2) สภาพขาดน้ำอย่างมากในแกนกลางเซลล์ (Dehydrated core), และ 3) การสะสมของสารประกอบแคลเซียมไดพิโคลิเนต (Calcium dipicolinate / Dipicolinic acid) ร่วมกับโปรตีน SASPs (Small acid-soluble spore proteins) ซึ่งเข้าจับและปกป้องโครงสร้าง DNA ไม่ให้ถูกทำลายด้วยความร้อน การฆ่าเอนโดสปอร์ต้องใช้ความร้อนชื้นภายใต้ความดันในหม้อนึ่งความดันไอ (Autoclave) ที่ 121°C ความดัน 15 ปอนด์ต่อตารางนิ้ว เป็นเวลาอย่างน้อย 15-20 นาที",
+    "real_world_examples": "Clostridium botulinum ผลิตเอนโดสปอร์ที่ปนเปื้อนในอาหารกระป๋องที่ฆ่าเชื้อไม่สมบูรณ์ และสร้างสารพิษโบทูลินั่ม (Botulinum toxin) ซึ่งเป็นสารพิษต่อระบบประสาทที่รุนแรงที่สุดในโลก (ปัจจุบันนำมาเจือจางใช้เป็น Botox)",
+    "pro_tips": "ข้อสอบถามประจำ: 'โครงสร้างใดของแบคทีเรียไม่ใช่การสืบพันธุ์แต่ช่วยในการอยู่รอด?' คำตอบคือ Endospore! เพราะ 1 เซลล์สร้างได้เพียง 1 สปอร์ จำนวนเซลล์ไม่ได้เพิ่มขึ้น",
+    "references": [
+      {
+        "title": "CDC: Anthrax and Bacillus anthracis Spores",
+        "url": "https://www.cdc.gov/anthrax/index.html"
+      },
+      {
+        "title": "OpenStax Microbiology: Bacterial Endospores",
+        "url": "https://openstax.org/books/microbiology/pages/3-3-unique-characteristics-of-prokaryotic-cells"
+      }
+    ],
+    "image": "slides_img/monera/slide_10.png"
+  },
+  {
+    "id": "monera-11",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 11,
+    "chapter_id": "monera-mod-3",
+    "chapter_title": "โมดูล 3: สรีรวิทยา การสืบพันธุ์ และเกณฑ์การจำแนกแบคทีเรีย",
+    "title": "สไลด์ 11: การสืบพันธุ์และการแลกเปลี่ยนสารพันธุกรรม (Reproduction & Genetic Recombination)",
+    "subtitle": "Binary Fission และ 3 กลไกการถ่ายโอนยีนแนวนอน (Conjugation, Transformation, Transduction)",
+    "keywords": [
+      "Binary Fission",
+      "Conjugation",
+      "Transformation",
+      "Transduction",
+      "Bacteriophage",
+      "HGT"
+    ],
+    "original_content": "5. การสืบพันธุ์ของแบคทีเรีย:\n- ส่วนใหญ่สืบพันธุ์แบบไม่อาศัยเพศ เรียกว่า Transverse Binary Fission (แบ่งตัวตามขวางเป็น 2 เซลล์ที่มีสารพันธุกรรมเหมือนเดิม)\n- แบคทีเรียบางชนิดมีการแลกเปลี่ยนสารพันธุกรรม (Horizontal Gene Transfer: HGT) 3 รูปแบบคือ:\n  1. Conjugation: การถ่ายทอดยีนจากแบคทีเรียเซลล์หนึ่งไปยังอีกเซลล์หนึ่งโดยตรงผ่านการจับคู่สัมผัสกันด้วย Sex pilus\n  2. Transformation: การรับ DNA ตัวเปล่า (Naked DNA หรือ Free DNA) จากสิ่งแวดล้อมที่หลุดออกมาจากแบคทีเรียที่ตายแล้วเข้าสู่เซลล์\n  3. Transduction: การถ่ายทอดยีนจากแบคทีเรียเซลล์หนึ่งไปยังอีกเซลล์หนึ่งโดยอาศัยไวรัสของแบคทีเรีย (Bacteriophage)",
+    "deep_explanation": "การสืบพันธุ์แบบ Binary fission ทำให้แบคทีเรียเพิ่มจำนวนแบบทวีคูณ (Exponential growth, 2^n) ภายใต้สภาวะเหมาะสม E. coli สามารถแบ่งตัวได้ทุก 20 นาที อย่างไรก็ตาม การแบ่งตัวแบบนี้ไม่ก่อให้เกิดความหลากหลายทางพันธุกรรม แบคทีเรียจึงพัฒนาการถ่ายโอนยีนแนวนอน (Horizontal Gene Transfer: HGT) ทั้ง 3 แบบ เพื่อแลกเปลี่ยนยีนต้านทานยาปฏิชีวนะและยีนก่อโรคข้ามสายพันธุ์ได้อย่างรวดเร็ว",
+    "real_world_examples": "วิกฤตการณ์ 'Superbugs' เชื้อแบคทีเรียดื้อยาหลายขนาน (MDR: Multi-Drug Resistant Bacteria) ในโรงพยาบาล เกิดจากการส่งต่อยีนดื้อยาผ่านพลาสมิดด้วยวิธี Conjugation เป็นหลัก",
+    "pro_tips": "จำความต่าง 3 รูปแบบ HGT:\n- Conjugation = สัมผัสเซลล์โดยตรงผ่านสะพาน Sex pilus\n- Transformation = ดูดกลืน Naked DNA จากน้ำ/สิ่งแวดล้อม\n- Transduction = ไวรัส Bacteriophage เป็นตัวพาหะขนส่ง DNA",
+    "references": [
+      {
+        "title": "Nature Education: Bacterial DNA Transfer - Transformation, Transduction, Conjugation",
+        "url": "https://www.nature.com/scitable/topicpage/genetic-recombination-in-bacteria-14227092/"
+      },
+      {
+        "title": "ASM: Horizontal Gene Transfer Mechanisms",
+        "url": "https://asm.org/articles/2021/september/horizontal-gene-transfer-in-bacteria"
+      }
+    ],
+    "image": "slides_img/monera/slide_11.png"
+  },
+  {
+    "id": "monera-12",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 12,
+    "chapter_id": "monera-mod-3",
+    "chapter_title": "โมดูล 3: สรีรวิทยา การสืบพันธุ์ และเกณฑ์การจำแนกแบคทีเรีย",
+    "title": "สไลด์ 12: เกณฑ์ 4 ประการในการจำแนกแบคทีเรีย (Bacterial Classification Criteria)",
+    "subtitle": "สัณฐานวิทยา, แหล่งอาหาร, การติดสีย้อมแกรม และความต้องการออกซิเจน",
+    "keywords": [
+      "Morphology",
+      "Autotroph",
+      "Heterotroph",
+      "Gram stain",
+      "Aerobic",
+      "Anaerobic",
+      "Facultative"
+    ],
+    "original_content": "6. การจำแนก Bacteria อาศัยลักษณะดังนี้:\n1. สัณฐานวิทยา (Morphology): รูปร่างกลม ท่อน เกลียว\n2. ตามสารอาหารที่ได้รับ:\n  - Autotroph: สร้างอาหารเองได้ ได้แก่ Photoautotroph (ใช้ CO2, แสง) และ Chemoautotroph (ใช้สารอนินทรีย์ H2S, NH3, Fe2+)\n  - Heterotroph: สร้างอาหารเองไม่ได้ ได้แก่ Photoheterotroph และ Chemoheterotroph\n3. การติดสีของผนังเซลล์ (Gram stain):\n  - Gram positive (+): ติดสีย้อมคริสตัลไวโอเลต (สีม่วง) ผนังเซลล์มี Peptidoglycan หนาหลายชั้น\n  - Gram negative (-): ล้างสีม่วงออกแล้วติดสีคู่ย้อม Safranin (สีชมพู/แดง) ผนังเซลล์มี Peptidoglycan บางและมีชั้น Outer membrane (LPS)\n4. ความต้องการออกซิเจนในการหายใจ:\n  - Aerobic bacteria: ต้องการออกซิเจนในการดำรงชีวิต\n  - Facultative anaerobe: อยู่ได้ทั้งมีและไม่มีออกซิเจน\n  - Microaerophilic bacteria: ต้องการออกซิเจนในปริมาณน้อย (2-10%)\n  - Anaerobic bacteria: ไม่ต้องการออกซิเจน (อาจตายได้หากสัมผัสออกซิเจน)",
+    "deep_explanation": "เทคนิคการย้อมสีแกรม (Gram staining คิดค้นโดย Christian Gram ปี 1884) เป็นเทคนิคพื้นฐานที่สำคัญที่สุดในจุลชีววิทยาการแพทย์: แบคทีเรียแกรมบวกมีชั้น Peptidoglycan หนาถึง 20-80 นาโนเมตร จึงกักเก็บผลึกคริสตัลไวโอเลต-ไอโอดีนไว้ได้แม้ถูกล้างด้วยแอลกอฮอล์ ในขณะที่แบคทีเรียแกรมลบมี Peptidoglycan หนาเพียง 2-7 นาโนเมตร และมีเยื่อหุ้มชั้นนอก (Outer membrane) ที่มีลิโพพอลิแซ็กคาไรด์ (LPS / Endotoxin) ซึ่งถูกแอลกอฮอล์ชะล้างไขมันออก ทำให้ผลึกสีม่วงหลุดออก และติดสีซาฟรานินเป็นสีชมพูแดง",
+    "real_world_examples": "Clostridium tetani (เชื้อบาดทะยัก) เป็น Obligate anaerobe จะเจริญเติบโตได้ดีในบาดแผลลึกที่ไม่มีอากาศ (เช่น แผลตะปูตำลึก) และสร้างสารพิษ Tetanospasmin ทำให้กล้ามเนื้อเกร็งกระตุก",
+    "pro_tips": "จำสีแกรมให้แม่น: Gram Positive = สีม่วง (Purple / Positive ขึ้นต้นด้วยตัว P เหมือนกัน) ผนังหนา; Gram Negative = สีชมพูแดง (Pink / Red) ผนังบางมีเยื่อหุ้มชั้นนอก",
+    "references": [
+      {
+        "title": "CDC: Gram Staining Principles and Protocol",
+        "url": "https://www.cdc.gov/labtraining/courses/gram-stain/index.html"
+      },
+      {
+        "title": "MicrobeNotes: Gram Staining Principle, Procedure, and Results",
+        "url": "https://microbenotes.com/gram-staining-principle-procedure-results/"
+      }
+    ],
+    "image": "slides_img/monera/slide_12.png"
+  },
+  {
+    "id": "monera-13",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 13,
+    "chapter_id": "monera-mod-4",
+    "chapter_title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+    "title": "สไลด์ 13: แบคทีเรียกรดแลกติกและประโยชน์ทั่วไปของแบคทีเรีย",
+    "subtitle": "อาหารหมักพื้นบ้าน การแพทย์ ผลิตยาปฏิชีวนะ และเทคโนโลยีชีวภาพ",
+    "keywords": [
+      "Lactic Acid Bacteria",
+      "Lactobacillus",
+      "Streptomyces",
+      "Fermentation",
+      "Antibiotics",
+      "Biotechnology"
+    ],
+    "original_content": "แบคทีเรียที่สร้างกรดแลกติก (Lactic Acid Bacteria: LAB):\n- ได้แก่ Lactobacillus sp., Streptococcus sp., Lactococcus sp., และ Pediococcus sp.\n- เป็นแบคทีเรียแกรมบวกที่หมักน้ำตาลให้เป็นกรดแลกติก ทำให้อาหารมีรสเปรี้ยวและช่วยยับยั้งจุลินทรีย์ก่อโรค\n- ผลิตภัณฑ์นมหมัก: โยเกิร์ต (Yogurt), นมเปรี้ยว, เนยแข็ง (Cheese)\n- ผลิตภัณฑ์หมักจากเนื้อสัตว์: แหนม, ไส้กรอกเปรี้ยว, ซาลามี (Salami)\n- ผลิตภัณฑ์หมักจากผักและผลไม้: ผักดอง, กิมจิ (Kimchi), แตงดอง (Pickle), ซาวเคราต์ (Sauerkraut)\n7. ประโยชน์ของแบคทีเรีย:\n1. ทางการแพทย์: ผลิตยาปฏิชีวนะ เช่น Streptomyces sp. ใช้ผลิตยาสเตรปโตมัยซิน (Streptomycin), เตตราไซคลิน (Tetracycline)\n2. เทคโนโลยีชีวภาพ: ใช้พันธุวิศวกรรมตัดต่อยีนในแบคทีเรียเพื่อผลิตอินซูลิน ฮอร์โมนการเจริญเติบโต\n3. นิเวศวิทยา: ย่อยสลายซากสิ่งมีชีวิต (Decomposers) หมุนเวียนแร่ธาตุเป็นปุ๋ยแก่พืช\n4. อุตสาหกรรม: ผลิตอาหารหมัก อุตสาหกรรมฟอกหนัง",
+    "deep_explanation": "กรดแลกติกทำให้ค่า pH ของอาหารลดลงต่ำกว่า 4.5 ซึ่งสภาพกรดนี้ทำให้โปรตีนในนม (เคซีน) ตกตะกอนเป็นลิ่มข้นหนืดเกิดเป็นโยเกิร์ต และยังยับยั้งการเจริญเติบโตของแบคทีเรียก่อโรคและแบคทีเรียที่ทำให้อาหารเน่าเสีย จึงเป็นเทคนิคการถนอมอาหารตามธรรมชาติที่มนุษย์ใช้มานับพันปี ในขณะที่แบคทีเรียในกลุ่ม Actinomycetes โดยเฉพาะสกุล Streptomyces ในดิน เป็นแหล่งกำเนิดยาปฏิชีวนะธรรมชาติมากกว่า 50% ที่มนุษย์ใช้อยู่ในปัจจุบัน",
+    "real_world_examples": "การผลิตฮิวแมนอินซูลิน (Recombinant Human Insulin) ในทางการแพทย์ ใช้เทคนิคพันธุวิศวกรรมสอดแทรกยีนสร้างอินซูลินของมนุษย์เข้าไปในพลาสมิดของ E. coli ทำให้ผู้ป่วยโรคเบาหวานมีอินซูลินบริสุทธิ์ใช้โดยไม่ต้องสกัดจากตับอ่อนหมูหรือวัว",
+    "pro_tips": "จำชื่อจีนัสเด่น: หมักนมเปรี้ยว/โยเกิร์ต = Lactobacillus, Streptococcus; ผลิตยาปฏิชีวนะ = Streptomyces (ระวังอย่าสับสนกับ Streptococcus!)",
+    "references": [
+      {
+        "title": "FAO: Fermented Milks and Lactic Acid Bacteria",
+        "url": "https://www.fao.org/3/t0251e/T0251E06.htm"
+      },
+      {
+        "title": "WHO: The Discovery and Production of Streptomycin",
+        "url": "https://www.who.int/medicines/publications/essentialmedicines/en/"
+      }
+    ],
+    "image": "slides_img/monera/slide_13.png"
+  },
+  {
+    "id": "monera-14",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 14,
+    "chapter_id": "monera-mod-4",
+    "chapter_title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+    "title": "สไลด์ 14: จุลินทรีย์โพรไบโอติกในผลิตภัณฑ์นมเปรี้ยวและโยเกิร์ต",
+    "subtitle": "Streptococcus thermophilus, L. bulgaricus, L. casei Shirota, Bifidobacterium",
+    "keywords": [
+      "Probiotics",
+      "Yogurt",
+      "Streptococcus thermophilus",
+      "Lactobacillus bulgaricus",
+      "L. casei Shirota",
+      "Bifidobacterium"
+    ],
+    "original_content": "แบคทีเรียสำคัญในผลิตภัณฑ์นมหมักและโพรไบโอติก:\n- โยเกิร์ต:\n  • Streptococcus thermophilus (แบคทีเรียทรงกลมทนร้อน)\n  • Lactobacillus delbrueckii subsp. bulgaricus (แบคทีเรียทรงท่อน)\n  (สองชนิดนี้ทำงานร่วมกันแบบพึ่งพาอาศัย Proto-cooperation)\n- นมเปรี้ยว:\n  • Lactobacillus casei subsp. Shirota (ยาคูลท์ / Yakult ปรับสมดุลลำไส้)\n- โพรไบโอติกบำรุงสุขภาพลำไส้:\n  • Bifidobacterium animalis sp. lactis DN-173 010 (ช่วยส่งเสริมการขับถ่าย)",
+    "deep_explanation": "การหมักโยเกิร์ตเป็นตัวอย่างคลาสสิกของ 'Proto-cooperation': Streptococcus thermophilus จะเจริญเติบโตก่อนโดยใช้ออกซิเจนและผลิตกรดฟอร์มิกและคาร์บอนไดออกไซด์ ซึ่งช่วยกระตุ้นการเจริญของ Lactobacillus bulgaricus จากนั้น L. bulgaricus ซึ่งมีเอนไซม์โปรตีเอสจะย่อยสลายโปรตีนเคซีนให้เป็นกรดอะมิโนอิสระและเพปไทด์กลับมาหล่อเลี้ยง S. thermophilus อีกทอดหนึ่ง ทั้งคู่ร่วมกันสร้างกลิ่นและรสชาติเฉพาะตัวจากสารแอเซทาลดีไฮด์ (Acetaldehyde)",
+    "real_world_examples": "นมเปรี้ยวยาคูลท์ (Yakult) มีส่วนผสมของ Lactobacillus casei สายพันธุ์ Shirota ซึ่งผ่านการคัดเลือกโดย ดร.มิโนรุ ชิโรตะ ให้ทนต่อกรดในกระเพาะอาหารและน้ำดีในลำไส้เล็ก จึงสามารถรอดชีวิตไปเกาะที่ลำไส้ใหญ่ได้",
+    "pro_tips": "ข้อสอบวิชาสามัญ/ชีววิทยาชอบถามคู่เชื้อในโยเกิร์ต: 'Streptococcus thermophilus' + 'Lactobacillus bulgaricus' จำคู่คู่นี้ไว้เสมอ!",
+    "references": [
+      {
+        "title": "NCBI PMC: Health benefits of fermented milk and yoghurt",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365426/"
+      },
+      {
+        "title": "Yakult Science Institute: Lactobacillus casei strain Shirota",
+        "url": "https://www.yakult.co.jp/institute/en/"
+      }
+    ],
+    "image": "slides_img/monera/slide_14.png"
+  },
+  {
+    "id": "monera-15",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 15,
+    "chapter_id": "monera-mod-4",
+    "chapter_title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+    "title": "สไลด์ 15: แบคทีเรียกรดอะซิติกและแบคทีเรียตรึงไนโตรเจนในการเกษตร",
+    "subtitle": "การผลิตน้ำส้มสายชู (Acetobacter) และการตรึงไนโตรเจนในปมรากถั่ว (Rhizobium)",
+    "keywords": [
+      "Acetobacter",
+      "Gluconobacter",
+      "Acetic acid",
+      "Vinegar",
+      "Rhizobium",
+      "Nitrogen fixation",
+      "Legumes"
+    ],
+    "original_content": "แบคทีเรียผลิตกรดอะซิติก (Acetic Acid Bacteria):\n- ได้แก่ Acetobacter sp. และ Gluconobacter sp.\n- แบคทีเรียทั้ง 2 ชนิดนี้เป็นแบคทีเรียแกรมลบที่ใช้ออกซิเจน จะออกซิไดซ์ (Oxidize) เอทิลแอลกอฮอล์ (Ethanol) ให้กลายเป็นกรดอะซิติก (น้ำส้มสายชู)\n5. ด้านการเกษตร:\n- พืชตระกูลถั่ว (Legumes) มีความสามารถในการตรึงไนโตรเจนในอากาศได้ดีกว่าพืชตระกูลอื่น เนื่องจากมีแบคทีเรีย ไรโซเบียม (Rhizobium sp.) อาศัยอยู่ในปมรากถั่วแบบพึ่งพาอาศัยกัน (Mutualism)",
+    "deep_explanation": "Rhizobium เป็นแบคทีเรียแกรมลบรูปท่อนที่ส่งสัญญาณเคมี (Nod factors) ร่วมกับรากพืชตระกูลถั่วเพื่อสร้าง 'ปมรากถั่ว' (Root nodules) ภายในปมราก แบคทีเรียจะใช้เอนไซม์ Nitrogenase ในการเปลี่ยนก๊าซไนโตรเจนอิสระ (N2) ให้กลายเป็นแอมโมเนียม (NH4+) ซึ่งพืชนำไปสร้างกรดอะมิโนและโปรตีนได้ เนื่องจาก Nitrogenase ไวต่อออกซิเจนมาก พืชจึงสร้างโปรตีนสีชมพูแดงชื่อ Leghemoglobin เพื่อควบคุมปริมาณออกซิเจนให้พอเหมาะกับการหายใจของแบคทีเรียโดยไม่ทำลายเอนไซม์",
+    "real_world_examples": "การปลูกพืชหมุนเวียน (Crop rotation) โดยการปลูกถั่วลิสงหรือถั่วเขียวสลับกับการทำนาข้าวหรือข้าวโพด ช่วยลดการใช้ปุ๋ยเคมีไนโตรเจน และช่วยฟื้นฟูความอุดมสมบูรณ์ของดิน",
+    "pro_tips": "จับคู่ให้ถูกต้อง:\n- ผลิตน้ำส้มสายชู = Acetobacter / Gluconobacter (เปลี่ยน Alcohol -> Acetic acid)\n- ตรึงไนโตรเจนในปมรากถั่ว = Rhizobium (ภาวะพึ่งพากัน มี Leghemoglobin)",
+    "references": [
+      {
+        "title": "Nature Reviews Microbiology: Rhizobium-legume symbiosis",
+        "url": "https://www.nature.com/articles/nrmicro2205"
+      },
+      {
+        "title": "Microbiology Society: Acetic acid bacteria in vinegar brewing",
+        "url": "https://microbiologysociety.org/education-outreach/microbiology-resources.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_15.png"
+  },
+  {
+    "id": "monera-16",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 16,
+    "chapter_id": "monera-mod-4",
+    "chapter_title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+    "title": "สไลด์ 16: โทษของแบคทีเรีย โรคติดเชื้อสำคัญ และกลุ่มเชื้อโรคเฉพาะ",
+    "subtitle": "การสร้างสารพิษ โรคปอดบวม แคปซูล คลาไมเดีย และสไปโรคีท",
+    "keywords": [
+      "Pathogens",
+      "Capsule",
+      "Pneumonia",
+      "Chlamydia",
+      "Spirochetes",
+      "Syphilis",
+      "Leptospirosis"
+    ],
+    "original_content": "8. โทษของแบคทีเรีย:\n1. ผลิตสารพิษที่เป็นอันตราย (Exotoxins และ Endotoxins)\n2. ทำให้เกิดโรคต่างๆ:\n  - ในมนุษย์: ไทฟอยด์, อหิวาตกโรค, ปอดบวม, วัณโรค, คอตีบ, บาดทะยัก\n  - ในสัตว์: แอนแทรกซ์, บาดทะยัก\n  - ในพืช: โรครากเน่า, โรคใบไม้ไหม้ของสาลี่ (Fire blight)\nแบคทีเรียก่อโรคปอดบวม (Streptococcus pneumoniae): ชนิดที่มี Capsule หุ้ม จะก่อโรครุนแรงเพราะเม็ดเลือดขาวกลืนกินไม่ได้\nกลุ่มคลาไมเดีย (Chlamydias): แบคทีเรียแกรมลบที่เป็นปรสิตภายในเซลล์อย่างถาวร ทำให้เกิดโรคติดต่อทางเพศสัมพันธ์ เช่น โรคหนองในเทียม\nกลุ่มสไปโรคีท (Spirochetes):\n- Treponema pallidum ทำให้เกิดโรคซิฟิลิส\n- Leptospira interrogans ทำให้เกิดโรคฉี่หนู (Leptospirosis)",
+    "deep_explanation": "สารพิษของแบคทีเรียแบ่งเป็น 2 ชนิดหลัก:\n1. Exotoxin: โปรตีนที่แบคทีเรีย (ส่วนใหญ่แกรมบวก) หลั่งออกมาระหว่างการเจริญเติบโต มีพิษสูงมากและมีความจำเพาะต่อเนื้อเยื่อเป้าหมาย เช่น Tetanus toxin, Botulinum toxin, Diphtheria toxin สามารถนำมาทำเป็นทอกซอยด์ (Toxoid) เพื่อทำวัคซีนได้\n2. Endotoxin: สารประกอบลิโพพอลิแซ็กคาไรด์ (LPS) ที่เป็นส่วนประกอบของผนังเซลล์ชั้นนอกของแบคทีเรียแกรมลบ จะถูกปล่อยออกมาเมื่อเซลล์แบคทีเรียแตกตาย กระตุ้นให้ร่างกายเกิดไข้สูง ช็อก (Septic shock) และระบบไหลเวียนโลหิตล้มเหลว",
+    "real_world_examples": "โรคฉี่หนู (Leptospirosis) ระบาดบ่อยในฤดูน้ำท่วม เกษตรกรที่เดินลุยน้ำขัง เชื้อสไปโรคีท Leptospira ที่ปนเปื้อนในปัสสาวะหนูสามารถไชผ่านผิวหนังที่มีแผลหรือเยื่อบุตาเข้าสู่กระแสเลือด ก่อให้เกิดตับวายและไตวายเฉียบพลัน",
+    "pro_tips": "ข้อสอบชอบถามความแตกต่างของเชื้อกามโรค:\n- ซิฟิลิส (Syphilis) = Treponema pallidum (กลุ่ม Spirochetes)\n- หนองในแท้ (Gonorrhea) = Neisseria gonorrhoeae (แกรมลบทรงกลมคู่ Diplococci)\n- หนองในเทียม = Chlamydia trachomatis (กลุ่ม Chlamydias)",
+    "references": [
+      {
+        "title": "WHO: Sexually transmitted infections (STIs)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/sexually-transmitted-infections-(stis)"
+      },
+      {
+        "title": "CDC: Leptospirosis Fact Sheet",
+        "url": "https://www.cdc.gov/leptospirosis/index.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_16.png"
+  },
+  {
+    "id": "monera-17",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 17,
+    "chapter_id": "monera-mod-4",
+    "chapter_title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+    "title": "สไลด์ 17: ตารางสรุป 15 โรคติดเชื้อแบคทีเรีย โฮสต์ และเชื้อสาเหตุ",
+    "subtitle": "วิเคราะห์ภาพสไลด์ 17: ฐานข้อมูลเชื้อก่อโรคสำคัญในคนและสัตว์",
+    "keywords": [
+      "Disease Table",
+      "Anthrax",
+      "Botulism",
+      "Cholera",
+      "Tetanus",
+      "Typhoid",
+      "Tuberculosis",
+      "Leprosy"
+    ],
+    "original_content": "ตารางโรคติดเชื้อแบคทีเรีย 15 โรค (ถอดรหัสจากภาพสไลด์ 17):\n1. Anthrax (โรคแอนแทรกซ์) | Host: Cattle and man | เชื้อ: Bacillus anthracis\n2. Botulism (โรคโบทูลิซึม) | Host: Man | เชื้อ: Clostridium botulinum\n3. Cholera (โรคอหิวาตกโรค) | Host: Man | เชื้อ: Vibrio cholerae\n4. Dysentery (โรคบิดไม่มีตัว) | Host: Man | เชื้อ: Bacillus dysenteriae (Shigella)\n5. Pneumonia (โรคปอดบวม) | Host: Man | เชื้อ: Streptococcus pneumoniae\n6. Tetanus (โรคบาดทะยัก) | Host: Man | เชื้อ: Clostridium tetani\n7. Typhoid (โรคไข้ไทฟอยด์) | Host: Man | เชื้อ: Salmonella typhi\n8. Diphtheria (โรคคอตีบ) | Host: Man | เชื้อ: Corynebacterium diphtheriae\n9. Leprosy (โรคเรื้อน) | Host: Man | เชื้อ: Mycobacterium leprae\n10. Tuberculosis (TB, วัณโรค) | Host: Man | เชื้อ: Mycobacterium tuberculosis\n11. Meningitis (เยื่อหุ้มสมองอักเสบ) | Host: Man | เชื้อ: Neisseria meningitidis\n12. Rheumatic fever (ไข้รูมาติก) | Host: Man | เชื้อ: Streptococcus spp.\n13. Syphilis (STD, โรคซิฟิลิส) | Host: Man | เชื้อ: Treponema pallidum\n14. Whooping Cough (โรคไอกรน) | Host: Man | เชื้อ: Bordetella pertussis\n15. Gonorrhoea (STD, โรคหนองใน) | Host: Woman & Man | เชื้อ: Neisseria gonorrhoeae",
+    "deep_explanation": "สไลด์นี้รวบรวมเชื้อแบคทีเรียก่อโรคในตำนาน: สังเกตว่าแบคทีเรียสร้างสปอร์ที่อันตราย 2 จีนัสคือ Bacillus (Bacillus anthracis) และ Clostridium (C. botulinum, C. tetani) ส่วนจีนัส Mycobacterium (M. tuberculosis และ M. leprae) มีผนังเซลล์หนาพิเศษที่มีกรดไมโคลิก (Mycolic acid) ปริมาณสูง ทำให้ติดสีย้อมทนกรด (Acid-Fast Stain) และทนทานต่อยาและสารเคมีมากกว่าแบคทีเรียทั่วไป",
+    "real_world_examples": "วัคซีนรวม DTP (Diphtheria, Tetanus, Pertussis) หรือ คอตีบ-บาดทะยัก-ไอกรน เป็นวัคซีนพื้นฐานที่เด็กไทยทุกคนต้องได้รับตามแผนงานสร้างเสริมภูมิคุ้มกันโรคของกระทรวงสาธารณสุข",
+    "pro_tips": "สูตรจำเชื้อคู่แฝด Mycobacterium:\n- M. tuberculosis = วัณโรค (ทำลายปอด)\n- M. leprae = โรคเรื้อน (ทำลายเส้นประสาทส่วนปลายและผิวหนัง)\nทั้งคู่เป็น Acid-Fast Bacilli (ย้อมติดสีแดงในวิธี Ziehl-Neelsen)",
+    "references": [
+      {
+        "title": "CDC: Vaccine-Preventable Bacterial Diseases",
+        "url": "https://www.cdc.gov/vaccines/vpd/index.html"
+      },
+      {
+        "title": "WHO: Tuberculosis Fact Sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis"
+      }
+    ],
+    "image": "slides_img/monera/slide_17.png"
+  },
+  {
+    "id": "monera-18",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 18,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 18: ไซยาโนแบคทีเรีย (Cyanobacteria / Blue-Green Algae)",
+    "subtitle": "สิ่งมีชีวิตสังเคราะห์ด้วยแสงกลุ่มแรกที่เปลี่ยนชั้นบรรยากาศโลก",
+    "keywords": [
+      "Cyanobacteria",
+      "Blue-green algae",
+      "Chlorophyll a",
+      "Carotenoids",
+      "Phycobilins",
+      "Great Oxidation Event"
+    ],
+    "original_content": "Cyanobacteria (สาหร่ายสีเขียวแกมน้ำเงิน):\n- แหล่งที่พบ: พบได้ทั่วไปทั้งในน้ำจืด คู คลอง บึง ทะเล บ่อน้ำร้อน บนดิน เปลือกไม้ ใบไม้ที่ชื้นแฉะ\n- การสังเคราะห์ด้วยแสง: มีคลอโรฟิลล์ เอ, แคโรทีนอยด์ และรงควัตถุกลุ่มไฟโคบิลิน (Phycobilins)\n- ตำแหน่งรงควัตถุ: รงควัตถุไม่ได้อยู่ในพลาสทิด (Plastid) แต่กระจายอยู่บนเยื่อไทลาคอยด์ภายในไซโทพลาสซึม\n- รูปร่าง: อาจเป็นเซลล์เดี่ยวๆ (Unicellular), รวมกลุ่มเป็นโคโลนี (Colony), หรือเรียงต่อกันเป็นสาย (Filament) ซึ่งบางชนิดแตกแขนงได้",
+    "deep_explanation": "ไซยาโนแบคทีเรียเป็นสิ่งมีชีวิตกลุ่มแรกที่วิวัฒนาการการสังเคราะห์ด้วยแสงแบบใช้น้ำเป็นตัวให้อิเล็กตรอนและปล่อยก๊าซออกซิเจน (Oxygenic Photosynthesis) ส่งผลให้เกิดเหตุการณ์ 'Great Oxidation Event' (GOE) เมื่อประมาณ 2.4 พันล้านปีก่อน ทำให้เกิดชั้นโอโซน (O3) กรองรังสี UV และเปิดทางให้สิ่งมีชีวิตใช้ออกซิเจนวิวัฒนาการขึ้นมา โครงสร้างไทลาคอยด์ของไซยาโนแบคทีเรียยังเป็นบรรพบุรุษของคลอโรพลาสต์ในพืชชั้นสูงตามทฤษฎี Endosymbiosis",
+    "real_world_examples": "สโตรมาโตไลต์ (Stromatolites) หินตะกอนทรงพุ่มที่เกิดจากเมือกของไซยาโนแบคทีเรียดักจับอนุภาคตะกอนในอ่าว Shark Bay ประเทศออสเตรเลีย เป็นหลักฐานฟอสซิลของสิ่งมีชีวิตที่เก่าแก่ที่สุดในโลก",
+    "pro_tips": "จำให้แม่น: แม้จะเรียกว่า 'สาหร่ายสีเขียวแกมน้ำเงิน' แต่แท้จริงแล้วเป็น 'แบคทีเรีย' (โพรแคริโอต) ไม่ใช่สาหร่ายแท้ (ยูแคริโอต)! ไม่มีเยื่อหุ้มนิวเคลียส และไม่มีคลอโรพลาสต์",
+    "references": [
+      {
+        "title": "UCMP Berkeley: Introduction to the Cyanobacteria",
+        "url": "https://ucmp.berkeley.edu/bacteria/cyanointro.html"
+      },
+      {
+        "title": "OpenStax Microbiology: Photosynthetic Microorganisms",
+        "url": "https://openstax.org/books/microbiology/pages/8-6-photosynthesis"
+      }
+    ],
+    "image": "slides_img/monera/slide_18.png"
+  },
+  {
+    "id": "monera-19",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 19,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 19: โครงสร้างเซลล์ ไซโทพลาสซึม และเมือกชีทของไซยาโนแบคทีเรีย",
+    "subtitle": "ผนังเซลล์คล้ายแกรมลบ เมือกชีท โครโมพลาซึม และเซนโทรพลาซึม",
+    "keywords": [
+      "Mucilaginous sheath",
+      "Peptidoglycan",
+      "Chromoplasm",
+      "Centroplasm",
+      "DNA",
+      "Desiccation"
+    ],
+    "original_content": "โครงสร้างของเซลล์ไซยาโนแบคทีเรีย:\n1. ผนังเซลล์ (Cell wall): ประกอบด้วยสาร Peptidoglycan คล้ายคลึงกับผนังเซลล์ของแบคทีเรียแกรมลบ ภายนอกมีสารเมือกหุ้มอยู่ เรียกว่า ชีท (Sheath) มีความหนาบางต่างกัน ชีทอาจใสไม่มีสีหรือมีสีต่างๆ ได้ เมือกชีทนี้ช่วยให้ไซยาโนแบคทีเรียดูดซับน้ำและทนทานต่อสภาพแห้งแล้งได้ดี\n2. ไซโทพลาสซึม (Cytoplasm) แบ่งออกเป็น 2 ส่วนชัดเจน:\n  - โครโมพลาซึม (Chromoplasm): ไซโทพลาสซึมส่วนนอกที่อยู่ใกล้ผนังเซลล์ มีรงควัตถุกระจายอยู่มากและเป็นแหล่งสังเคราะห์ด้วยแสง\n  - เซนโทรพลาซึม (Centroplasm): ไซโทพลาสซึมส่วนใน มีสารพันธุกรรม DNA กรดนิวคลีอิกกระจายอยู่โดยไม่มีเยื่อหุ้ม ทำหน้าที่คล้ายนิวเคลียส",
+    "deep_explanation": "เมือกชีท (Mucilaginous sheath) ประกอบด้วยกรดเพกติก พอลิแซ็กคาไรด์เชิงซ้อน และสารกลุ่มไมโคสปอริน (Mycosporine-like amino acids: MAAs) ซึ่งทำหน้าที่เสมือน 'ครีมกันแดดธรรมชาติ' ช่วยดูดซับรังสีอัลตราไวโอเลต ป้องกันความเสียหายต่อดีเอ็นเอ และรักษาความชื้นรอบเซลล์ ทำให้ไซยาโนแบคทีเรียสามารถอยู่รอดบนเปลือกไม้แห้งๆ หรือบนพื้นหินในทะเลทรายได้",
+    "real_world_examples": "Nostoc commune ที่ขึ้นบนพื้นดินแห้งในฤดูร้อน เมื่อได้รับฝนแรกเพียงชั่วข้ามคืน เมือกชีทจะดูดซับน้ำพองตัวขึ้นเป็นวุ้นสีเขียวใสขนาดใหญ่ที่ชาวบ้านเรียกว่า 'เห็ดดาวตก' หรือ 'สาหร่ายดาวตก'",
+    "pro_tips": "การแบ่งไซโทพลาสซึมของไซยาโนแบคทีเรีย:\n- นอก = Chromoplasm (มีสี/มีรงควัตถุ สังเคราะห์แสง)\n- ใน = Centroplasm (ศูนย์กลาง ดีเอ็นเอ สารพันธุกรรม)",
+    "references": [
+      {
+        "title": "AlgaeBase: Cyanobacteria Morphology & Cellular Organization",
+        "url": "https://www.algaebase.org/"
+      },
+      {
+        "title": "Springer: The Ecology of Cyanobacteria",
+        "url": "https://link.springer.com/book/10.1007/0-306-46855-7"
+      }
+    ],
+    "image": "slides_img/monera/slide_19.png"
+  },
+  {
+    "id": "monera-20",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 20,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 20: รงควัตถุ อาหารสะสม และแวคิวโอลก๊าซ",
+    "subtitle": "คลอโรฟิลล์ เอ, ไฟโคบิลิน, Cyanophycean Starch, Gas Vacuole และไร้แฟลกเจลลา",
+    "keywords": [
+      "Phycocyanin",
+      "Phycoerythrin",
+      "Cyanophycean starch",
+      "Gas vacuole",
+      "No flagella",
+      "Buoyancy"
+    ],
+    "original_content": "3. รงควัตถุ (Pigments):\n- คลอโรฟิลล์ เอ (Chlorophyll a)\n- เบตา-แคโรทีน (Beta-carotene)\n- แซนโทฟิลล์ (Xanthophyll)\n- ไฟโคบิลิน (Phycobilins) ประกอบด้วยสารประกอบ 2 ชนิดคือ:\n  • ไฟโคไซยานิน (Phycocyanin) สารสีน้ำเงินแกมเขียว\n  • ไฟโคอิริทริน (Phycoerythrin) สารสีแดง\n** รงควัตถุเหล่านี้ไม่ได้อยู่ในพลาสทิด แต่กระจายอยู่บนเยื่อไทลาคอยด์ในไซโทพลาสซึม\n4. อาหารสะสม (Reserved food): เป็นคาร์โบไฮเดรตชนิด Cyanophycean starch (เมื่อทำปฏิกิริยากับไอโอดีนจะได้สีน้ำตาลปนแดง) มีลักษณะเป็นเม็ดเล็กๆ กระจายทั่วไป\n5. ไม่มีแฟลกเจลลัม (No flagellum): ไซยาโนแบคทีเรียทุกชนิดไม่มีรยางค์แฟลกเจลลัมเลยตลอดวงชีวิต\n6. แก๊สแวคิวโอล (Gas vacuole): ลักษณะเป็นเม็ดเล็กๆ กระจายในโครโมพลาซึม ช่วยให้ลอยตัวขึ้นสู่ผิวน้ำเพื่อรับแสงแดด",
+    "deep_explanation": "โครงสร้างแก๊สแวคิวโอล (Gas vesicles) สร้างขึ้นจากทรงกระบอกโปรตีนกลวงที่ไม่ยอมให้น้ำซึมผ่าน แต่ยอมให้ก๊าซแพร่ผ่านเข้าออกได้ แบคทีเรียสามารถปรับแรงดันก๊าซภายในเพื่อลอยตัวขึ้นสู่ผิวน้ำในเวลากลางวันเพื่อรับแสง และจมลงสู่ก้นน้ำในเวลากลางคืนเพื่อดูดซับสารอาหารไนโตรเจนและฟอสฟอรัส นอกจากนี้ Phycobilisomes ซึ่งเป็นอนุภาคโปรตีนจับแสงบนไทลาคอยด์ ช่วยดูดกลืนแสงสีเขียวและเหลืองที่คลอโรฟิลล์ดูดไม่ได้ ส่งต่อพลังงานให้คลอโรฟิลล์ เอ ได้อย่างมีประสิทธิภาพสูงมาก",
+    "real_world_examples": "ไฟโคไซยานิน (Phycocyanin) ที่สกัดจากสาหร่ายสไปรูลินา (Spirulina) ได้รับการรับรองจาก FDA ให้ใช้เป็นสีผสมอาหารสีฟ้าธรรมชาติในขนม เครื่องดื่ม และไอศกรีม และมีฤทธิ์ต้านอนุมูลอิสระสูง",
+    "pro_tips": "จำ 2 ข้อห้ามของไซยาโนแบคทีเรีย:\n1) ห้ามตอบว่ามี Plastid / Chloroplast (รงควัตถุอยู่บนไทลาคอยด์ในไซโทพลาสซึม)\n2) ห้ามตอบว่ามี Flagella (ไม่มีแฟลกเจลลัมเด็ดขาด เคลื่อนที่ด้วยการลื่นไถล Gliding)",
+    "references": [
+      {
+        "title": "NCBI Bookshelf: Phycobilisomes and Light Harvesting in Cyanobacteria",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK8477/"
+      },
+      {
+        "title": "ScienceDirect: Gas Vesicles in Cyanobacteria",
+        "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gas-vesicle"
+      }
+    ],
+    "image": "slides_img/monera/slide_20.png"
+  },
+  {
+    "id": "monera-21",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 21,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 21: เซลล์เฮเทอโรซิสต์ (Heterocyst)",
+    "subtitle": "เซลล์ผนังหนาพิเศษสำหรับตรึงก๊าซไนโตรเจนในสภาพไร้ออกซิเจน",
+    "keywords": [
+      "Heterocyst",
+      "Nitrogenase",
+      "Nitrogen fixation",
+      "Anabaena",
+      "Nostoc",
+      "Rivularia",
+      "Calothrix"
+    ],
+    "original_content": "7. เฮเทอโรซิสต์ (Heterocyst):\n- เป็นเซลล์พิเศษในพวกที่เป็นสาย บางชนิดมีเซลล์ขนาดใหญ่กว่าเซลล์ปกติ ผนังเซลล์หนาหลายชั้น\n- ภายในเซลล์มีลักษณะใส เป็นสีเหลืองจางๆ เนื่องจากไม่มี Photosystem II (ไม่ปล่อยออกซิเจน)\n- ตำแหน่งเกิด: อาจเกิดที่ปลายสาย (Terminal) หรือแทรกระหว่างเซลล์ปกติในสาย (Intercalary)\n- พบในไซยาโนแบคทีเรียสาย เช่น Anabaena, Nostoc, Rivularia, Calothrix\n- หน้าที่หลัก: ทำหน้าที่ตรึงไนโตรเจน (Nitrogen fixation) จากอากาศให้กลายเป็นสารประกอบแอมโมเนีย โดยใช้เอนไซม์ Nitrogenase",
+    "deep_explanation": "เอนไซม์ Nitrogenase จะถูกทำลายอย่างถาวรหากสัมผัสกับก๊าซออกซิเจน (O2-labile) ไซยาโนแบคทีเรียจึงแก้ปัญหาความขัดแย้งระหว่าง 'การสังเคราะห์ด้วยแสงที่ผลิต O2' กับ 'การตรึง N2 ที่แพ้ O2' ด้วยการสร้างเซลล์ Heterocyst ที่มีลักษณะเฉพาะ 4 ประการ:\n1. ผนังเซลล์หนาพิเศษด้วยชั้นไกลโคลิพิดและพอลิแซ็กคาไรด์เพื่อกัน O2 แพร่เข้า\n2. ตัดระบบ Photosystem II ทิ้ง เหลือเฉพาะ Photosystem I ทำให้ผลิตได้เฉพาะ ATP แต่ไม่ปล่อยก๊าซ O2\n3. เพิ่มอัตราการหายใจในเซลล์เพื่อเผาผลาญ O2 ที่เล็ดลอดเข้ามาให้หมดไป\n4. มีรอยต่อไมโครพลาสโมเดสมาตา (Microplasmodesmata) เชื่อมกับเซลล์ข้างเคียง เพื่อส่งสารประกอบไนโตรเจนแลกกับน้ำตาลซูโครส",
+    "real_world_examples": "แหนแดง (Azolla) เลี้ยงในแปลงนาข้าว มีไซยาโนแบคทีเรีย Anabaena azollae อาศัยอยู่ในโพรงใบและมี Heterocyst จำนวนมาก ช่วยตรึงไนโตรเจนให้ต้นข้าวได้เทียบเท่าปุ๋ยยูเรียถึง 5-10 กิโลกรัมต่อไร่",
+    "pro_tips": "คำถามคลาสสิก: 'ทำไม Heterocyst ถึงมีสีเหลืองใสและไม่สังเคราะห์แสงปล่อยออกซิเจน?' ตอบ: เพราะไม่มี Photosystem II ป้องกันไม่ให้ออกซิเจนไปทำลายเอนไซม์ Nitrogenase!",
+    "references": [
+      {
+        "title": "Plant Science 4 U: Heterocyst of Nostoc Structure and Function",
+        "url": "https://www.plantscience4u.com/2018/10/heterocyst-of-nostoc-structure-and-function.html"
+      },
+      {
+        "title": "PubMed: Differentiation of Heterocysts in Cyanobacteria",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22905471/"
+      }
+    ],
+    "image": "slides_img/monera/slide_21.png"
+  },
+  {
+    "id": "monera-22",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 22,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 22: อะคินีต (Akinete) และการสืบพันธุ์ของไซยาโนแบคทีเรีย",
+    "subtitle": "เซลล์พักจำศีลสะสมอาหาร และการสืบพันธุ์แบบไม่อาศัยเพศอย่างสมบูรณ์",
+    "keywords": [
+      "Akinete",
+      "Resting cell",
+      "Cyanophycin",
+      "Binary fission",
+      "Fragmentation",
+      "Hormogonia",
+      "Asexual reproduction"
+    ],
+    "original_content": "8. อะคินีต (Akinete):\n- เซลล์ขนาดใหญ่ที่มีผนังหนาเป็นพิเศษ\n- ภายในสะสมอาหารปริมาณมาก เช่น เม็ดแป้ง ไกลโคเจน และโปรตีนไซยาโนไฟซิน (Cyanophycin)\n- มักอยู่ติดกับเฮเทอโรซิสต์ ทำหน้าที่เป็นเซลล์พักตัว (Resting cell) ทนทานต่อความหนาวเย็นและความแห้งแล้ง และงอกใหม่ได้เมื่อสภาพแวดล้อมเหมาะสม\n9. การสืบพันธุ์ (Reproduction):\n**เป็นการสืบพันธุ์แบบไม่อาศัยเพศเท่านั้น (No sexual reproduction)**\n- การแบ่งตัวออกเป็น 2 ส่วน (Binary fission) ในพวกเซลล์เดี่ยว\n- การหักเป็นท่อน (Fragmentation) หรือสร้างสายสั้นๆ เรียกว่า ฮอร์โมโกเนีย (Hormogonia)\n- การสร้างสปอร์พิเศษ เช่น อะคินีต (Akinete)",
+    "deep_explanation": "Akinete ทำหน้าที่คล้ายกับ Endospore ของแบคทีเรีย คือเป็นโครงสร้างเพื่อการอยู่รอด แต่มีข้อแตกต่างสำคัญคือ Akinete พัฒนามาจากเซลล์ปกติ (Vegetative cell) โดยการสะสมอาหารและขยายขนาดจนใหญ่กว่าเซลล์รอบข้างอย่างเห็นได้ชัด และไม่มีการสร้างเปลือกเคอราตินที่ทนความร้อนสูงเท่าเอนโดสปอร์ แต่สามารถจำศีลในตะกอนดินใต้แหล่งน้ำได้นานนับสิบปี",
+    "real_world_examples": "เมื่อบ่อน้ำหรือสระน้ำเหือดแห้งในฤดูแล้ง เซลล์ปกติของ Anabaena จะตายหมด เหลือเพียง Akinete ที่จมอยู่ในโคลนแห้ง เมื่อเข้าสู่ฤดูฝนน้ำท่วมขัง Akinete จะงอก (Germinate) กลับมาเป็นสายใหม่ได้อย่างรวดเร็ว",
+    "pro_tips": "เปรียบเทียบ Heterocyst vs Akinete:\n- Heterocyst = ผนังหนา ใส สีเหลืองอ่อน ทำหน้าที่ 'ตรึงไนโตรเจน'\n- Akinete = เม็ดใหญ่ ผนังหนา ภายในทึบ มีอาหารสะสม ทำหน้าที่ 'พักตัวทนแล้ง'",
+    "references": [
+      {
+        "title": "Frontiers in Microbiology: Akinete Differentiation in Filamentous Cyanobacteria",
+        "url": "https://www.frontiersin.org/articles/10.3389/fmicb.2019.01428/full"
+      },
+      {
+        "title": "OpenStax Biology: Cyanobacterial Adaptations",
+        "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes"
+      }
+    ],
+    "image": "slides_img/monera/slide_22.png"
+  },
+  {
+    "id": "monera-23",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 23,
+    "chapter_id": "monera-mod-5",
+    "chapter_title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+    "title": "สไลด์ 23: สัณฐานวิทยาของ Nostoc และ Anabaena ใต้กล้องจุลทรรศน์",
+    "subtitle": "วิเคราะห์ความแตกต่างของเซลล์ปกติ (Vegetative), Heterocyst และ Akinete",
+    "keywords": [
+      "Nostoc",
+      "Anabaena",
+      "Microscopic structure",
+      "Filamentous cyanobacteria",
+      "Mucilage"
+    ],
+    "original_content": "ลักษณะทางสัณฐานวิทยาของ Nostoc และ Anabaena (วิเคราะห์จากภาพสไลด์ 23):\n- Nostoc: เซลล์ทรงกลมเรียงต่อกันเป็นสายคล้ายลูกปัด (Moniliform filament) รวมกลุ่มกันอยู่ในก้อนเมือกเจลาติน (Mucilaginous matrix) ขนาดใหญ่มองเห็นได้ด้วยตาเปล่า มักพบ Heterocyst ขนาดใหญ่แทรกอยู่ในสาย\n- Anabaena: เซลล์รูปกลมหรือรีเรียงเป็นสายตรงหรือคดเคี้ยวเล็กน้อย ไม่รวมเป็นก้อนเมือกขนาดใหญ่เหมือนนอสตอก เซลล์ Heterocyst มักมีรูปทรงรี ผนังหนาและมีปุ่มขั้ว (Polar nodules) ชัดเจน และมักมี Akinete รูปกระบอกยาวอยู่ติดกับ Heterocyst",
+    "deep_explanation": "ความแตกต่างเชิงสัณฐานวิทยาใต้กล้องจุลทรรศน์ระหว่าง Nostoc และ Anabaena มีจุดสังเกตสำคัญคือ: Nostoc สร้างเมือกหุ้มรอบโคโลนีหนาแน่นมากจนเกิดเป็นก้อนวุ้นทรงกลมลอยน้ำหรือเกาะดิน ส่วน Anabaena จะพบเป็นสายเดี่ยวๆ กระจายตัวอยู่ในน้ำหรือฝังตัวอยู่ในโพรงเนื้อเยื่อของพืชโฮสต์ เช่น ในรากปรง (Cycas) หรือในใบแหนแดง (Azolla)",
+    "real_world_examples": "ปรง (Cycads) มีรากพิเศษที่ชี้ขึ้นเหนือดินเรียกว่า Coralloid roots ภายในเนื้อเยื่อคอร์เทกซ์มี Nostoc หรือ Anabaena อาศัยอยู่ ช่วยตรึงไนโตรเจนให้ต้นปรงเจริญเติบโตบนดินทรายที่แห้งแล้งได้",
+    "pro_tips": "จุดสังเกตในสไลด์กล้องจุลทรรศน์ข้อสอบแล็บ:\n- เม็ดกลมต่อกันเป็นสายลูกปัด = Nostoc / Anabaena\n- ถ้าเห็นเซลล์เม็ดโตกว่าเพื่อน ผนังหนา ทึบอาหาร = Akinete\n- ถ้าเห็นเซลล์ผนังหนา ใส มีจุกขั้ว 2 ข้าง = Heterocyst",
+    "references": [
+      {
+        "title": "Oxford Lawn Biology Archive: Nostoc Morphology",
+        "url": "http://lifeonanoxfordlawn.blogspot.com/2010_12_01_archive.html"
+      },
+      {
+        "title": "Plant Science 4 U: Heterocyst of Nostoc",
+        "url": "https://www.plantscience4u.com/2018/10/heterocyst-of-nostoc-structure-and-function.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_23.png"
+  },
+  {
+    "id": "monera-24",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 24,
+    "chapter_id": "monera-mod-6",
+    "chapter_title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+    "title": "สไลด์ 24: ประโยชน์ของไซยาโนแบคทีเรียและการเพาะเลี้ยงสาหร่ายเกลียวทอง (Spirulina)",
+    "subtitle": "ผู้ผลิตออกซิเจนปฐมภูมิ และซูเปอร์ฟู้ดโปรตีนสูง 55-65% ของน้ำหนักแห้ง",
+    "keywords": [
+      "Spirulina",
+      "Arthrospira",
+      "Single-cell protein",
+      "Primary producer",
+      "Superfood",
+      "Photosynthesis"
+    ],
+    "original_content": "ประโยชน์ของสาหร่ายสีเขียวแกมน้ำเงิน (ไซยาโนแบคทีเรีย):\n1. เป็นผู้ผลิตอาหารปฐมภูมิ (Primary producer) โดยกระบวนการสังเคราะห์ด้วยแสง เพิ่มปริมาณออกซิเจนที่ละลายในน้ำ (DO) ให้แก่ระบบนิเวศทางน้ำ\n2. สาหร่ายสีเขียวแกมน้ำเงินสกุล Spirulina (สาหร่ายเกลียวทอง หรือ Arthrospira platensis): มีโปรตีนสูงถึง 55-65% ของน้ำหนักแห้ง อุดมด้วยกรดอะมิโนจำเป็นครบถ้วน วิตามินบี 12 เบตาแคโรทีน และกรดแกมมาไลโนเลนิก (GLA) นิยมนำมาแปรรูปเป็นอาหารเสริมบำรุงสุขภาพ",
+    "deep_explanation": "Spirulina มีผนังเซลล์ที่ย่อยง่ายเนื่องจากประกอบด้วยเพปทิโดไกลแคน ไม่ใช่เซลลูโลสเหมือนพืช ทำให้ร่างกายมนุษย์และสัตว์สามารถย่อยและดูดซึมโปรตีนไปใช้ได้สูงกว่า 85-90% ปัจจุบันองค์การสหประชาชาติ (UN) และองค์การอนามัยโลก (WHO) ยกย่องให้สไปรูลินาเป็น 'สุดยอดอาหารแห่งอนาคต' (Superfood of the future) สำหรับการแก้ปัญหาทุพโภชนาการในเด็กและประชากรโลก",
+    "real_world_examples": "NASA และ ESA วิจัยการใช้ Spirulina ในระบบช่วยชีวิตแบบปิด (ECLSS) ของยานอวกาศและสถานีอวกาศนานาชาติ เพื่อทำหน้าที่ทั้งดูดซับ CO2 ที่นักบินอวกาศหายใจออกมา ผลิตก๊าซ O2 และผลิตอาหารโปรตีนสูงในพื้นที่จำกัด",
+    "pro_tips": "ระวังข้อสอบจัดหมวดหมู่: 'สาหร่ายเกลียวทอง (Spirulina)' แท้จริงแล้วเป็น 'แบคทีเรีย' (ไซยาโนแบคทีเรีย) ไม่ใช่พืชและไม่ใช่สาหร่ายสีเขียวแท้!",
+    "references": [
+      {
+        "title": "WHO: Spirulina as a Dietary Supplement",
+        "url": "https://www.who.int/nutrition/publications/infantfeeding/en/"
+      },
+      {
+        "title": "NASA Technical Reports: Spirulina in Space Life Support",
+        "url": "https://ntrs.nasa.gov/citations/19890016190"
+      }
+    ],
+    "image": "slides_img/monera/slide_24.png"
+  },
+  {
+    "id": "monera-25",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 25,
+    "chapter_id": "monera-mod-6",
+    "chapter_title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+    "title": "สไลด์ 25: Nostoc commune (เห็ดดาวตก / ดอกหิน) และคุณค่าทางชีวภาพ",
+    "subtitle": "แหล่งวิตามินบี อาหารปลา การบริโภคพื้นบ้าน และบทบาทปรับปรุงโครงสร้างดิน",
+    "keywords": [
+      "Nostoc commune",
+      "Star jelly",
+      "Vitamin B",
+      "Soil crust",
+      "Edible cyanobacteria"
+    ],
+    "original_content": "3. สาหร่ายสีเขียวแกมน้ำเงิน Nostoc commune:\n- ผลิตวิตามินบี (Vitamin B complex) และสารอาหารสำคัญ\n- เป็นอาหารปลาและสิ่งมีชีวิตในระบบนิเวศทางน้ำ\n- ชาวบ้านในภาคอีสานและภาคเหนือเรียกว่า 'เห็ดหิน', 'ดอกหิน' หรือ 'เห็ดดาวตก' สามารถเก็บมาล้างสะอาดปรุงเป็นอาหารได้\n- ช่วยสร้างหน้าดินชีวภาพ (Biological soil crust) ดักจับอนุภาคดินและตรึงไนโตรเจน ป้องกันการพังทลายของหน้าดิน",
+    "deep_explanation": "Nostoc commune มีความสามารถพิเศษในการทนทานต่อสภาวะแห้งแล้งสุดขั้ว (Anhydrobiosis) ในสภาพแห้งแล้งจะสูญเสียน้ำออกจากเซลล์เกือบ 100% และลดเมแทบอลิซึมลงจนเกือบเป็นศูนย์ แต่เมื่อได้รับน้ำฝน สารพอลิแซ็กคาไรด์ในเยื่อหุ้มจะดูดน้ำและฟื้นฟูกระบวนการสังเคราะห์ด้วยแสงและการตรึงไนโตรเจนได้ภายในเวลาไม่กี่ชั่วโมง มีงานวิจัยพบว่ามีสารต้านการอักเสบและสารต้านอนุมูลอิสระกลุ่ม Nostopeptins สูง",
+    "real_world_examples": "ในอาหารจีนดั้งเดิม Nostoc flagelliforme (เรียกว่า 'ฟาไฉ' หรือ สาหร่ายผมสาว) และ Nostoc commune ถูกนำมาปรุงเป็นซุปในงานมงคลตรุษจีนเพราะชื่อพ้องกับคำว่า 'ร่ำรวย' (ฟาไฉ)",
+    "pro_tips": "Nostoc commune เป็นทั้ง: 1) แหล่งอาหารมนุษย์และสัตว์น้ำ, 2) สิ่งมีชีวิตตรึงไนโตรเจน, 3) สิ่งมีชีวิตสร้างผืนดินชีวภาพ (Soil crust)",
+    "references": [
+      {
+        "title": "Wikipedia: Nostoc commune Details",
+        "url": "https://en.wikipedia.org/wiki/Nostoc_commune"
+      },
+      {
+        "title": "PubMed: Bioactive compounds from Nostoc commune",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24716181/"
+      }
+    ],
+    "image": "slides_img/monera/slide_25.png"
+  },
+  {
+    "id": "monera-26",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 26,
+    "chapter_id": "monera-mod-6",
+    "chapter_title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+    "title": "สไลด์ 26: ปุ๋ยชีวภาพและภาวะพึ่งพากันระหว่าง Anabaena กับแหนแดง (Azolla)",
+    "subtitle": "การตรึงไนโตรเจนในนาข้าว นวัตกรรมปุ๋ยพืชสดอินทรีย์ทดแทนปุ๋ยเคมี",
+    "keywords": [
+      "Azolla",
+      "Anabaena azollae",
+      "Biofertilizer",
+      "Rice paddy",
+      "Symbiosis",
+      "Green manure"
+    ],
+    "original_content": "4. ความสามารถในการตรึงไนโตรเจนของ Nostoc, Anabaena, Oscillatoria:\n- นำมาใช้ประโยชน์เป็นปุ๋ยชีวภาพในดิน\n- แหนแดง (Azolla): เป็นเฟิร์นน้ำขนาดเล็กที่มีโพรงใบด้านบนเป็นที่อาศัยของไซยาโนแบคทีเรีย Anabaena azollae\n- อยู่ร่วมกันแบบภาวะพึ่งพาอาศัยกัน (Mutualism, +,+):\n  • แหนแดงให้ที่อยู่อาศัยและสารอินทรีย์คาร์บอนแก่แอนาบีนา\n  • แอนาบีนาใช้ Heterocyst ตรึงก๊าซไนโตรเจนในอากาศส่งให้แหนแดง\n- การเลี้ยงแหนแดงในนาข้าว: เมื่อแหนแดงคลุมผิวน้ำจะช่วยบังแสงไม่ให้วัชพืชโต และเมื่อไถกลบลงดินจะสลายตัวเป็นปุ๋ยไนโตรเจนคุณภาพสูงให้ต้นข้าว",
+    "deep_explanation": "ความร่วมมือระหว่าง Azolla และ Anabaena azollae มีความพิเศษตรงที่ Anabaena จะถูกถ่ายทอดส่งต่อจากรุ่นสู่รุ่นผ่านสปอร์การขยายพันธุ์ของเฟิร์น (Megalospores) อย่างต่อเนื่องโดยตรง ไม่ต้องหาเชื้อใหม่จากธรรมชาติ อัตราส่วน Heterocyst ใน Anabaena ที่อยู่ในแหนแดงสูงถึง 20-30% ของเซลล์ทั้งหมด (เทียบกับ 5-10% ในแอนาบีนาอิสระ) จึงตรึงไนโตรเจนได้มหาศาล",
+    "real_world_examples": "กรมวิชาการเกษตรของไทยส่งเสริมสายพันธุ์ 'แหนแดงไมโครฟิลลา' (Azolla microphylla) ให้เกษตรกรเลี้ยงในนาข้าวอินทรีย์ สามารถให้ธาตุไนโตรเจนสูงถึง 3-5% ของน้ำหนักแห้ง ทดแทนปุ๋ยยูเรียได้ถึง 50-100%",
+    "pro_tips": "ข้อสอบชีววิทยาเรื่องความสัมพันธ์ระหว่างสิ่งมีชีวิต:\n'แหนแดง กับ แอนาบีนา' = ภาวะพึ่งพากัน (Mutualism +,+) แยกจากกันไม่ได้; ระวังอย่าสับสนกับ 'แหนเป็ด' (Duckweed) ซึ่งเป็นพืชดอก!",
+    "references": [
+      {
+        "title": "Project Noah: Azolla and Anabaena symbiosis",
+        "url": "http://www.projectnoah.org/spottings/19582103"
+      },
+      {
+        "title": "FAO: Azolla as a green manure in agriculture",
+        "url": "https://www.fao.org/3/x5869e/x5869e00.htm"
+      }
+    ],
+    "image": "slides_img/monera/slide_26.png"
+  },
+  {
+    "id": "monera-27",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 27,
+    "chapter_id": "monera-mod-6",
+    "chapter_title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+    "title": "สไลด์ 27: อันดับ Chroococcales (ไซยาโนแบคทีเรียเซลล์เดี่ยวและโคโลนี)",
+    "subtitle": "Merismopedia แผ่นตารางเรขาคณิต และ Microcystis ผู้สร้างสารพิษ Microcystin",
+    "keywords": [
+      "Chroococcales",
+      "Merismopedia",
+      "Microcystis",
+      "Microcystin",
+      "Hepatotoxin",
+      "Algal bloom"
+    ],
+    "original_content": "Order Chroococcales (ถอดรหัสจากภาพสไลด์ 27):\n- ไซยาโนแบคทีเรียกลุ่มที่ไม่เป็นสาย (Non-filamentous): เป็นเซลล์เดี่ยวหรือโคโลนีที่ห่อหุ้มด้วยเมือก\n- สกุลสำคัญที่แสดงในภาพ:\n  • Merismopedia: เซลล์ทรงกลมเรียงตัวอย่างเป็นระเบียบในระนาบแบน 2 มิติ คล้ายแผ่นตารางสี่เหลี่ยมเรขาคณิต (Grid sheet) เกิดจากการแบ่งเซลล์ใน 2 ระนาบสลับกัน\n  • Microcystis: โคโลนีรูปร่างไม่แน่นอน เซลล์กลมจำนวนมากอัดแน่นในเมือกเจลาติน เป็นสาเหตุหลักของการเกิดปรากฏการณ์น้ำเขียว (Water bloom) และสร้างสารพิษไมโครซิสติน (Microcystin) ซึ่งเป็นพิษต่อตับ (Hepatotoxin)\n  • Anacystis, Agmenellum, Coccochloris: โคโลนีเซลล์เดี่ยวรูปไข่หรือกลมในเมือกหนา",
+    "deep_explanation": "Microcystis aeruginosa เจริญเติบโตอย่างรวดเร็วในแหล่งน้ำที่มีมลพิษจากฟอสฟอรัสและไนโตรเจนสูง (Eutrophication) สารพิษ Microcystin-LR เป็นเพปไทด์แบบวงแหวน (Cyclic heptapeptide) ที่ออกฤทธิ์ยับยั้งเอนไซม์ Protein phosphatase 1 และ 2A ในตับ ทำให้เซลล์ตับถูกทำลาย เกิดภาวะเลือดออกในตับ ตับวายเฉียบพลัน และเป็นสารก่อมะเร็งตับในระยะยาว",
+    "real_world_examples": "เหตุการณ์น้ำประปาปนเปื้อนสารพิษสาหร่ายที่เมืองโทลีโด รัฐโอไฮโอ สหรัฐอเมริกา ในปี 2014 จากการบลูมของ Microcystis ในทะเลสาบอิรี ทำให้ประชาชนกว่า 400,000 คนไม่มีน้ำดื่มปลอดภัยใช้นานหลายวัน",
+    "pro_tips": "จำลักษณะรูปทรงใต้กล้อง:\n- แผ่นตารางสี่เหลี่ยมสมมาตร = Merismopedia\n- ก้อนเมือกกลุ่มเซลล์แน่น ปล่อยสารพิษตับ = Microcystis",
+    "references": [
+      {
+        "title": "EPA: Cyanobacterial Harmful Algal Blooms (Microcystin)",
+        "url": "https://www.epa.gov/cyanohabs"
+      },
+      {
+        "title": "WHO: Guidelines for Safe Recreational Water - Cyanobacteria",
+        "url": "https://www.who.int/water_sanitation_health/bathing/srwg1.pdf"
+      }
+    ],
+    "image": "slides_img/monera/slide_27.png"
+  },
+  {
+    "id": "monera-28",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 28,
+    "chapter_id": "monera-mod-6",
+    "chapter_title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+    "title": "สไลด์ 28: อันดับ Nostocales (ไซยาโนแบคทีเรียชนิดสายที่มีเฮเทอโรซิสต์)",
+    "subtitle": "Anabaena, Oscillatoria, Rivularia, Lyngbya และการเคลื่อนไหวแบบแกว่งกวัด",
+    "keywords": [
+      "Nostocales",
+      "Anabaena",
+      "Oscillatoria",
+      "Rivularia",
+      "Lyngbya",
+      "Filamentous",
+      "Gliding motility"
+    ],
+    "original_content": "Order Nostocales (ถอดรหัสจากภาพสไลด์ 28):\n- ไซยาโนแบคทีเรียชนิดที่เป็นสายยาว (Filamentous) เซลล์เรียงต่อกันเป็นเส้นใย (Trichome)\n- สกุลสำคัญที่แสดงในภาพ:\n  • Anabaena: สายคล้ายลูกปัด มี Heterocyst และ Akinete กระจายอยู่ในสาย\n  • Oscillatoria: สายตรงเซลล์แบนเป็นแผ่นเรียงซ้อนกัน ไม่มี Heterocyst เคลื่อนไหวได้โดยการแกว่งกวัดและเลื่อนไถลไปมา (Oscillation / Gliding)\n  • Rivularia: สายที่เรียวเล็กลงจากโคนสู่ปลาย (Tapering filament) มี Heterocyst อยู่ที่โคนสาย รวมกลุ่มแผ่ออกเป็นรัศมีคล้ายพัดในก้อนวุ้นกลม\n  • Lyngbya: สายยาวบรรจุอยู่ในปลอกเมือกทรงกระบอกหนาแน่น (Prominent rigid sheath)",
+    "deep_explanation": "ชื่อของสกุล Oscillatoria มาจากคำว่า 'Oscillate' แปลว่า แกว่งไปมา การเคลื่อนที่แบบนี้ไม่มีแฟลกเจลลา แต่เกิดจากการหลั่งเมือกพอลิแซ็กคาไรด์ผ่านรูพรุนเล็กๆ บนผนังเซลล์ร่วมกับคลื่นการบีบตัวของเส้นใยโปรตีนใต้เยื่อหุ้มเซลล์ ทำให้สายสามารถเลื่อนไถลและส่ายปลายไปมาเพื่อหาแสงแดดที่เหมาะสมได้",
+    "real_world_examples": "Oscillatoria มักพบเจริญเป็นแผ่นเมือกสีเขียวเข้มถึงดำตามขอบสระน้ำ ท่อระบายน้ำ หรือคูเมือง เป็นตัวบ่งชี้ทางชีวภาพของแหล่งน้ำที่มีสารอินทรีย์ปนเปื้อนปานกลางถึงสูง",
+    "pro_tips": "จำจุดต่างเด่นใน Order Nostocales:\n- Oscillatoria = ไม่มี Heterocyst แต่จัดอยู่ในกลุ่มนี้เพราะโครงสร้างสาย เคลื่อนที่แกว่งกวัดได้\n- Rivularia = สายปลายเรียวแหลม Heterocyst อยู่ที่โคน\n- Anabaena = สายลูกปัด มีทั้ง Heterocyst และ Akinete",
+    "references": [
+      {
+        "title": "US Public Health Service: Identification of Filamentous Cyanobacteria",
+        "url": "https://www.plantscience4u.com/2018/10/heterocyst-of-nostoc-structure-and-function.html"
+      },
+      {
+        "title": "AlgaeBase: Order Nostocales Taxonomy",
+        "url": "https://www.algaebase.org/"
+      }
+    ],
+    "image": "slides_img/monera/slide_28.png"
+  },
+  {
+    "id": "monera-29",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 29,
+    "chapter_id": "monera-mod-7",
+    "chapter_title": "โมดูล 7: กลุ่มย่อย 5 กลุ่มของโดเมนแบคทีเรีย",
+    "title": "สไลด์ 29: กลุ่มย่อย 5 กลุ่มในโดเมนแบคทีเรีย: 1. Proteobacteria และ 2. Chlamydias",
+    "subtitle": "ความหลากหลายสูงสุดของแกรมลบ และแบคทีเรียปรสิตขโมย ATP ในเซลล์สัตว์",
+    "keywords": [
+      "Domain Bacteria",
+      "Proteobacteria",
+      "Chlamydias",
+      "Chlamydia trachomatis",
+      "Obligate intracellular parasite",
+      "Endosymbiosis"
+    ],
+    "original_content": "การจัดกลุ่มแบคทีเรียใน Domain Bacteria นิยมแบ่งเป็น 5 กลุ่มย่อยหลัก:\n1. Proteobacteria:\n- กลุ่มที่มีความหลากหลายสูงสุดทั้งจำนวนชนิดและเมแทบอลิซึม\n- ทุกชนิดเป็นแบคทีเรียแกรมลบ (Gram-negative)\n- มีทั้ง Photoautotrophs, Chemoautotrophs, และ Heterotrophs\n- มีทั้งพวกที่ใช้ออกซิเจน (Aerobic) และไม่ใช้ออกซิเจน (Anaerobic)\n- แบ่งย่อยเป็น 5 กลุ่ม: Alpha, Beta, Gamma, Delta, Epsilon (Alpha-proteobacteria เป็นบรรพบุรุษของไมโทคอนเดรีย)\n2. Chlamydias:\n- แบคทีเรียแกรมลบที่เป็นปรสิตภายในเซลล์ของสัตว์อย่างถาวร (Obligate intracellular parasites)\n- ไม่สามารถสร้าง ATP เองได้เพียงพอ ต้องอาศัยเซลล์โฮสต์เป็นแหล่งของ ATP\n- ผนังเซลล์พิเศษ: ไม่มี Peptidoglycan (หรือมีน้อยมาก)\n- ตัวอย่างสำคัญ: Chlamydia trachomatis ก่อให้เกิดโรคตาบอดริดสีดวงตา (Trachoma) และโรคหนองในเทียม (Nongonococcal urethritis)",
+    "deep_explanation": "Chlamydia trachomatis มีวงชีวิตที่ซับซ้อน 2 ระยะสลับกัน: 1) Elementary Body (EB) เป็นอนุภาคขนาดเล็ก ทนต่อสภาพแวดล้อมภายนอก ทำหน้าที่แพร่กระจายและบุกรุกเข้าเซลล์โฮสต์, 2) Reticulate Body (RB) เป็นระยะขยายพันธุ์ภายในแวคิวโอลของเซลล์โฮสต์ โดยแบ่งตัวแบบ Binary fission ก่อนจะเปลี่ยนกลับเป็น EB แล้วทำให้เซลล์แตกออกเพื่อแพร่เชื้อต่อ โรคริดสีดวงตาเป็นสาเหตุอันดับ 1 ของภาวะตาบอดจากโรคติดเชื้อที่ป้องกันได้ทั่วโลก",
+    "real_world_examples": "แบคทีเรียในกลุ่ม Gamma-proteobacteria รวมถึงเชื้อคุ้นเคยอย่าง E. coli, Salmonella, Vibrio cholerae และ Pseudomonas aeruginosa",
+    "pro_tips": "จุดจำข้อสอบสำคัญ:\n- Alpha-proteobacteria = บรรพบุรุษของไมโทคอนเดรีย (Mitochondria origin)\n- Chlamydias = ขโมย ATP จากโฮสต์ และผนังเซลล์ไม่มี Peptidoglycan",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Major Bacterial Groups",
+        "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes"
+      },
+      {
+        "title": "WHO: Trachoma and Chlamydia Elimination",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/trachoma"
+      }
+    ],
+    "image": "slides_img/monera/slide_29.png"
+  },
+  {
+    "id": "monera-30",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 30,
+    "chapter_id": "monera-mod-7",
+    "chapter_title": "โมดูล 7: กลุ่มย่อย 5 กลุ่มของโดเมนแบคทีเรีย",
+    "title": "สไลด์ 30: กลุ่มย่อย 5 กลุ่ม: 3. Spirochetes และ 4. Gram-Positive Bacteria",
+    "subtitle": "แบคทีเรียเกลียวควงสว่าน และแบคทีเรียแกรมบวก (แอคติโนมัยซีท แหล่งยาปฏิชีวนะ)",
+    "keywords": [
+      "Spirochetes",
+      "Treponema pallidum",
+      "Gram-positive",
+      "Actinomycetes",
+      "Streptomyces",
+      "Mycobacterium"
+    ],
+    "original_content": "3. Spirochetes:\n- แบคทีเรียรูปเกลียวที่มีความยาวได้ถึง 0.25 มิลลิเมตร ผนังเซลล์ยืดหยุ่น\n- เคลื่อนที่ด้วยเส้นใยแกน (Axial filament หรือ Endoflagella) บิดตัวแบบควงสว่าน (Corkscrew motility) ทะลุผ่านเยื่อเมือกได้ดี\n- มีทั้งพวกดำรงชีวิตอิสระและก่อโรคร้ายแรง เช่น Treponema pallidum สาเหตุของโรคซิฟิลิส, Borrelia burgdorferi สาเหตุของโรคไลม์\n4. Gram Positive Bacteria:\n- มีผนังเซลล์ Peptidoglycan หนา ติดสีย้อมม่วง มีความหลากหลายสูง\n- Actinomycetes: เซลล์เรียงต่อกันเป็นสายยาวแตกแขนงคล้ายเส้นใยรา\n  • ดำรงชีวิตอิสระในดิน ย่อยสลายสารอินทรีย์ และผลิตสาร Geosmin ที่ให้กลิ่นไอดินสดชื่นหลังฝนตก\n  • สกุล Streptomyces ในดิน นำมาใช้สังเคราะห์ยาปฏิชีวนะสำคัญ เช่น Streptomycin, Tetracycline, Chloramphenicol\n- กลุ่มก่อโรคสำคัญ: เชื้อวัณโรคและโรคเรื้อน (Mycobacterium spp.), บาดทะยักและโบทูลิซึม (Clostridium spp.), แอนแทรกซ์ (Bacillus anthracis)",
+    "deep_explanation": "กลไกการเคลื่อนที่แบบควงสว่านของ Spirochetes เกิดจากแฟลกเจลลาที่ไม่ได้ยื่นออกไปนอกเซลล์ แต่อยู่ในช่องว่างระหว่างผนังเซลล์กับเยื่อหุ้มชั้นนอก (Periplasmic space) เรียกว่า Endoflagella เมื่อเส้นใยนี้หมุน จะทำให้ทั้งเซลล์บิดหมุนเป็นเกลียว ช่วยให้มันเจาะทะลุผ่านของเหลวหนืด เช่น เยื่อเมือกในช่องคลอด หรือเจาะทะลุผนังหลอดเลือดเข้าสู่สมองได้ดีกว่าแบคทีเรียชนิดอื่น",
+    "real_world_examples": "กลิ่นดินสดชื่นเมื่อฝนตกใหม่ๆ (Petrichor) มีสารประกอบสำคัญคือ 'Geosmin' ซึ่งผลิตโดยแบคทีเรีย Streptomyces ในดิน มนุษย์มีประสาทรับกลิ่นที่ไวต่อสาร Geosmin อย่างยิ่งยวด แม้มีความเข้มข้นเพียงไม่กี่ส่วนในล้านล้านส่วน (ppt)",
+    "pro_tips": "ข้อสอบถามหากลิ่นดิน / แหล่งผลิตยาปฏิชีวนะ: คำตอบคือ 'Streptomyces' ในกลุ่ม Gram-positive (Actinomycetes)!",
+    "references": [
+      {
+        "title": "PubMed: Axial filaments and motility of Spirochetes",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/11092892/"
+      },
+      {
+        "title": "Microbiology Society: Streptomyces and Natural Antibiotics",
+        "url": "https://microbiologysociety.org/why-microbiology-matters/what-is-microbiology/bacteria/streptomyces.html"
+      }
+    ],
+    "image": "slides_img/monera/slide_30.png"
+  },
+  {
+    "id": "monera-31",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรมอเนอรา -.pdf",
+    "slide": 31,
+    "chapter_id": "monera-mod-7",
+    "chapter_title": "โมดูล 7: กลุ่มย่อย 5 กลุ่มของโดเมนแบคทีเรีย",
+    "title": "สไลด์ 31: กลุ่มย่อย 5 กลุ่ม: 5. Cyanobacteria (สรุปภาพรวม)",
+    "subtitle": "ผู้ผลิตออกซิเจน ผู้ตรึงไนโตรเจน และแกนหลักของวัฏจักรสารอาหารในโลก",
+    "keywords": [
+      "Cyanobacteria",
+      "Photoautotroph",
+      "Oxygenic photosynthesis",
+      "Nostoc",
+      "Anabaena",
+      "Summary"
+    ],
+    "original_content": "5. Cyanobacteria (กลุ่มที่ 5 ในโดเมนแบคทีเรีย):\n- เป็นสิ่งมีชีวิตกลุ่ม Photoautotrophs สังเคราะห์ด้วยแสงแบบให้ออกซิเจน (Oxygenic photosynthesis)\n- มีทั้งชนิดเซลล์เดียว (Unicellular) และรวมกันเป็นโคโลนีหรือสาย (Colonial / Filamentous)\n- พบได้ทุกหนทุกแห่งในโลกที่มีความชื้น ตั้งแต่น้ำจืด น้ำเค็ม บ่อน้ำร้อน ไปจนถึงหิมะขั้วโลก\n- เป็นแหล่งผลิตอาหารและออกซิเจนที่สำคัญที่สุดกลุ่มหนึ่งในระบบนิเวศชีวมณฑล\n- หลายชนิดมีความสามารถพิเศษในการตรึงก๊าซไนโตรเจนในอากาศ เช่น Nostoc, Anabaena, Calothrix ผ่านเซลล์เฮเทอโรซิสต์",
+    "deep_explanation": "การจัดให้ Cyanobacteria เป็น 1 ใน 5 สายวิวัฒนาการหลักของ Domain Bacteria ยืนยันถึงสถานะทางวิวัฒนาการที่เก่าแก่และสำคัญยิ่งของพวกมัน การที่ไซยาโนแบคทีเรียเป็นจุดเริ่มต้นของเซลล์พืชผ่านกระบวนการ Primary Endosymbiosis ทำให้โลกเปลี่ยนผ่านจากดาวเคราะห์ไร้ออกซิเจนมาเป็นดาวเคราะห์สีเขียวที่เต็มไปด้วยสิ่งมีชีวิตยูแคริโอตหลายเซลล์",
+    "real_world_examples": "ปรากฏการณ์สาหร่ายสะพรั่ง (Cyanobacterial blooms) ในเขื่อนและอ่างเก็บน้ำทั่วโลกในปัจจุบัน สะท้อนให้เห็นว่าพวกมันสามารถปรับตัวและเจริญเติบโตได้รวดเร็วเพียงใดเมื่อได้รับสารอาหารไนโตรเจนและฟอสฟอรัสจากกิจกรรมของมนุษย์",
+    "pro_tips": "สรุปจำ 5 กลุ่มย่อยของ Domain Bacteria:\n1. Proteobacteria (แกรมลบ หลากหลาย บรรพบุรุษไมโทคอนเดรีย)\n2. Chlamydias (ปรสิตในเซลล์สัตว์ ขโมย ATP ผนังไร้เพปทิโดไกลแคน)\n3. Spirochetes (เกลียวควงสว่าน ซิฟิลิส โรคฉี่หนู)\n4. Gram-positive bacteria (ผนังหนา สปอร์ แอคติโนมัยซีท ยาปฏิชีวนะ)\n5. Cyanobacteria (สังเคราะห์แสงให้ออกซิเจน ตรึงไนโตรเจน)",
+    "references": [
+      {
+        "title": "Campbell Biology (12th ed): Chapter 27 - Bacteria and Archaea",
+        "url": "https://www.pearson.com/en-us/subject-catalog/p/campbell-biology/P200000003318"
+      },
+      {
+        "title": "OpenStax Biology 2e: Prokaryotic Diversity Summary",
+        "url": "https://openstax.org/books/biology-2e/pages/22-2-structure-of-prokaryotes"
+      }
+    ],
+    "image": "slides_img/monera/slide_31.png"
+  }
+]

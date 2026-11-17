@@ -1,0 +1,185 @@
+{
+  "courses": [
+    {
+      "id": "monera",
+      "title": "Kingdom Monera (อาณาจักรมอเนอรา)",
+      "subtitle": "สิ่งมีชีวิตโพรแคริโอต แบคทีเรีย ไซยาโนแบคทีเรีย และบทบาทต่อระบบนิเวศ",
+      "original_file": "อาณาจักรมอเนอรา -.pdf",
+      "total_slides": 31,
+      "color": "#0ea5e9",
+      "accent_bg": "rgba(14, 165, 233, 0.08)",
+      "description": "สำรวจโลกของสิ่งมีชีวิตเซลล์เดียวขนาดเล็กที่ครองโลกมากว่า 3.5 พันล้านปี ตั้งแต่ประวัติศาสตร์การจัดจำแนก โครงสร้างเซลล์ สรีรวิทยา การสืบพันธุ์ ไซยาโนแบคทีเรีย ไปจนถึงประโยชน์และโทษทางการแพทย์และการเกษตร"
+    },
+    {
+      "id": "protista",
+      "title": "Kingdom Protista (อาณาจักรโพรติสตา)",
+      "subtitle": "สิ่งมีชีวิตยูแคริโอตยุคแรก โพรโทซัว สาหร่าย ราเมือก และความหลากหลายเชิงวิวัฒนาการ",
+      "original_file": "อาณาจักรโพรติสต.pdf",
+      "total_slides": 24,
+      "color": "#10b981",
+      "accent_bg": "rgba(16, 185, 129, 0.08)",
+      "description": "เจาะลึกอาณาจักรโพลีไฟเลติกที่เป็นสะพานเชื่อมสู่พืช สัตว์ และฟังไจ ครอบคลุมกลุ่ม Excavata, Chromalveolata (Alveolata & Stramenopiles), Archaeplastida (สาหร่ายสีแดงและสีเขียว) และ Amoebozoa พร้อมวัฏจักรชีวิตแบบสลับ"
+    }
+  ],
+  "modules": [
+    {
+      "id": "monera-mod-1",
+      "course_id": "monera",
+      "title": "โมดูล 1: ประวัติและระบบการจัดหมวดหมู่สิ่งมีชีวิต",
+      "slide_range": "สไลด์ 1 - 4",
+      "slide_ids": [
+        "monera-01",
+        "monera-02",
+        "monera-03",
+        "monera-04"
+      ]
+    },
+    {
+      "id": "monera-mod-2",
+      "course_id": "monera",
+      "title": "โมดูล 2: สัณฐานวิทยาและโครงสร้างเซลล์แบคทีเรีย",
+      "slide_range": "สไลด์ 5 - 10",
+      "slide_ids": [
+        "monera-05",
+        "monera-06",
+        "monera-07",
+        "monera-08",
+        "monera-09",
+        "monera-10"
+      ]
+    },
+    {
+      "id": "monera-mod-3",
+      "course_id": "monera",
+      "title": "โมดูล 3: สรีรวิทยา การสืบพันธุ์ และเกณฑ์การจำแนกแบคทีเรีย",
+      "slide_range": "สไลด์ 11 - 12",
+      "slide_ids": [
+        "monera-11",
+        "monera-12"
+      ]
+    },
+    {
+      "id": "monera-mod-4",
+      "course_id": "monera",
+      "title": "โมดูล 4: ประโยชน์ โทษ และโรคที่เกิดจากแบคทีเรีย",
+      "slide_range": "สไลด์ 13 - 17",
+      "slide_ids": [
+        "monera-13",
+        "monera-14",
+        "monera-15",
+        "monera-16",
+        "monera-17"
+      ]
+    },
+    {
+      "id": "monera-mod-5",
+      "course_id": "monera",
+      "title": "โมดูล 5: ไซยาโนแบคทีเรีย (สาหร่ายสีเขียวแกมน้ำเงิน)",
+      "slide_range": "สไลด์ 18 - 23",
+      "slide_ids": [
+        "monera-18",
+        "monera-19",
+        "monera-20",
+        "monera-21",
+        "monera-22",
+        "monera-23"
+      ]
+    },
+    {
+      "id": "monera-mod-6",
+      "course_id": "monera",
+      "title": "โมดูล 6: นิเวศวิทยา ประโยชน์ และการจัดอันดับไซยาโนแบคทีเรีย",
+      "slide_range": "สไลด์ 24 - 28",
+      "slide_ids": [
+        "monera-24",
+        "monera-25",
+        "monera-26",
+        "monera-27",
+        "monera-28"
+      ]
+    },
+    {
+      "id": "monera-mod-7",
+      "course_id": "monera",
+      "title": "โมดูล 7: กลุ่มย่อย 5 กลุ่มของโดเมนแบคทีเรีย",
+      "slide_range": "สไลด์ 29 - 31",
+      "slide_ids": [
+        "monera-29",
+        "monera-30",
+        "monera-31"
+      ]
+    },
+    {
+      "id": "protista-mod-1",
+      "course_id": "protista",
+      "title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+      "slide_range": "สไลด์ 1 - 5",
+      "slide_ids": [
+        "protista-01",
+        "protista-02",
+        "protista-03",
+        "protista-04",
+        "protista-05"
+      ]
+    },
+    {
+      "id": "protista-mod-2",
+      "course_id": "protista",
+      "title": "โมดูล 2: ซูเปอร์กรุ๊ป Excavata (ไดโพลโมนาดิดา, พาราบาซาลา, ยูกลีโนซัว)",
+      "slide_range": "สไลด์ 6 - 9",
+      "slide_ids": [
+        "protista-06",
+        "protista-07",
+        "protista-08",
+        "protista-09"
+      ]
+    },
+    {
+      "id": "protista-mod-3",
+      "course_id": "protista",
+      "title": "โมดูล 3: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Alveolata",
+      "slide_range": "สไลด์ 10 - 13",
+      "slide_ids": [
+        "protista-10",
+        "protista-11",
+        "protista-12",
+        "protista-13"
+      ]
+    },
+    {
+      "id": "protista-mod-4",
+      "course_id": "protista",
+      "title": "โมดูล 4: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Stramenopiles",
+      "slide_range": "สไลด์ 14 - 17",
+      "slide_ids": [
+        "protista-14",
+        "protista-15",
+        "protista-16",
+        "protista-17"
+      ]
+    },
+    {
+      "id": "protista-mod-5",
+      "course_id": "protista",
+      "title": "โมดูล 5: ซูเปอร์กรุ๊ป Archaeplastida (สาหร่ายสีแดงและสีเขียว)",
+      "slide_range": "สไลด์ 18 - 21",
+      "slide_ids": [
+        "protista-18",
+        "protista-19",
+        "protista-20",
+        "protista-21"
+      ]
+    },
+    {
+      "id": "protista-mod-6",
+      "course_id": "protista",
+      "title": "โมดูล 6: ซูเปอร์กรุ๊ป Amoebozoa (ราเมือก และอะมีบา)",
+      "slide_range": "สไลด์ 22 - 24",
+      "slide_ids": [
+        "protista-22",
+        "protista-23",
+        "protista-24"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+[
+  {
+    "id": "protista-01",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 1,
+    "chapter_id": "protista-mod-1",
+    "chapter_title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+    "title": "สไลด์ 1: อาณาจักรโพรติสตา (Protista Kingdom Overview)",
+    "subtitle": "กลุ่มสิ่งมีชีวิตยูแคริโอตที่ไม่ใช่พืช สัตว์ หรือฟังไจ (โพลีไฟเลติก)",
+    "keywords": [
+      "Protista",
+      "Eukaryote",
+      "Polyphyletic",
+      "Protozoa",
+      "Algae",
+      "Slime molds"
+    ],
+    "original_content": "Kingdom Protista (ถอดรหัสจากภาพสไลด์ 1):\nอาณาจักรของสิ่งมีชีวิตยูแคริโอตที่หลากหลาย ประกอบด้วย:\n1. โพรทิสต์คล้ายสัตว์ (Animal-like protists / Protozoa): เช่น Chaos diffluens (อะมีบายักษ์)\n2. โพรทิสต์คล้ายพืช (Plant-like protists / Algae): เช่น Eupodiscus radiatus (ไดอะตอม)\n3. โพรทิสต์คล้ายฟังไจ (Fungus-like protists / Slime molds): เช่น Fuligo septica (ราเมือกไข่ไก่รังนกจวง)\n4. สาหร่ายทะเลหลายเซลล์ (Multicellular Seaweed): เช่น สาหร่ายทุ่นและฟิวกัส (Fucus vesiculosus)",
+    "deep_explanation": "อาณาจักรโพรติสตาเป็นกลุ่มแบบ 'โพลีไฟเลติก' (Polyphyletic taxon) หมายความว่าสมาชิกในกลุ่มไม่ได้วิวัฒนาการมาจากบรรพบุรุษร่วมเพียงหนึ่งเดียว แต่เป็นกลุ่มที่นักอนุกรมวิธานในอดีตสร้างขึ้นเพื่อรองรับ 'สิ่งมีชีวิตยูแคริโอตใดๆ ที่ไม่สามารถจัดเข้าเป็นพืช สัตว์ หรือฟังไจได้' ในชีววิทยาสมัยใหม่ ระบบ Eukaryotic Supergroups จึงถูกนำมาใช้แทนที่เพื่อสะท้อนความสัมพันธ์ทางพันธุกรรมระดับโมเลกุลที่แท้จริง",
+    "real_world_examples": "Fuligo septica (Dog vomit slime mold) ราเมือกสีเหลืองสดที่มักพบบนเศษเปลือกไม้คลุมดินในสวนหลังฝนตก มีความสามารถทนทานต่อโลหะหนักสังกะสี (Zinc) ในระดับที่สูงจนเป็นพิษต่อสิ่งมีชีวิตอื่น",
+    "pro_tips": "จำความหลากหลาย 3 กลุ่มดั้งเดิมของโพรทิสต์:\n1. Protozoa = คล้ายสัตว์ (เคลื่อนที่ได้ หาอาหารกินเองไม่ได้ Heterotroph)\n2. Algae = คล้ายพืช (สังเคราะห์ด้วยแสงได้ Autotroph มีผนังเซลล์)\n3. Slime molds = คล้ายฟังไจ (เป็นผู้ย่อยสลาย สร้างสปอร์ Decomposer)",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Introduction to Protists",
+        "url": "https://openstax.org/books/biology-2e/pages/23-1-eukaryotic-origins"
+      },
+      {
+        "title": "Berkeley UCMP: Introduction to the 'Protista'",
+        "url": "https://ucmp.berkeley.edu/protista/protista.html"
+      }
+    ],
+    "image": "slides_img/protista/slide_01.png"
+  },
+  {
+    "id": "protista-02",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 2,
+    "chapter_id": "protista-mod-1",
+    "chapter_title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+    "title": "สไลด์ 2: ซูเปอร์กรุ๊ปยูแคริโอต 6 กลุ่มและสายวิวัฒนาการ (Eukaryotic Supergroups)",
+    "subtitle": "Archaeplastida, Amoebozoa, Opisthokonta, Rhizaria, Chromalveolata, Excavata",
+    "keywords": [
+      "Supergroups",
+      "Archaeplastida",
+      "Amoebozoa",
+      "Opisthokonta",
+      "Rhizaria",
+      "Chromalveolata",
+      "Excavata"
+    ],
+    "original_content": "ซูเปอร์กรุ๊ปยูแคริโอต 6 กลุ่มหลัก (ถอดรหัสจากแผนภาพสไลด์ 2):\n1. Archaeplastida: สาหร่ายสีแดง (Red algae), สาหร่ายสีเขียว (Chlorophytes, Charophytes) และพืชบก (Land plants)\n2. Amoebozoa: ราเมือก (Slime molds), อะมีบาเปลือย (Gymnamoebas), อะมีบามีเปลือก/ปรสิต (Entamoebas)\n3. Opisthokonta: นิวคลีอาริอิด (Nucleariids), ฟังไจ (Fungi), โคแอนโนแฟลเจลเลต (Choanoflagellates), สัตว์ (Animals)\n4. Rhizaria: เซอร์โคซัว (Cercozoans), ฟอรามินิเฟอรา (Forams), เรดิโอลาเรีย (Radiolarians)\n5. Chromalveolata: แบ่งเป็น 2 กลุ่มย่อย:\n  - Alveolates (Dinoflagellates, Apicomplexans, Ciliates)\n  - Stramenopiles (Diatoms, Golden algae, Brown algae, Oomycetes)\n6. Excavata: ไดโพลโมนาด (Diplomonads), พาราบาซาลิด (Parabasalids), ยูกลีโนซัว (Euglenozoans)",
+    "deep_explanation": "ระบบ 6 Supergroups จัดกลุ่มตามลักษณะทางโมเลกุล การจัดเรียงยีนในนิวเคลียสและไมโทคอนเดรีย และโครงสร้างของแฟลกเจลลา สังเกตว่าพืช สัตว์ และฟังไจ ถูกรวมอยู่ร่วมกับโพรทิสต์ในแต่ละซูเปอร์กรุ๊ป เช่น พืชบกอยู่ใน Archaeplastida ร่วมกับสาหร่ายสีเขียว ขณะที่มนุษย์และสัตว์อยู่ใน Opisthokonta ร่วมกับ Choanoflagellates ซึ่งเป็นญาติที่ใกล้ชิดที่สุดของสัตว์",
+    "real_world_examples": "หินชอล์กสีขาวแห่งหน้าผาไวท์คลิฟฟ์แห่งโดเวอร์ (White Cliffs of Dover) ในอังกฤษ เกิดจากการทับถมของซากเปลือกแคลเซียมคาร์บอเนตของโพรทิสต์ในกลุ่ม Rhizaria (Foraminifera) ยุคดึกดำบรรพ์",
+    "pro_tips": "ข้อสอบเข้ามหาวิทยาลัยชอบถามสายสัมพันธ์:\n- สาหร่ายสีเขียวสัมพันธ์ใกล้ชิดที่สุดกับ -> พืชบก (อยู่ใน Archaeplastida เหมือนกัน)\n- Choanoflagellates สัมพันธ์ใกล้ชิดที่สุดกับ -> สัตว์ (อยู่ใน Opisthokonta)",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Groups of Protists",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "Campbell Biology (12th ed): Chapter 28 - Protists",
+        "url": "https://www.pearson.com/en-us/subject-catalog/p/campbell-biology/P200000003318"
+      }
+    ],
+    "image": "slides_img/protista/slide_02.png"
+  },
+  {
+    "id": "protista-03",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 3,
+    "chapter_id": "protista-mod-1",
+    "chapter_title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+    "title": "สไลด์ 3: ระดับการจัดระเบียบโครงสร้างของโพรทิสต์ (Cellular Organization)",
+    "subtitle": "เซลล์เดียว (Unicellular), โคโลนี (Colony: Volvox, Pyrobotrys) และสายยาว (Filament)",
+    "keywords": [
+      "Unicellular",
+      "Colony",
+      "Filament",
+      "Tissue",
+      "Volvox",
+      "Pyrobotrys squarrosa"
+    ],
+    "original_content": "ลักษณะสำคัญของสิ่งมีชีวิต Kingdom Protista (ข้อ 1):\n1. โครงสร้างร่างกาย: ประกอบด้วยโครงสร้างง่ายๆ ไม่ซับซ้อน ส่วนมากประกอบด้วยเซลล์เดียว (Unicellular) บางชนิดมีหลายเซลล์รวมกันเป็นกลุ่ม เรียกว่า โคโลนี (Colony) หรือเรียงต่อกันเป็นสายยาว (Filament) แต่**เซลล์เหล่านี้ยังไม่ทำหน้าที่ร่วมกันเป็นเนื้อเยื่อ (Tissue) หรืออวัยวะ (Organ) ที่แท้จริง**\nตัวอย่างสำคัญที่แสดงในภาพ:\n- Volvox: สาหร่ายสีเขียวโคโลนีทรงกลมกลวง มีเซลล์รูปไข่มีแฟลกเจลลาหลายร้อยถึงหลายพันเซลล์เชื่อมกันด้วยเส้นใยไซโทพลาสซึม และมีลูกโคโลนี (Daughter colonies) อยู่ภายใน\n- Pyrobotrys squarrosa: สาหร่ายสีเขียวเซลล์เดียวรวมกลุ่มเป็นโคโลนีรูปกระจุกแบนหรือพีระมิด",
+    "deep_explanation": "เส้นแบ่งทางวิวัฒนาการระหว่าง 'โพรทิสต์หลายเซลล์' กับ 'พืช/สัตว์/ฟังไจ' คือความแตกต่างระหว่างการรวมกลุ่มของเซลล์ (Aggregation / Colony) กับการเกิดเนื้อเยื่อที่แท้จริง (True tissue differentiation) ในโพรทิสต์อย่าง Volvox แม้จะมีการแบ่งงานกันทำระหว่างเซลล์ร่างกาย (Somatic cells) กับเซลล์สืบพันธุ์ (Gonidia) แต่หากเซลล์หลุดออกจากกัน แต่ละเซลล์ยังมีศักยภาพในการเอาชีวิตรอดได้ในระดับหนึ่ง ต่างจากเซลล์ตับหรือเซลล์ผิวหนังของมนุษย์ที่ไม่สามารถมีชีวิตเดี่ยวได้",
+    "real_world_examples": "Volvox เป็นสิ่งมีชีวิตต้นแบบสำคัญในชีววิทยาวิวัฒนาการ เพื่อศึกษาว่าสิ่งมีชีวิตเปลี่ยนผ่านจาก 'สิ่งมีชีวิตเซลล์เดียว' ไปสู่ 'สิ่งมีชีวิตหลายเซลล์' (Origin of multicellularity) ได้อย่างไร",
+    "pro_tips": "คีย์เวิร์ดจำง่าย: โพรทิสต์มีได้ตั้งแต่เซลล์เดียวไปจนถึงขนาดใหญ่ยักษ์หลายสิบเมตร (เช่น Kelp) แต่จุดร่วมคือ 'ไม่มีเนื้อเยื่อที่แท้จริง' (No true tissues)",
+    "references": [
+      {
+        "title": "Microscopy-UK: Micropolitan Fresh Water Algae - Volvox",
+        "url": "http://www.microscopy-uk.org.uk/micropolitan/fresh/algae/volvox450.jpg"
+      },
+      {
+        "title": "Protist Information Server: Pyrobotrys sp.",
+        "url": "http://protist.i.hosei.ac.jp/PDB/Images/Chlorophyta/Pyrobotrys/sp_04.jpg"
+      }
+    ],
+    "image": "slides_img/protista/slide_03.png"
+  },
+  {
+    "id": "protista-04",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 4,
+    "chapter_id": "protista-mod-1",
+    "chapter_title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+    "title": "สไลด์ 4: ลักษณะทางชีววิทยา: ไร้ระยะตัวอ่อน โภชนาการ และการเคลื่อนที่",
+    "subtitle": "No Embryo, ยูแคริโอตดั้งเดิม, การสร้างอาหารแบบผสม (Mixotroph) และโครงสร้างขับเคลื่อน",
+    "keywords": [
+      "No Embryo",
+      "Autotroph",
+      "Consumer",
+      "Decomposer",
+      "Mixotroph",
+      "Cilia",
+      "Flagellum",
+      "Pseudopodium"
+    ],
+    "original_content": "ลักษณะสำคัญของ Kingdom Protista (ข้อ 2-5):\n2. ไม่มีระยะตัวอ่อน (No Embryo): ต่างจากพืชและสัตว์ที่มีการพัฒนาผ่านระยะตัวอ่อนก่อนที่จะเติบโตเป็นตัวเต็มวัย\n3. การดำรงชีพ (Nutrition): มีหลากหลายมาก ทั้งเป็นผู้ผลิต (Autotroph มีคลอโรฟิลล์), ผู้บริโภค (Consumer), ผู้ย่อยสลาย (Decomposer), หรือโภชนาการแบบผสม (Mixotrophs สังเคราะห์แสงได้เมื่อมีแสง และกินอาหารได้เมื่อไม่มีแสง เช่น ยูกลีนา)\n4. โครงสร้างเซลล์: เป็นเซลล์ยูแคริโอตอย่างง่าย (Simplest of Eukaryotic cells) มีเยื่อหุ้มนิวเคลียสและออร์แกเนลล์ ได้แก่ โพรโทซัว สาหร่าย ราเมือก (หมายเหตุ: ในอดีตเคยรวมเห็ดรายีสต์ไว้ด้วย แต่ปัจจุบันแยกเป็น Kingdom Fungi)\n5. การเคลื่อนที่: บางชนิดใช้ซีเลีย (Cilia เช่น พารามีเซียม), แฟลกเจลลัม (Flagellum เช่น ยูกลีนา), ซูโดโปเดียม (Pseudopodium เช่น อะมีบา) และบางชนิดเคลื่อนที่ไม่ได้ (เช่น พลาสโมเดียม)",
+    "deep_explanation": "ข้อแตกต่างที่สำคัญที่สุดระหว่างสาหร่าย (โพรทิสต์) กับพืชแท้จริง (Plantae) คือ: ในพืช ไซโกต (Zygote) จะแบ่งตัวและพัฒนาเป็น 'ตัวอ่อน' (Embryo) ซึ่งได้รับการปกป้องและเลี้ยงดูอยู่ภายในเนื้อเยื่อของต้นแม่ (ทำให้พืชบกมีชื่อเรียกว่า Embryophytes) ส่วนในสาหร่าย ไซโกตจะถูกปล่อยออกสู่สิ่งแวดล้อมโดยตรง หรือแบ่งตัวแบบไมโอซิสทันทีโดยไม่เคยเกิดระยะตัวอ่อน",
+    "real_world_examples": "Euglena gracilis เป็น Mixotroph ที่สมบูรณ์แบบ ในสภาพที่มีแสงแดดจะสังเคราะห์ด้วยแสงเป็นสีเขียว แต่หากนำไปเลี้ยงในห้องมืดเป็นเวลาหลายสัปดาห์ คลอโรพลาสต์จะฝ่อลงและเปลี่ยนไปดำรงชีวิตโดยการดูดซึมสารอินทรีย์รอบตัวคล้ายสัตว์",
+    "pro_tips": "หลักในการตัดชอยส์ข้อสอบ:\n1. ถ้าบอกว่า 'มีระยะเอ็มบริโอ (Embryo)' -> ตัด Protista ทิ้งทันที (เป็นพืชหรือสัตว์)\n2. สิ่งมีชีวิตที่สังเคราะห์แสงได้และกินอาหารได้ในตัวเดียว -> เรียกว่า 'Mixotroph'",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Characteristics of Protists",
+        "url": "https://openstax.org/books/biology-2e/pages/23-1-eukaryotic-origins"
+      },
+      {
+        "title": "LibreTexts: Characteristics of Kingdom Protista",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology"
+      }
+    ],
+    "image": "slides_img/protista/slide_04.png"
+  },
+  {
+    "id": "protista-05",
+    "pdf": "monera",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 5,
+    "chapter_id": "protista-mod-1",
+    "chapter_title": "โมดูล 1: ภาพรวม ลักษณะสำคัญ และสายวิวัฒนาการโพรทิสต์",
+    "title": "สไลด์ 5: รูปแบบการสืบพันธุ์ของโพรทิสต์ (Reproduction Modes)",
+    "subtitle": "การสืบพันธุ์แบบไม่อาศัยเพศ (Asexual) และอาศัยเพศ (Conjugation, Syngamy/Fertilization)",
+    "keywords": [
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Conjugation",
+      "Paramecium",
+      "Fertilization",
+      "Syngamy"
+    ],
+    "original_content": "ลักษณะสำคัญของ Kingdom Protista (ข้อ 6):\n6. การสืบพันธุ์: มีทั้งแบบไม่อาศัยเพศ (Asexual reproduction) และแบบอาศัยเพศ (Sexual reproduction):\n- แบบไม่อาศัยเพศ:\n  • การแบ่งตัวออกเป็น 2 ส่วน (Binary fission): เช่น อะมีบา, ยูกลีนา, พารามีเซียม\n  • การแตกหน่อ (Budding) หรือการแบ่งหลายส่วน (Multiple fission / Schizogony ในพลาสโมเดียม)\n- แบบอาศัยเพศ:\n  • ชนิดคอนจูเกชัน (Conjugation): การแลกเปลี่ยนสารพันธุกรรมระหว่าง 2 เซลล์ผ่านสะพานเชื่อม เช่น ในพารามีเซียม (Paramecium) และสาหร่ายสไปโรไจรา (Spirogyra)\n  • ชนิดปฏิสนธิ (Fertilization / Syngamy): การรวมกันของเซลล์สืบพันธุ์ (Gametes) ที่มีรูปร่างและขนาดต่างกัน (Anisogamy / Oogamy) หรือเหมือนกัน (Isogamy) เช่น ที่พบในสาหร่ายส่วนใหญ่",
+    "deep_explanation": "Conjugation ในพารามีเซียมมีความซับซ้อนอย่างยิ่ง: พารามีเซียม 2 ตัวจะมาประกบกันที่ร่องปาก (Oral groove) ไมโครนิวเคลียส (2n) จะแบ่งตัวแบบไมโอซิสได้ 4 นิวเคลียส (n) สลายไป 3 เหลือ 1 จากนั้นนิวเคลียสที่เหลือจะแบ่งแบบไมโทซิสเป็น 2 นิวเคลียส แล้วเกิดการแลกเปลี่ยนนิวเคลียสเคลื่อนที่ (Migratory pronucleus) ข้ามตัวกัน เมื่อรวมกันจะได้ไมโครนิวเคลียสใหม่ (2n) ที่มีความหลากหลายทางพันธุกรรม จากนั้นจึงแยกย้ายกันไปแบ่งเซลล์ต่อ",
+    "real_world_examples": "Plasmodium falciparum เชื้อมาลาเรีย มีการสืบพันธุ์แบบไม่อาศัยเพศ (Schizogony) เพิ่มจำนวนอย่างรวดเร็วในตับและเม็ดเลือดแดงของมนุษย์ และไปเกิดการสืบพันธุ์แบบอาศัยเพศ (Fertilization) สร้างโอโอซิสต์ในกระเพาะของยุงก้นปล้องเพศเมีย",
+    "pro_tips": "แยกให้ออก:\n- Conjugation ของแบคทีเรีย = ส่งพลาสมิดทางเดียว (One-way HGT) ผ่าน Sex pilus\n- Conjugation ของพารามีเซียม = สลับแลกเปลี่ยนไมโครนิวเคลียสสองทาง (Reciprocal exchange)",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Reproduction in Protists",
+        "url": "https://openstax.org/books/biology-2e/pages/23-1-eukaryotic-origins"
+      },
+      {
+        "title": "MicrobeNotes: Paramecium Conjugation Process",
+        "url": "https://microbenotes.com/paramecium-conjugation/"
+      }
+    ],
+    "image": "slides_img/protista/slide_05.png"
+  },
+  {
+    "id": "protista-06",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 6,
+    "chapter_id": "protista-mod-2",
+    "chapter_title": "โมดูล 2: ซูเปอร์กรุ๊ป Excavata (ไดโพลโมนาดิดา, พาราบาซาลา, ยูกลีโนซัว)",
+    "title": "สไลด์ 6: ซูเปอร์กรุ๊ป Excavata: กลุ่มไดโพลโมนาดิดา (Diplomonadida)",
+    "subtitle": "ยูแคริโอตไร้ไมโทคอนเดรียแท้ นิวเคลียสคู่ แฟลกเจลลาหลายเส้น และ Giardia lamblia",
+    "keywords": [
+      "Excavata",
+      "Diplomonadida",
+      "Giardia lamblia",
+      "Mitosome",
+      "Two nuclei",
+      "Giardiasis",
+      "Beaver fever"
+    ],
+    "original_content": "อาณาจักรโพรทิสตา: กลุ่มไดโพลโมนาดิดา (Diplomonadida) และพาราบาซาลา (Parabasala)\n1. กลุ่มไดโพลโมนาดิดา (Diplomonadida):\n- เป็นโพรทิสต์เซลล์ยูแคริโอตดั้งเดิมที่มีนิวเคลียสและไรโบโซม\n- ยังไม่มีออร์แกเนลล์ที่มีเยื่อหุ้มตามปกติ (ไม่มีไมโทคอนเดรียแท้และไม่มีกอลจิบอดี แต่มีออร์แกเนลล์ฝ่อเรียก Mitosome)\n- มีนิวเคลียส 2 อันที่มีขนาดเท่ากัน (Two equal-sized nuclei)\n- มีแฟลกเจลลาหลายเส้น (มักมี 4 คู่ หรือ 8 เส้น)\n- ตัวอย่างสำคัญ: Giardia lamblia (ปรสิตในลำไส้เล็กของมนุษย์และสัตว์)",
+    "deep_explanation": "Giardia lamblia เป็นสาเหตุของโรคเกียร์เดียสิส (Giardiasis) หรือ Beaver fever มีรูปร่างคล้ายใบหน้าตลกหรือว่าวที่มีตา 2 ดวง (ซึ่งคือ 2 นิวเคลียส) และมีแผ่นดูด (Ventral sucking disk) ใช้ยึดเกาะกับเยื่อบุผิวลำไส้เล็กส่วนดูโอเดนัม ทำให้ขัดขวางการดูดซึมไขมัน ผู้ป่วยจึงมีอาการท้องร่วงรุนแรง อุจจาระมีไขมันปนและมีกลิ่นเหม็นคาว เชื้อสามารถสร้างถุงเกราะซีสต์ (Cysts) ทนคลอรีนในระบบบำบัดน้ำประปาได้",
+    "real_world_examples": "นักเดินป่าหรือแบกเป้ที่ดื่มน้ำดิบจากลำธารธรรมชาติในป่ามักติดเชื้อ Giardia จึงมีคำเตือนให้ต้มน้ำให้เดือดอย่างน้อย 1-3 นาที หรือใช้เครื่องกรองน้ำขนาดต่ำกว่า 1 ไมครอนก่อนดื่มเสมอ",
+    "pro_tips": "คีย์ลัดจำ Diplomonadida:\n'Di-plo' = สอง (มี 2 นิวเคลียสขนาดเท่ากัน), ไม่มีไมโทคอนเดรียแท้ (ใช้ Mitosome), เชื้อเด่นคือ 'Giardia lamblia'",
+    "references": [
+      {
+        "title": "CDC: Giardia Infection (Giardiasis)",
+        "url": "https://www.cdc.gov/parasites/giardia/index.html"
+      },
+      {
+        "title": "OpenStax Biology: Excavata Supergroup",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_06.png"
+  },
+  {
+    "id": "protista-07",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 7,
+    "chapter_id": "protista-mod-2",
+    "chapter_title": "โมดูล 2: ซูเปอร์กรุ๊ป Excavata (ไดโพลโมนาดิดา, พาราบาซาลา, ยูกลีโนซัว)",
+    "title": "สไลด์ 7: ซูเปอร์กรุ๊ป Excavata: กลุ่มพาราบาซาลา (Parabasala)",
+    "subtitle": "Trichonympha ผู้ย่อยเซลลูโลสในลำไส้ปลวก และ Trichomonas vaginalis ก่อโรคทางเพศสัมพันธ์",
+    "keywords": [
+      "Parabasala",
+      "Hydrogenosome",
+      "Trichonympha",
+      "Cellulase",
+      "Termites",
+      "Trichomonas vaginalis",
+      "Trichomoniasis"
+    ],
+    "original_content": "2. กลุ่มพาราบาซาลา (Parabasala):\n- เป็นโพรทิสต์เซลล์ยูแคริโอตที่มีนิวเคลียสและไรโบโซม\n- ไม่มีไมโทคอนเดรียแท้ แต่มีออร์แกเนลล์ดัดแปลงเรียก ไฮโดรจีโนโซม (Hydrogenosomes) ที่สร้างพลังงานแบบไม่ใช้ออกซิเจนและปล่อยก๊าซ H2\n- เยื่อหุ้มเซลล์มีลักษณะเป็นรอยหยักคล้ายคลื่น (Undulating membrane)\n- มีแฟลกเจลลาเป็นคู่หรือเป็นกระจุก\nตัวอย่างสำคัญ:\n1. ไตรโคนิมฟา (Trichonympha sp.): อาศัยอยู่ในทางเดินอาหารของปลวก ดำรงชีวิตแบบภาวะพึ่งพาอาศัยกัน (Mutualism, +,+) โดยผลิตเอนไซม์เซลลูเลสย่อยเซลลูโลสในเนื้อไม้ให้กับปลวก\n2. ไตรโคโมแนส (Trichomonas vaginalis): ปรสิตก่อโรคติดต่อทางเพศสัมพันธ์ ทำให้เกิดการอักเสบและติดเชื้อในช่องคลอด (Trichomoniasis)",
+    "deep_explanation": "ความสัมพันธ์ระหว่างปลวกกับ Trichonympha เป็นภาวะพึ่งพากันอย่างแท้จริง ปลวกกินไม้แต่ไม่มียีนสร้างเอนไซม์ย่อยเซลลูโลส (Cellulase) จึงต้องพึ่งพา Trichonympha ในลำไส้ หากนำปลวกไปอบความร้อนสูงเพื่อฆ่าโปรโตซัวในลำไส้ ปลวกจะกินไม้ตามปกติแต่จะอดตายในที่สุดเพราะไม่สามารถย่อยไม้ได้ ในขณะที่ Trichomonas vaginalis เคลื่อนที่ด้วยแฟลกเจลลา 4 เส้นด้านหน้าและ Undulating membrane กินแบคทีเรียและเซลล์เยื่อบุผิวช่องคลอด",
+    "real_world_examples": "Trichomoniasis เป็นโรคติดต่อทางเพศสัมพันธ์จากปรสิตที่พบมากที่สุดในโลก ทำให้เกิดตกขาวเป็นฟองสีเขียวเหลือง มีกลิ่นเหม็น และคันอย่างรุนแรง สามารถรักษาได้ด้วยยาปฏิชีวนะ Metronidazole",
+    "pro_tips": "จำบทบาทสำคัญของ Parabasala:\n- ลำไส้ปลวก ย่อยไม้ = Trichonympha sp. (พึ่งพาอาศัยกัน)\n- ช่องคลอดอักเสบ กามโรค = Trichomonas vaginalis",
+    "references": [
+      {
+        "title": "CDC: Trichomoniasis - CDC Fact Sheet",
+        "url": "https://www.cdc.gov/std/trichomonas/stdfact-trichomoniasis.htm"
+      },
+      {
+        "title": "Microbiology Society: Symbiosis in Termite Guts",
+        "url": "https://microbiologysociety.org/education-outreach/microbiology-resources.html"
+      }
+    ],
+    "image": "slides_img/protista/slide_07.png"
+  },
+  {
+    "id": "protista-08",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 8,
+    "chapter_id": "protista-mod-2",
+    "chapter_title": "โมดูล 2: ซูเปอร์กรุ๊ป Excavata (ไดโพลโมนาดิดา, พาราบาซาลา, ยูกลีโนซัว)",
+    "title": "สไลด์ 8: ซูเปอร์กรุ๊ป Excavata: กลุ่มยูกลีโนซัว - ยูกลีนอยด์ (Euglenids: Euglena, Phacus)",
+    "subtitle": "เพลลิเคิลยืดหยุ่น รงควัตถุคลอโรฟิลล์ a และ b จุดรับแสง Eyespot สีแดง และมิกโซโทรฟ",
+    "keywords": [
+      "Euglenozoa",
+      "Euglena",
+      "Phacus",
+      "Pellicle",
+      "Eyespot",
+      "Stigma",
+      "Chlorophyll a and b",
+      "Mixotroph"
+    ],
+    "original_content": "อาณาจักรโพรทิสตา: กลุ่มยูกลีโนซัว (Euglenozoa) - ยูกลีนอยด์:\n- เคลื่อนที่โดยใช้แฟลกเจลลา 1-3 เส้น (มักมี 1 เส้นยาวโผล่ออกมาจากร่องเปิดด้านหน้า และ 1 เส้นสั้นอยู่ภายใน)\n- **ไม่มีผนังเซลล์** แต่มีชั้นโปรตีนใต้เยื่อหุ้มเซลล์เรียกว่า เพลลิเคิล (Pellicle) มีความยืดหยุ่นสูง ทำให้เซลล์เปลี่ยนรูปร่างไปมาได้\n- รงควัตถุ: คลอโรฟิลล์ เอ และ บี, แคโรทีนอยด์ และแซนโทฟิลล์ บรรจุอยู่ในคลอโรพลาสต์\n- โครงสร้างภายใน: นิวเคลียสขนาดใหญ่, ไมโทคอนเดรีย, กอลจิบอดี, ร่างแหเอนโดพลาซึม (ER), และแวคิวโอลหดตัว (Contractile vacuole) ขับน้ำส่วนเกิน\n- มีจุดรับแสงสีแดง เรียกว่า อายสปอต (Eye spot หรือ Stigma) อยู่ด้านหน้าเซลล์ ทำงานร่วมกับ Photoreceptor เพื่อตอบสนองต่อทิศทางของแสง (Phototaxis)\n- ตัวอย่าง: Euglena sp. และ Phacus sp. (ทรงแบนคล้ายใบไม้ปลายมีหนาม)",
+    "deep_explanation": "Pellicle ของ Euglena ประกอบด้วยแถบโปรตีนขนานกันที่เชื่อมด้วยไมโครทูบูลใต้เยื่อหุ้มเซลล์ ทำให้ยูกลีนาสามารถเคลื่อนที่แบบเลื้อยบิดตัว (Euglenoid movement หรือ Metaboly) เมื่อไม่ใช้แฟลกเจลลา อายสปอตสีแดงมีสารแคโรทีนอยด์ทำหน้าที่เป็น 'ม่านบังแสง' ให้กับ Photoreceptor (Paraflagellar body) ที่โคนแฟลกเจลลา ทำให้ยูกลีนาสามารถรับรู้ทิศทางของแสงและว่ายเข้าหาแสงแดดที่ความเข้มเหมาะสมได้",
+    "real_world_examples": "Phacus มักพบในแหล่งน้ำจืดที่มีอินทรียวัตถุสูง มีลักษณะแบนเหมือนใบไม้ มีสันตามยาวและมีหางแหลม เคลื่อนที่ช้ากว่ายูกลีนา และมีเม็ดสารอาหารพาราไมลัม (Paramylon) สะสมชัดเจน",
+    "pro_tips": "จำ 3 จุดสำคัญของยูกลีนา:\n1) ไม่มีผนังเซลล์ แต่มี Pellicle\n2) รงควัตถุเหมือนพืชชั้นสูง (Chlorophyll a และ b)\n3) มี Eye spot สีแดงตรวจจับแสง",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Euglenozoans",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "MicrobeNotes: Euglena Structure, Locomotion and Nutrition",
+        "url": "https://microbenotes.com/euglena-structure-locomotion-and-nutrition/"
+      }
+    ],
+    "image": "slides_img/protista/slide_08.png"
+  },
+  {
+    "id": "protista-09",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 9,
+    "chapter_id": "protista-mod-2",
+    "chapter_title": "โมดูล 2: ซูเปอร์กรุ๊ป Excavata (ไดโพลโมนาดิดา, พาราบาซาลา, ยูกลีโนซัว)",
+    "title": "สไลด์ 9: ยูกลีโนซัว - ไคนีโทพลาสติด: Trypanosoma และโรคเหงาหลับ (Sleeping Sickness)",
+    "subtitle": "แมลงเซ็ทซีเป็นพาหะ การบุกรุกระบบประสาทส่วนกลาง และภาวะง่วงหลับจนเสียชีวิต",
+    "keywords": [
+      "Trypanosoma brucei",
+      "Kinetoplastids",
+      "Tsetse fly",
+      "Sleeping sickness",
+      "Undulating membrane",
+      "Central nervous system"
+    ],
+    "original_content": "Trypanosoma brucei rhodesiense (กลุ่ม Kinetoplastids ในยูกลีโนซัว):\n- เป็นสาเหตุของ 'โรคเหงาหลับ' (African Sleeping Sickness) ระบาดในแอฟริกากลางและใต้ (เช่น เคนยา, ซิมบับเว)\n- พาหะนำโรค: แมลงเซ็ทซี (Tsetse fly, จีนัส Glossina) นำเชื้อจากสัตว์หรือคนป่วยไปสู่คนปกติผ่านการกัด\n- วงจรการติดเชื้อ:\n  • ตัวปรสิตเจริญเติบโตในต่อมน้ำลายของแมลงเซ็ทซี แล้วถูกส่งผ่านทางน้ำลายเข้าสู่เหยื่อ\n  • รอยแผลที่ถูกกัดจะเกิดการอักเสบแดง\n  • เชื้อเข้าสู่กระแสเลือดและน้ำเหลือง ทำให้มีไข้เป็นพักๆ ต่อมน้ำเหลืองโต ซีดโลหิตจาง\n  • ในที่สุดเชื้อบุกเข้าสู่สมองและระบบประสาทส่วนกลาง (CNS) ผู้ป่วยจะมีอาการซึม ง่วงเหงา สับสน บุคลิกเปลี่ยน และหลับลึกตลอดเวลา\n  • เป็นโรคร้ายแรงถึงชีวิต ผู้ป่วยมักเสียชีวิตภายใน 1 ถึง 1.5 ปีหากไม่ได้รับการรักษาทันเวลา\n- ลักษณะเซลล์: เซลล์รูปกระสวย มี 1 แฟลกเจลลาทอดยาวเชื่อมกับเยื่อหุ้มเซลล์เกิดเป็น Undulating membrane ช่วยแหวกว่ายในเม็ดเลือดแดง",
+    "deep_explanation": "กลุ่ม Kinetoplastids มีลักษณะเฉพาะคือมีไมโทคอนเดรียขนาดใหญ่เพียงอันเดียว ภายในมีก้อน DNA หนาแน่นเรียกว่า คีเนโทพลาสต์ (Kinetoplast) ความร้ายกาจของ Trypanosoma คือความสามารถในการหลบเลี่ยงภูมิคุ้มกันร่างกายมนุษย์ด้วยกลไก Antigenic Variation โดยมีโปรตีนเคลือบผิว (VSG: Variant Surface Glycoprotein) ที่สามารถสลับเปลี่ยนโครงสร้างพันธุกรรมได้เป็นพันๆ แบบ ทำให้ระบบภูมิคุ้มกันสร้างแอนติบอดีตามไม่ทัน",
+    "real_world_examples": "โรค Chagas disease ในทวีปอเมริกาใต้ เกิดจากเชื้อ Trypanosoma cruzi โดยมี 'มวนเพชฌฆาต' (Kissing bug / Reduviid bug) เป็นพาหะนำโรค ซึ่งเชื้อจะเข้าสู่ร่างกายทางบาดแผลจากการเกาหลังถูกมวนขับถ่ายใส่",
+    "pro_tips": "ข้อสอบออกบ่อยมากเรื่องคู่พาหะ-เชื้อก่อโรค:\n- โรคเหงาหลับ (Sleeping sickness) = เชื้อ Trypanosoma brucei, พาหะคือ แมลงเซ็ทซี (Tsetse fly)\n- ระวังอย่าสับสนกับไข้มาลาเรีย (Plasmodium, ยุงก้นปล้อง)!",
+    "references": [
+      {
+        "title": "WHO: African Trypanosomiasis (Sleeping Sickness)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness)"
+      },
+      {
+        "title": "CDC: African Trypanosomiasis Parasites",
+        "url": "https://www.cdc.gov/parasites/sleepingsickness/index.html"
+      }
+    ],
+    "image": "slides_img/protista/slide_09.png"
+  },
+  {
+    "id": "protista-10",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 10,
+    "chapter_id": "protista-mod-3",
+    "chapter_title": "โมดูล 3: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Alveolata",
+    "title": "สไลด์ 10: กลุ่มแอลวีโอลาตา (Alveolata) และไดโนแฟลเจลเลต (Dinoflagellates)",
+    "subtitle": "ถุงลมใต้เยื่อหุ้มเซลล์ แฟลกเจลลา 2 ร่อง (Cingulum & Sulcus) และปรากฏการณ์ขี้ปลาวาฬ (Red Tide)",
+    "keywords": [
+      "Alveolata",
+      "Dinoflagellates",
+      "Alveoli",
+      "Cingulum",
+      "Sulcus",
+      "Red tide",
+      "ขี้ปลาวาฬ",
+      "Saxitoxin"
+    ],
+    "original_content": "อาณาจักรโพรทิสตา: กลุ่มแอลวีโอลาตา (ถอดรหัสจากภาพสไลด์ 10):\n- มีถุงช่องว่างแบนๆ ใต้เยื่อหุ้มเซลล์ เรียกว่า แอลวีโอไล (Alveoli)\n- ไดโนแฟลเจลเลต (Dinoflagellates):\n  • เป็นโพรทิสต์เซลล์เดียว มีสารสีแคโรทีนอยด์ และคลอโรฟิลล์ เอ และ ซี ในพลาสติด\n  • มีแฟลกเจลลา 2 เส้น อยู่ในร่อง 2 แนว คือ ร่องตามขวาง (Transverse groove / Cingulum) และร่องตามยาว (Longitudinal groove / Sulcus) ทำให้ว่ายน้ำแบบควงสว่าน\n  • มีแผ่นเกราะเซลลูโลสแข็งหุ้มตัว (Thecal plates) แบ่งเป็นฝาบน (Epitheca) และฝาล่าง (Hypotheca) เช่น จีนัส Peridinium, Ceratium (มีเขายื่นคล้ายสมอเรือ)\n  • โพรทิสต์กลุ่มนี้บางชนิดสร้างสารพิษ (Neurotoxins) สะสมในตัว\n  • ปรากฏการณ์ขี้ปลาวาฬ (Red tide): เมื่อน้ำทะเลมีสารอินทรีย์จากมลภาวะมาก ไดโนแฟลเจลเลตจะแบ่งตัวอย่างรวดเร็ว (Bloom) จนน้ำทะเลเปลี่ยนเป็นสีแดง สารพิษสะสมในสัตว์น้ำและเป็นอันตรายต่อสิ่งแวดล้อม",
+    "deep_explanation": "สารพิษที่เกิดจากไดโนแฟลเจลเลตบลูม เช่น สารแซกซิทอกซิน (Saxitoxin) และเบรเวทอกซิน (Brevetoxin) ออกฤทธิ์ยับยั้งช่องโซเดียม (Voltage-gated sodium channels) ในเซลล์ประสาท เมื่อหอยสองฝา เช่น หอยแมลงภู่ หอยนางรม กรองกินไดโนแฟลเจลเลตเข้าไป สารพิษจะสะสมในเนื้อเยื่อหอยโดยหอยไม่ตาย แต่มนุษย์ที่กินหอยเข้าไปจะเกิดภาวะ 'Paralytic Shellfish Poisoning' (PSP) มีอาการชาปาก ลิ้น แขนขา และกล้ามเนื้อกระบังลมเป็นอัมพาตจนหยุดหายใจ",
+    "real_world_examples": "Ceratium tripos มีเขายื่นยาว 3 เขา ช่วยเพิ่มพื้นที่ผิวในการพยุงตัวลอยน้ำและชะลอการจมตัวในมวลน้ำทะเล",
+    "pro_tips": "จำเอกลักษณ์ของ Dinoflagellates:\n1) แฟลกเจลลา 2 เส้นในร่องตามขวาง (Cingulum) และตามยาว (Sulcus)\n2) ผนังเซลล์เป็นแผ่นเกราะเซลลูโลส (Theca: Epitheca + Hypotheca)\n3) สาเหตุของปรากฏการณ์ 'ขี้ปลาวาฬ' (Red tide)",
+    "references": [
+      {
+        "title": "NOAA: What is a Red Tide / Harmful Algal Bloom?",
+        "url": "https://oceanservice.noaa.gov/facts/redtide.html"
+      },
+      {
+        "title": "University of Tsukuba: Dinoflagellate Morphology and Ultrastructure",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology"
+      }
+    ],
+    "image": "slides_img/protista/slide_10.png"
+  },
+  {
+    "id": "protista-11",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 11,
+    "chapter_id": "protista-mod-3",
+    "chapter_title": "โมดูล 3: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Alveolata",
+    "title": "สไลด์ 11: การบลูมของไดโนแฟลเจลเลต และประกายแสงพรายน้ำ Noctiluca scintillans",
+    "subtitle": "วิเคราะห์พิษสะสมในหอยแมลงภู่ และปรากฏการณ์ทะเลเรืองแสงสีน้ำเงินยามค่ำคืน",
+    "keywords": [
+      "Noctiluca scintillans",
+      "Bioluminescence",
+      "Sea sparkle",
+      "Luciferin",
+      "Luciferase",
+      "Anoxia",
+      "Ammonia"
+    ],
+    "original_content": "Dinoflagellate บลูมในทะเล และปรากฏการณ์ขี้ปลาวาฬ (ถอดรหัสจากภาพสไลด์ 11):\n- ผลกระทบของการบลูม:\n  • น้ำทะเลเปลี่ยนเป็นสีส้มอิฐ น้ำตาลแดง หรือสีสนิม\n  • ปลาและสัตว์น้ำตายเกลื่อนชายหาดจากการขาดออกซิเจนและสารพิษ\n  • การปนเปื้อนสารพิษในหอยแมลงภู่ ทำให้ต้องสั่งระงับการเก็บและบริโภคอาหารทะเลชั่วคราว\n- Noctiluca scintillans (สาหร่ายประกายแสง หรือ Sea sparkle):\n  • เป็นไดโนแฟลเจลเลตเซลล์เดียวขนาดใหญ่ (0.5-2 มม.) มองเห็นได้ด้วยตาเปล่า\n  • มีคุณสมบัติเรืองแสงชีวภาพสูงมาก (Highly bioluminescent) เปล่งแสงสีฟ้าสว่างเมื่อถูกรบกวนด้วยคลื่นในเวลากลางคืน\n  • ในเวลากลางวันเมื่อรวมตัวกันหนาแน่นจะเห็นน้ำทะเลเป็นสีส้ม-น้ำตาล (Brown-orange)\n  • ไม่มีสารพิษต่อระบบประสาทโดยตรง (Not toxic directly) แต่สร้างความเสียหายร้ายแรงต่อสัตว์น้ำเมื่อบลูมหนาแน่น เพราะขับถ่ายแอมโมเนียเข้มข้นและทำให้ออกซิเจนในน้ำหมดไป",
+    "deep_explanation": "การเรืองแสงสีฟ้าของ Noctiluca เกิดจากปฏิกิริยาเคมีระหว่างสารลูซิเฟอริน (Luciferin) กับเอนไซม์ลูซิเฟอเรส (Luciferase) ภายในออร์แกเนลล์สซินทิลลอน (Scintillon) เมื่อเซลล์ถูกกระตุ้นด้วยแรงกล (เช่น แรงคลื่นซัดหรือสิ่งมีชีวิตว่ายผ่าน) ช่องแคลเซียมจะเปิด กระตุ้นให้เกิดแสงวาบขึ้นเพื่อทำให้ผู้ล่าตกใจ (Burglar alarm hypothesis) หรือช่วยป้องกันการถูกกิน",
+    "real_world_examples": "ชายหาดบางแสนและเกาะล้านในจังหวัดชลบุรีมักเกิดปรากฏการณ์น้ำทะเลเรืองแสงสีฟ้าหรือปรากฏการณ์ขี้ปลาวาฬจาก Noctiluca scintillans ในช่วงเปลี่ยนฤดูมรสุม (พฤษภาคม-มิถุนายน และตุลาคม)",
+    "pro_tips": "แยกให้ออก:\n- ไดโนแฟลเจลเลตสร้างสารพิษ PSP = เช่น Gymnodinium, Alexandrium\n- ไดโนแฟลเจลเลตเรืองแสงสีฟ้า ไม่สร้างสารพิษอัมพาตแต่ปล่อยแอมโมเนียทำปลาตาย = Noctiluca scintillans",
+    "references": [
+      {
+        "title": "Ocean Networks Canada: Noctiluca scintillans - The Sea Sparkle",
+        "url": "https://www.oceannetworks.ca/"
+      },
+      {
+        "title": "Marine Biological Association: Bioluminescence in Dinoflagellates",
+        "url": "https://www.mba.ac.uk/"
+      }
+    ],
+    "image": "slides_img/protista/slide_11.png"
+  },
+  {
+    "id": "protista-12",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 12,
+    "chapter_id": "protista-mod-3",
+    "chapter_title": "โมดูล 3: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Alveolata",
+    "title": "สไลด์ 12: กลุ่มแอลวีโอลาตา: อะพิคอมเพลกซา (Apicomplexans: Plasmodium)",
+    "subtitle": "โครงสร้างแทงทะลุเซลล์โฮสต์ ไร้โครงสร้างเคลื่อนที่ และวงชีวิตของเชื้อไข้มาลาเรีย",
+    "keywords": [
+      "Apicomplexa",
+      "Apical complex",
+      "Plasmodium",
+      "Malaria",
+      "Anopheles",
+      "Sporozoa",
+      "Rhoptries"
+    ],
+    "original_content": "Apicomplexans (หรือเดิมคือกลุ่ม Sporozoa):\n- เป็นโพรทิสต์ขนาดเล็ก ส่วนใหญ่เป็นปรสิตภายในเซลล์ของสัตว์ (Obligate intracellular parasites)\n- **มีโครงสร้างแอพิคอลคอมเพลกซ์ (Apical complex)**: ประกอบด้วยกลุ่มออร์แกเนลล์พิเศษ (Rhoptries, Micronemes) อยู่ที่ส่วนปลายเซลล์ ทำหน้าที่หลั่งเอนไซม์ช่วยแทงทะลุและบุกรุกเข้าไปในเซลล์โฮสต์\n- **ไม่มีโครงสร้างในการเคลื่อนที่** (ไม่มีทั้งซีเลียและแฟลกเจลลาในระยะตัวเต็มวัย)\n- ตัวอย่างสำคัญ: พลาสโมเดียม (Plasmodium spp.) เช่น P. falciparum, P. vivax ทำให้เกิด 'โรคไข้มาลาเรีย' (Malaria หรือไข้จับสั่น) โดยมียุงก้นปล้องเพศเมีย (Female Anopheles mosquito) เป็นพาหะนำโรค",
+    "deep_explanation": "วงชีวิตของ Plasmodium มี 2 โฮสต์:\n1. ในมนุษย์ (Intermediate host - เกิดการสืบพันธุ์แบบไม่อาศัยเพศ):\n  - ยุงก้นปล้องกัดและปล่อยเชื้อระยะ Sporozoite เข้าสู่กระแสเลือด\n  - เชื้อเดินทางไปยังตับ แบ่งตัวแบบ Schizogony ได้เชื้อระยะ Merozoites นับหมื่นตัว\n  - Merozoites บุกเข้าทำลายเซลล์เม็ดเลือดแดง (RBC) แตกออกเป็นรอบๆ ปล่อยสารฮีโมโซอิน (Hemozoin) ทำให้เกิดอาการหนาวสั่นและไข้สูงตามรอบวงชีวิต (ทุก 48 หรือ 72 ชั่วโมง)\n2. ในยุงก้นปล้อง (Definitive host - เกิดการสืบพันธุ์แบบอาศัยเพศ):\n  - ยุงดูดเลือดที่มีเซลล์ Gametocytes เข้าไป\n  - เกิดการปฏิสนธิในทางเดินอาหารของยุงได้ Ookinete และพัฒนาเป็น Oocyst สร้าง Sporozoites เคลื่อนตัวไปยังต่อมน้ำลายของยุงเพื่อรอส่งต่อ",
+    "real_world_examples": "โรคไข้มาลาเรียคร่าชีวิตประชากรโลกกว่า 600,000 คนต่อปี โดยเฉพาะเด็กเล็กในทวีปแอฟริกา Plasmodium falciparum เป็นสายพันธุ์ที่รุนแรงที่สุดเพราะทำให้เม็ดเลือดแดงเกาะติดผนังหลอดเลือดในสมอง ก่อให้เกิดภาวะมาลาเรียขึ้นสมอง (Cerebral malaria)",
+    "pro_tips": "จุดออกสอบประจำของ Apicomplexans:\n1) มี 'Apical complex' ไว้เจาะเซลล์โฮสต์\n2) ตัวเต็มวัย 'ไม่มีโครงสร้างเคลื่อนที่'\n3) มาลาเรีย: ปฏิสนธิ (สืบพันธุ์แบบอาศัยเพศ) ในกระเพาะ 'ยุงก้นปล้อง' แต่แบ่งตัวไม่อาศัยเพศใน 'ตับและเม็ดเลือดแดงมนุษย์'",
+    "references": [
+      {
+        "title": "CDC: About Malaria - Biology of Plasmodium",
+        "url": "https://www.cdc.gov/malaria/about/biology/index.html"
+      },
+      {
+        "title": "WHO: Malaria Fact Sheet",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/malaria"
+      }
+    ],
+    "image": "slides_img/protista/slide_12.png"
+  },
+  {
+    "id": "protista-13",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 13,
+    "chapter_id": "protista-mod-3",
+    "chapter_title": "โมดูล 3: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Alveolata",
+    "title": "สไลด์ 13: กลุ่มแอลวีโอลาตา: ซิลิเอต (Ciliates: Paramecium, Vorticella)",
+    "subtitle": "การโบกพัดของซีเลีย นิวเคลียส 2 ขนาด (Macro & Micro) และการกินยีสต์ย้อมสี Congo Red",
+    "keywords": [
+      "Ciliates",
+      "Cilia",
+      "Paramecium",
+      "Vorticella",
+      "Macronucleus",
+      "Micronucleus",
+      "Congo Red",
+      "Contractile vacuole"
+    ],
+    "original_content": "Ciliates (กลุ่มโพรทิสต์ที่มีขนซีเลีย):\n- เป็นโพรทิสต์เซลล์เดียวที่มีโครงสร้างซับซ้อนที่สุด ใช้ซีเลีย (Cilia) จำนวนมากในการเคลื่อนที่และพัดโบกอาหารเข้าสู่ร่องปาก\n- อาศัยอยู่ในแหล่งน้ำจืด น้ำเค็ม และสภาพแวดล้อมที่มีความชื้นสูง\n- มีนิวเคลียส 2 ขนาด (Nuclear dimorphism):\n  • Macronucleus (นิวเคลียสขนาดใหญ่): ควบคุมกระบวนการเมแทบอลิซึมและการดำรงชีวิตประจำวันของเซลล์\n  • Micronucleus (นิวเคลียสขนาดเล็ก): ควบคุมการสืบพันธุ์และการแลกเปลี่ยนพันธุกรรมแบบ Conjugation\n- ตัวอย่างสำคัญ:\n  • Paramecium: รูปร่างคล้ายรองเท้าแตะ มีร่องปาก (Oral groove), ทวารเซลล์ (Anal pore), และแวคิวโอลหดตัว (Contractile vacuole) ทรงดอกไม้กำจัดน้ำส่วนเกิน\n  • Vorticella: รูปร่างคล้ายระฆังคว่ำติดอยู่บนก้านยาวที่หดตัวได้คล้ายสปริง (Myoneme stalk)\n- การทดลองในภาพ: พารามีเซียมกินยีสต์ที่ย้อมด้วยสี Congo Red ซึ่งสีจะเปลี่ยนจากสีแดงเป็นสีน้ำเงินเมื่ออาหารเข้าสู่อาหารแวคิวโอลที่มีสภาพเป็นกรดจากน้ำย่อย",
+    "deep_explanation": "Congo Red เป็นตัวบ่งชี้ pH (pH indicator) ที่มีสีแดงที่ pH > 5.0 และเปลี่ยนเป็นสีน้ำเงินเมื่อ pH < 3.0 เมื่อพารามีเซียมกินเซลล์ยีสต์ที่ย้อมสี Congo Red ผ่านทาง Oral groove เซลล์จะสร้าง Food vacuole จากนั้นไลโซโซมจะหลั่งกรดและเอนไซม์ออกมาย่อยอาหาร ทำให้อาหารแวคิวโอลเปลี่ยนจากสีแดงเป็นสีน้ำเงินเข้มอย่างชัดเจน แสดงถึงกระบวนการย่อยสลายภายในเซลล์ (Intracellular digestion)",
+    "real_world_examples": "Vorticella ใช้ซีเลียรอบปากพัดโบกกระแสน้ำเพื่อดักจับแบคทีเรีย เมื่อถูกรบกวน ก้านของมันจะหดตัวกลับเป็นเกลียวสปริงอย่างรวดเร็วด้วยความเร็วสูงถึง 8 เซนติเมตรต่อวินาที ซึ่งเป็นหนึ่งในการเคลื่อนที่ระดับเซลล์ที่เร็วที่สุดในธรรมชาติ",
+    "pro_tips": "หน้าที่ของนิวเคลียส 2 ชนิดในซิลิเอต:\n- Macronucleus (ใหญ่) = ควบคุมการทำงานของเซลล์ (Metabolism / Physiology)\n- Micronucleus (เล็ก) = ควบคุมการสืบพันธุ์แบบอาศัยเพศ (Conjugation)",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Ciliates",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "MicrobeNotes: Paramecium caudatum Morphology & Physiology",
+        "url": "https://microbenotes.com/paramecium-caudatum/"
+      }
+    ],
+    "image": "slides_img/protista/slide_13.png"
+  },
+  {
+    "id": "protista-14",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 14,
+    "chapter_id": "protista-mod-4",
+    "chapter_title": "โมดูล 4: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Stramenopiles",
+    "title": "สไลด์ 14: กลุ่มสตรามีโนไพลล์ (Stramenopiles Overview)",
+    "subtitle": "แฟลกเจลลา 2 เส้นต่างแบบ (เส้นมีขนทินเซล และเส้นเรียบ) และบรรพบุรุษสาหร่าย",
+    "keywords": [
+      "Stramenopiles",
+      "Heterokont",
+      "Tinsel flagellum",
+      "Whiplash flagellum",
+      "Chromalveolata",
+      "Kelp",
+      "Sargassum"
+    ],
+    "original_content": "อาณาจักรโพรติสตา: กลุ่มสตรามีโนไพลล์ (Stramenopiles):\n- ส่วนใหญ่มีความสามารถในการสังเคราะห์ด้วยแสง เรียกว่า สาหร่าย (Algae) เช่น สาหร่ายสีน้ำตาล, ไดอะตอม, สาหร่ายสีทอง\n- ลักษณะสำคัญทางวิวัฒนาการ: ในระยะเซลล์สืบพันธุ์ที่เคลื่อนที่ได้ (Zoospores หรือ Gametes) จะมี**แฟลกเจลลา 2 เส้นที่มีความยาวและโครงสร้างไม่เท่ากัน (Heterokont flagella)**:\n  1. แฟลกเจลลาเส้นที่มีขนคล้ายขนนก (Tinsel flagellum หรือ Hairy flagellum) มีเส้นใยโปรตีนไตรพาร์ไทต์ยื่นออกมา ชี้ไปด้านหน้า\n  2. แฟลกเจลลาเส้นเรียบที่ไม่มีขน (Whiplash flagellum หรือ Smooth flagellum) ชี้ไปด้านหลัง\n- ภาพแสดงสาหร่ายเคลป์ (Kelp) และสาหร่ายทุ่น (Sargassum) ในระบบนิเวศทางทะเล",
+    "deep_explanation": "คำว่า 'Stramenopile' มาจากภาษาละติน 'stramen' (ฟางข้าว) และ 'pilos' (ขน) หมายถึง ขนละเอียดรูปทรงกระบอกกลวง (Mastigonemes) บนแฟลกเจลลาเส้นหน้า ขนเหล่านี้มีบทบาททางฟิสิกส์การไหลที่น่าทึ่ง: เมื่อแฟลกเจลลาโบกพัดไปด้านหลัง ขนขนเหล่านี้จะสร้างแรงต้านของเหลวทำให้เกิดแรงขับเคลื่อนเซลล์ไป 'ข้างหน้า' แทนที่จะถอยหลัง การมีคลอโรพลาสต์ 4 ชั้นเยื่อหุ้มยังเป็นหลักฐานของการเกิด Secondary Endosymbiosis จากการกลืนกินสาหร่ายสีแดงเข้าไป",
+    "real_world_examples": "ป่าสาหร่ายเคลป์ (Kelp forests) นอกชายฝั่งแคลิฟอร์เนีย จัดเป็นระบบนิเวศทางทะเลที่มีผลผลิตทางชีวภาพและมีความหลากหลายทางชีวภาพสูงที่สุดแห่งหนึ่งของโลก เป็นที่อยู่อาศัยของนากทะเลและปลาหลายร้อยชนิด",
+    "pro_tips": "จำนิยามของ Stramenopiles (Heterokonts):\n'มีแฟลกเจลลา 2 เส้นไม่เท่ากัน: เส้นหน้ามีขน (Tinsel) + เส้นหลังเรียบ (Whiplash)'",
+    "references": [
+      {
+        "title": "LibreTexts: Chromalveolata - Stramenopiles",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/23%3A_Protists/23.3%3A_Groups_of_Protists/23.3C%3A_Chromalveolata%3A_Stramenopiles"
+      },
+      {
+        "title": "OpenStax Biology 2e: Stramenopiles",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_14.png"
+  },
+  {
+    "id": "protista-15",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 15,
+    "chapter_id": "protista-mod-4",
+    "chapter_title": "โมดูล 4: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Stramenopiles",
+    "title": "สไลด์ 15: สตรามีโนไพลล์: 1. สาหร่ายสีน้ำตาล (Brown Algae / Phaeophyta)",
+    "subtitle": "ฟิวโคแซนทิน, สาหร่ายขนาดใหญ่ที่สุด, แอลจิน, เคลป์, ซาร์กัสซัม, ลามินาเรีย, พาดินา, ฟิวกัส",
+    "keywords": [
+      "Brown algae",
+      "Phaeophyta",
+      "Fucoxanthin",
+      "Algin",
+      "Kelp",
+      "Sargassum",
+      "Laminaria",
+      "Padina",
+      "Turbinaria",
+      "Fucus"
+    ],
+    "original_content": "1. สาหร่ายสีน้ำตาล (Brown Algae / Phaeophyta):\n- รงควัตถุ: มีสารสีน้ำตาลแกมเหลือง เรียกว่า **ฟิวโคแซนทิน (Fucoxanthin)** ปริมาณมากกว่าคลอโรฟิลล์ เอ, ซี และแคโรทีนอยด์\n- ขนาดและโครงสร้าง: เป็นสาหร่ายที่มีขนาดใหญ่ที่สุดและมีโครงสร้างซับซ้อนมากที่สุดในบรรดาสาหร่ายทั้งหมด มีรูปร่างคล้ายพืช (Thallus) แบ่งเป็น:\n  • แผ่นใบ (Blade)\n  • ก้านคล้ายลำต้น (Stipe)\n  • ส่วนยึดเกาะคล้ายราก (Holdfast)\n  • กระเปาะลมช่วยพยุงลอยน้ำ (Pneumatocyst / Air bladder)\n- แหล่งที่อยู่: เกือบทั้งหมดอาศัยในทะเล มักพบในเขตอบอุ่นและน้ำเย็น เป็นแหล่งอาหารและแหล่งหลบภัยของสัตว์น้ำ\n- สกุลสำคัญและประโยชน์:\n  • เคลป์ (Kelp / Macrocystis): ยักษ์ใหญ่ยาวได้ถึง 60 เมตร\n  • สาหร่ายทุ่น (Sargassum sp.): มีกระเปาะลมกลม ลอยน้ำเป็นแพ มีปริมาณไอโอดีนสูง นำมาสกัดไอโอดีนและทำปุ๋ย\n  • ลามินาเรีย (Laminaria sp. / คอมบุ): ผลิตปุ๋ยโพแทสเซียม (K) และทำอาหาร\n  • พาดินา (Padina sp. / สาหร่ายเห็ดหูหนู): มีลักษณะเป็นแผ่นพัดบางๆ ซ้อนกันเป็นชั้น มีริ้วสีขาวของหินปูน\n  • เทอร์บินาเรีย (Turbinaria sp. / สาหร่ายกระบอง): รูปร่างคล้ายโคนหรือกระบองหนาแน่น\n  • ฟิวกัส (Fucus sp.): ขึ้นตามโขดหินชายฝั่งทะเลน้ำขึ้นน้ำลง",
+    "deep_explanation": "ผนังเซลล์ของสาหร่ายสีน้ำตาลมีสารประกอบเมือกสำคัญคือ กรดแอลจินิก (Alginic acid / Algin) ซึ่งมีคุณสมบัติดูดซับน้ำได้ดีเยี่ยมและสร้างเจลที่คงตัวสูง ถูกนำมาใช้ในอุตสาหกรรมอย่างกว้างขวาง เป็นสารคงตัว (Stabilizer) และสารเพิ่มความข้นหนืดในไอศกรีม (ป้องกันการเกิดเกล็ดน้ำแข็ง), น้ำสลัด, ยาสีฟัน, เยลลี่, สารพิมพ์ฟันในทางทันตกรรม, และผ้าปิดแผลชนิดพิเศษที่ช่วยห้ามเลือดและสมานผิว",
+    "real_world_examples": "สาหร่ายคอมบุ (Kombu) ที่ใช้ต้มน้ำซุปดาชิในอาหารญี่ปุ่นดั้งเดิมคือสาหร่าย Laminaria japonica อุดมด้วยกรดกลูตามิกธรรมชาติ (Glutamate) ซึ่งเป็นที่มาของการค้นพบรสชาติ 'อูมามิ' (Umami) ในปี 1908",
+    "pro_tips": "จำคู่สารสีและประโยชน์ของสาหร่ายสีน้ำตาล:\n- รงควัตถุเอกลักษณ์ = 'ฟิวโคแซนทิน (Fucoxanthin)'\n- สารในผนังเซลล์ = 'แอลจิน (Algin)'\n- ไอโอดีนสูง = 'สาหร่ายทุ่น (Sargassum)'\n- ปุ๋ยโพแทสเซียม/คอมบุ = 'Laminaria'",
+    "references": [
+      {
+        "title": "IPST Biology Gallery: Marine Algae of Thailand",
+        "url": "http://biology.ipst.ac.th/?bwg_gallery=9-2557"
+      },
+      {
+        "title": "FAO: Seaweed Uses - Brown Seaweeds & Alginates",
+        "url": "https://www.fao.org/3/y4765e/y4765e08.htm"
+      }
+    ],
+    "image": "slides_img/protista/slide_15.png"
+  },
+  {
+    "id": "protista-16",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 16,
+    "chapter_id": "protista-mod-4",
+    "chapter_title": "โมดูล 4: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Stramenopiles",
+    "title": "สไลด์ 16: วงชีวิตแบบสลับของสาหร่ายสีน้ำตาล (Alternation of Generations in Laminaria)",
+    "subtitle": "วิเคราะห์ขั้นตอนสปอโรไฟต์ (2n), ไมโอซิส, ซูโอสปอร์ (1n), แกมีโทไฟต์ และการปฏิสนธิ",
+    "keywords": [
+      "Alternation of generations",
+      "Laminaria",
+      "Sporophyte",
+      "Gametophyte",
+      "Zoospores",
+      "Meiosis",
+      "Fertilization"
+    ],
+    "original_content": "Alternation of Generations ในวงชีวิตของ Laminaria (ถอดรหัสจากภาพสไลด์ 16):\nวงชีวิตแบบสลับที่ชัดเจนระหว่างระยะดิพลอยด์ (2n) และระยะแฮพลอยด์ (n):\n1. ระยะสปอโรไฟต์ (Sporophyte 2n): เป็นต้นสาหร่ายเคลป์ขนาดใหญ่ที่มองเห็นในทะเล\n2. อับสปอร์ (Sporangia): อยู่บนผิวใบสปอโรไฟต์ เกิดการแบ่งเซลล์แบบไมโอซิส (Meiosis)\n3. ซูโอสปอร์ (Zoospores 1n): สปอร์มีแฟลกเจลลา 2 เส้น ปล่อยออกจากอับสปอร์ มีทั้งสปอร์เพศผู้และเพศเมีย\n4. แกมีโทไฟต์ (Gametophytes 1n): สปอร์งอกเป็นต้นแกมีโทไฟต์ขนาดเล็กระดับจุลทรรศน์:\n  • แกมีโทไฟต์เพศผู้ (Male gametophyte) สร้างอสุจิมีแฟลกเจลลา (Sperm)\n  • แกมีโทไฟต์เพศเมีย (Female gametophyte) สร้างไข่ (Egg)\n5. การปฏิสนธิ (Fertilization): อสุจิว่ายเข้าผสมกับไข่ ได้ไซโกต (Zygote 2n)\n6. การเจริญเติบโต: ไซโกตแบ่งเซลล์แบบไมโทซิส พัฒนาเป็น Developing sporophyte (2n) และเติบโตเป็นต้นสปอโรไฟต์ตัวเต็มวัยอีกครั้ง",
+    "deep_explanation": "วงชีวิตของ Laminaria เป็นแบบ 'Heteromorphic alternation of generations' หมายความว่าระยะสปอโรไฟต์ (2n) และแกมีโทไฟต์ (n) มีรูปร่างทางสัณฐานวิทยาแตกต่างกันอย่างสิ้นเชิง: สปอโรไฟต์มีขนาดมหึมามองเห็นด้วยตาเปล่า ขณะที่แกมีโทไฟต์เป็นเส้นใยเซลล์ขนาดจิ๋วที่ต้องส่องดูด้วยกล้องจุลทรรศน์เท่านั้น การแบ่งไมโอซิสเกิดขึ้นเพียงขั้นตอนเดียวคือในขั้นตอนการสร้างสปอร์ (Sporic meiosis) ไม่ใช่การสร้างเซลล์สืบพันธุ์",
+    "real_world_examples": "ในการเพาะเลี้ยงสาหร่ายคอมบุเชิงพาณิชย์ในญี่ปุ่นและเกาหลี ชาวประมงจะเก็บสปอร์ระยะซูโอสปอร์มาเพาะบนเชือกไนลอนในโรงเพาะฟักควบคุมอุณหภูมิ เมื่อเกิดการปฏิสนธิเป็นสปอโรไฟต์อ่อน จึงนำเชือกไปผูกปล่อยเลี้ยงในทะเลเปิด",
+    "pro_tips": "จุดออกสอบชีววิทยาประจำ:\n- ระยะเด่นของ Laminaria = 'Sporophyte (2n)'\n- ไมโอซิสเกิดตอนไหน = เกิดที่ 'Sporangia เพื่อสร้าง Zoospores (1n)'\n- Zoospores งอกไปเป็น = 'Gametophyte (n)' ขนาดจุลทรรศน์",
+    "references": [
+      {
+        "title": "LibreTexts: Laminaria Life Cycle and Alternation of Generations",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology/Book%3A_General_Biology_(Boundless)/23%3A_Protists/23.3%3A_Groups_of_Protists/23.3C%3A_Chromalveolata%3A_Stramenopiles"
+      },
+      {
+        "title": "OpenStax Biology 2e: Brown Algal Life Cycles",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_16.png"
+  },
+  {
+    "id": "protista-17",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 17,
+    "chapter_id": "protista-mod-4",
+    "chapter_title": "โมดูล 4: ซูเปอร์กรุ๊ป Chromalveolata - กลุ่ม Stramenopiles",
+    "title": "สไลด์ 17: สตรามีโนไพลล์: 2. ไดอะตอม (Diatoms / Bacillariophyta)",
+    "subtitle": "ฝาซิลิกาประกบ 2 ชิ้น (Frustule), การสะสมน้ำมัน, ดินเบาไดอะตอมไมต์ และแหล่งกำเนิดปิโตรเลียม",
+    "keywords": [
+      "Diatoms",
+      "Bacillariophyta",
+      "Silica",
+      "Frustule",
+      "Pectin",
+      "Chrysolaminarin",
+      "Diatomaceous earth",
+      "Diatomite",
+      "Petroleum"
+    ],
+    "original_content": "2. ไดอะตอม (Diatoms / Bacillariophyta):\n- รงควัตถุ: มีสารสีน้ำตาลฟิวโคแซนทิน คลอโรฟิลล์ เอ และ ซี แคโรทีนอยด์ ทำให้เซลล์มีสีเหลืองหรือน้ำตาลแกมเหลือง\n- ผนังเซลล์พิเศษ (Frustule): ประกอบด้วยเซลลูโลสเคลือบด้วยสาร**ซิลิกา (Silica, SiO2)** มีลักษณะเป็น 2 ฝาประกบกันเหมือนกล่องใส่ของหรือจานเพาะเชื้อ (ฝาบน Epitheca ครอบฝาล่าง Hypotheca) มีลวดลายและรูพรุนเรขาคณิตที่สวยงามประณีต\n- แหล่งที่อยู่: พบได้ทั้งในน้ำจืดและน้ำเค็ม เป็นแพลงก์ตอนพืชที่มีปริมาณมากที่สุดในมหาสมุทร\n- อาหารสะสม: เก็บสะสมอาหารในรูปของ**หยดน้ำมัน (Lipid droplets)** และคาร์โบไฮเดรตไครโซลามินาริน (Chrysolaminarin) ช่วยในการลอยตัว\n- ประโยชน์และคุณค่าทางธรณีวิทยา:\n  • ซากไดอะตอมที่ตายทับถมใต้ก้นทะเลและทะเลสาบเป็นเวลาหลายล้านปี เรียกว่า **ดินเบา หรือ ไดอะตอมไมต์ (Diatomaceous earth / Diatomite)**\n  • นำมาใช้ทำไส้กรองน้ำ ไส้กรองเบียร์ ผงขัด ยาสีฟัน ฉนวนกันความร้อน และยาฆ่าแมลงอินทรีย์\n  • ซากไดอะตอมโบราณใต้แรงกดดันมหาศาลเป็นแหล่งกำเนิดสำคัญของน้ำมันดิบและปิโตรเลียมของโลก",
+    "deep_explanation": "ความวิจิตรของผนังเซลล์ซิลิกา (Frustule) ของไดอะตอมทนทานต่อการย่อยสลายทางชีวภาพและสารเคมีเกือบทุกชนิด ยกเว้นกรดไฮโดรฟลูออริก (HF) ในทางเทคโนโลยีนาโน โครงสร้างนาโนของซิลิกาไดอะตอมถูกนำมาวิจัยเป็นตัวส่งผ่านยารักษาโรคมะเร็ง (Drug delivery system) และเลนส์ชีวภาพ นอกจากนี้ การที่ไดอะตอมสร้างออกซิเจนถึง 20-30% ของก๊าซออกซิเจนทั้งหมดในบรรยากาศโลก ทำให้พวกมันได้รับฉายาว่า 'ปอดสีทองของมหาสมุทร'",
+    "real_world_examples": "ดินเบาไดอะตอมไมต์ถูกโรยตามพื้นเพื่อกำจัดแมลงสาบ มด และหมัดสัตว์เลี้ยงอย่างปลอดภัย โดยผลึกซิลิกาขนาดจิ๋วจะขูดขีดชั้นขี้ผึ้งบนเปลือกแมลง ทำให้แมลงสูญเสียน้ำและแห้งตายโดยไม่ต้องใช้สารเคมีพิษ",
+    "pro_tips": "จุดออกสอบ 100% เรื่องไดอะตอม:\n1) ผนังเซลล์เป็น 'ซิลิกา (Silica)' 2 ฝาประกบกัน\n2) สะสมอาหารในรูป 'น้ำมัน' (ช่วยให้ลอยน้ำและกลายเป็นปิโตรเลียม)\n3) ซากทับถมเรียกว่า 'Diatomaceous earth / ดินเบา'",
+    "references": [
+      {
+        "title": "NOAA: Diatoms - Tiny Wonders of the Ocean",
+        "url": "https://oceanservice.noaa.gov/facts/diatoms.html"
+      },
+      {
+        "title": "OpenStax Biology 2e: Stramenopiles - Diatoms",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_17.png"
+  },
+  {
+    "id": "protista-18",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 18,
+    "chapter_id": "protista-mod-5",
+    "chapter_title": "โมดูล 5: ซูเปอร์กรุ๊ป Archaeplastida (สาหร่ายสีแดงและสีเขียว)",
+    "title": "สไลด์ 18: ซูเปอร์กรุ๊ป Archaeplastida: 3. สาหร่ายสีแดง (Red Algae / Rhodophyta)",
+    "subtitle": "ไฟโคอีริทรินดูดแสงลึก ไร้ระยะแฟลกเจลลา วุ้นและคาราจีแนน จีฉ่าย (Porphyra) และสาหร่ายผมนาง (Gracilaria)",
+    "keywords": [
+      "Red algae",
+      "Rhodophyta",
+      "Phycoerythrin",
+      "No flagella",
+      "Agar",
+      "Carrageenan",
+      "Porphyra",
+      "Nori",
+      "Gracilaria",
+      "Coralline algae"
+    ],
+    "original_content": "3. สาหร่ายสีแดง (Red Algae / Rhodophyta):\n- รงควัตถุ: มีสารสีแดง **ไฟโคอีริทริน (Phycoerythrin)** ร่วมกับไฟโคไซยานิน คลอโรฟิลล์ เอ และแคโรทีนอยด์\n- คุณสมบัติแสง: ไฟโคอีริทรินสามารถดูดซับแสงสีน้ำเงินและสีเขียวซึ่งส่องทะลุลงไปในน้ำทะเลได้ลึกที่สุด ทำให้สาหร่ายสีแดงเจริญเติบโตได้ในน้ำลึกกว่าสาหร่ายกลุ่มอื่น (ลึกได้ถึง 200 เมตร)\n- ลักษณะพิเศษ: **ไม่มีระยะที่มีแฟลกเจลลาเลยตลอดวงชีวิต (No flagellated stage)** ทั้งเซลล์ร่างกายและเซลล์สืบพันธุ์\n- โครงสร้างผนังเซลล์: ผนังเซลล์ชั้นในเป็นเซลลูโลส ส่วนชั้นนอกเป็นสารประกอบพอลิแซ็กคาไรด์เมือกกลุ่ม Sulfated galactan ได้แก่ **วุ้น (Agar)** และ **คาราจีแนน (Carrageenan)**\n- สาหร่ายหินปูน (Coralline algae): สามารถสะสมเกลือแคลเซียมคาร์บอเนตบนผนังเซลล์ ช่วยสร้างโครงร่างแนวปะการัง\n- แหล่งที่อยู่: ส่วนใหญ่พบในทะเลน้ำอุ่นและน้ำลึก พบน้อยในน้ำจืด\n- สกุลสำคัญและประโยชน์:\n  • จีฉ่าย หรือ โนริ (Porphyra sp.): แผ่นสาหร่ายสีม่วงแดง นำมาตากแห้งทำสาหร่ายห่อซูชิและใส่ในแกงจืด\n  • สาหร่ายผมนาง (Gracilaria sp.): นำมาสกัดเป็นผงวุ้น (Agar) สำหรับทำอาหาร ขนมหวาน และอาหารเพาะเลี้ยงเชื้อจุลินทรีย์",
+    "deep_explanation": "สารวุ้น (Agar) และคาราจีแนน (Carrageenan) สกัดได้จากผนังเซลล์ของสาหร่ายสีแดงโดยใช้น้ำร้อนหรือด่างอ่อน วุ้นมีจุดเด่นคืออุณหภูมิหลอมเหลว (Melting temperature) ประมาณ 85°C แต่อุณหภูมิแข็งตัว (Gelling temperature) อยู่ที่ประมาณ 32-40°C ความแตกต่างนี้เรียกว่า ฮิสเทอรีซิส (Hysteresis) ทำให้วุ้นเป็นของแข็งที่อุณหภูมิร่างกายมนุษย์ (37°C) จึงเป็นตัวกลางที่เหมาะสมที่สุดสำหรับการเพาะเลี้ยงเชื้อแบคทีเรียทางการแพทย์ ซึ่งค้นพบโดย Fanny Hesse ในปี 1881",
+    "real_world_examples": "อุตสาหกรรมโนริ (Nori) จากสาหร่าย Porphyra ในประเทศญี่ปุ่นมีมูลค่าทางเศรษฐกิจนับหมื่นล้านบาทต่อปี อุดมด้วยวิตามินซี ธาตุเหล็ก และโปรตีนสูงกว่า 30-40% ของน้ำหนักแห้ง",
+    "pro_tips": "ข้อสอบออกบ่อยมาก:\n1) สาหร่ายที่อยู่ได้ลึกที่สุดในทะเล = 'สาหร่ายสีแดง' (เพราะมี Phycoerythrin ดูดแสงสีน้ำเงิน)\n2) สาหร่ายที่ไม่มีแฟลกเจลลาเลยตลอดวงชีวิต = 'สาหร่ายสีแดง'\n3) จีฉ่าย = Porphyra, ผลิตวุ้น = Gracilaria",
+    "references": [
+      {
+        "title": "IPST Biology Gallery: Red Seaweeds of Thailand",
+        "url": "http://biology.ipst.ac.th/?bwg_gallery=9-2557"
+      },
+      {
+        "title": "OpenStax Biology 2e: Archaeplastida - Red Algae",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_18.png"
+  },
+  {
+    "id": "protista-19",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 19,
+    "chapter_id": "protista-mod-5",
+    "chapter_title": "โมดูล 5: ซูเปอร์กรุ๊ป Archaeplastida (สาหร่ายสีแดงและสีเขียว)",
+    "title": "สไลด์ 19: ซูเปอร์กรุ๊ป Archaeplastida: 4. สาหร่ายสีเขียว (Green Algae / Chlorophyta & Charophyta)",
+    "subtitle": "บรรพบุรุษพืชบก, คลอโรฟิลล์ a และ b, คลอโรพลาสต์เกลียว (Spirogyra), รูปดาว (Zygnema) และไพรีนอยด์",
+    "keywords": [
+      "Green algae",
+      "Chlorophyta",
+      "Charophyta",
+      "Plant ancestor",
+      "Spirogyra",
+      "Zygnema",
+      "Pyrenoid",
+      "Chloroplast",
+      "Starch"
+    ],
+    "original_content": "4. สาหร่ายสีเขียว (Green Algae / Chlorophyta & Charophyta):\n- ลักษณะคล้ายพืชบกมากที่สุด: เป็นสายวิวัฒนาการที่มีบรรพบุรุษร่วมกับพืชบก (Land plants)\n- ผนังเซลล์: มี 2 ชั้น ชั้นนอกประกอบด้วยเพกติน (Pectin) ชั้นในเป็นเซลลูโลส (Cellulose) บางชนิดมีไคติน แคลเซียม หรือซิลิกา\n- นิวเคลียสและออร์แกเนลล์: นิวเคลียสคล้ายพืชชั้นสูง มีก้อนชัดเจน มีแวคิวโอลขนาดใหญ่อยู่ภายในเซลล์\n- รงควัตถุ: มี**คลอโรฟิลล์ เอ และ บี (Chlorophyll a & b)** แคโรทีนอยด์ และแซนโทฟิลล์ เหมือนกับพืชชั้นสูง บรรจุอยู่ในคลอโรพลาสต์\n- รูปร่างคลอโรพลาสต์หลากหลายแบบ:\n  • รูปเกลียวคล้ายริบบิ้นบิด (Spiral-shaped): พบใน Spirogyra (เทาน้ำ)\n  • รูปดาว (Star-shaped): พบ 2 ดวงต่อเซลล์ใน Zygnema\n  • รูปถ้วย (Cup-shaped): พบใน Chlamydomonas\n- การเคลื่อนที่: ชนิดเซลล์เดียวที่เคลื่อนที่ได้ มักมีแฟลกเจลลา 1, 2 หรือ 4 เส้นยาวเท่าๆ กันอยู่ที่ด้านหน้าเซลล์\n- อาหารสะสม: เก็บสะสมในรูปของ**แป้งแท้จริง (Starch)** ล้อมรอบเม็ดไพรีนอยด์ (Pyrenoid) ภายในคลอโรพลาสต์ และบางชนิดสะสมน้ำมันได้",
+    "deep_explanation": "หลักฐานที่ยืนยันว่าสาหร่ายสีเขียว (โดยเฉพาะกลุ่ม Charophytes) เป็นบรรพบุรุษของพืชบกคือ:\n1. มีคลอโรฟิลล์ a และ b ในอัตราส่วนที่คล้ายคลึงกัน\n2. สะสมอาหารในรูปของแป้ง (Amylose และ Amylopectin) ภายในพลาสติด\n3. ผนังเซลล์ทำจากเซลลูโลสที่สร้างจากกลุ่มโปรตีนรูปดอกกุหลาบ (Rosette-shaped cellulose-synthesizing complexes)\n4. ในการแบ่งเซลล์ มีการสร้างโครงสร้าง Phragmoplast เพื่อสร้างแผ่นกั้นเซลล์ (Cell plate) เหมือนพืชชั้นสูง\n5. มีเอนไซม์ในเพอรอกซิโซมที่ช่วยลดการสูญเสียพลังงานจากการหายใจเชิงแสง (Photorespiration)",
+    "real_world_examples": "เทาน้ำ (Spirogyra) พบได้ทั่วไปในแหล่งน้ำนิ่งสะอาดในภาคอีสานและเหนือ ชาวบ้านนำมาลวกจิ้มน้ำพริกหรือทำ 'ลาบเทา' อุดมด้วยแคลเซียม ธาตุเหล็ก และสารต้านอนุมูลอิสระ",
+    "pro_tips": "จำรูปทรงคลอโรพลาสต์ใต้กล้อง:\n- คลอโรพลาสต์เป็นเกลียว (Spiral) = Spirogyra (สไปโรไจรา / เทาน้ำ)\n- คลอโรพลาสต์รูปดาว (Star-shaped) 2 ดวง = Zygnema (ซิกนีมา)\n- อาหารสะสมรอบเม็ดโปรตีน = Pyrenoid",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Green Algae - Chlorophytes and Charophytes",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "Campbell Biology (12th ed): The Origin of Land Plants",
+        "url": "https://www.pearson.com/en-us/subject-catalog/p/campbell-biology/P200000003318"
+      }
+    ],
+    "image": "slides_img/protista/slide_19.png"
+  },
+  {
+    "id": "protista-20",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 20,
+    "chapter_id": "protista-mod-5",
+    "chapter_title": "โมดูล 5: ซูเปอร์กรุ๊ป Archaeplastida (สาหร่ายสีแดงและสีเขียว)",
+    "title": "สไลด์ 20: สกุลสำคัญของสาหร่ายสีเขียว และสาหร่ายไฟ (Stonewort / Chara)",
+    "subtitle": "Chara, Chlorella, Chlamydomonas, Ulva, Scenedesmus, Volvox เซลล์เดียวสู่โคโลนี",
+    "keywords": [
+      "Chara",
+      "Stonewort",
+      "สาหร่ายไฟ",
+      "Chlorella",
+      "Chlamydomonas",
+      "Ulva",
+      "Scenedesmus",
+      "Volvox"
+    ],
+    "original_content": "สกุลสำคัญของสาหร่ายสีเขียว (ถอดรหัสจากภาพสไลด์ 20):\n1. สาหร่ายไฟ (Stone wort / Chara sp.):\n- มีรูปร่างคล้ายพืชชั้นสูงมากที่สุด มีส่วนคล้ายลำต้น ข้อ (Nodes) และปล้อง (Internodes)\n- แต่ละข้อจะแตกแขนงออกเป็นวงรอบคล้ายใบ (Whorled branchlets / Thallus)\n- มีไรซอยด์ (Rhizoid) คล้ายราก ทำหน้าที่ยึดเกาะในโคลนที่พื้นน้ำ\n- ผนังเซลล์มีหินปูน (Calcium carbonate) เคลือบหนา ทำให้สัมผัสแล้วสากมือคล้ายหิน\n- เป็นวัชพืชใต้น้ำในนาข้าวและแหล่งน้ำใส มีอวัยวะสืบพันธุ์แบบมีเนื้อเยื่อห่อหุ้มคล้ายพืช\n2. ตัวอย่างสาหร่ายสีเขียวอื่นๆ ในภาพ:\n- Chlorella (คลอเรลลา): เซลล์เดียวทรงกลม ไม่มีแฟลกเจลลา โปรตีนสูง นำมาทำอาหารเสริม\n- Chlamydomonas (คลาไมโดโมแนส): เซลล์เดียวรูปไข่ มีแฟลกเจลลา 2 เส้นด้านหน้า มีอายสปอต\n- Scenedesmus (ซีนเดสมัส): โคโลนีเรียงแถวหน้ากระดาน 4 หรือ 8 เซลล์ มีหนามที่มุม\n- Volvox (วอลวอกซ์): โคโลนีทรงกลมกลวงเคลื่อนที่ประสานกัน\n- Ulva (สาหร่ายผักกาดทะเล): สาหร่ายหลายเซลล์เป็นแผ่นแบนสีเขียว 2 ชั้น คล้ายผักกาด",
+    "deep_explanation": "Chara (สาหร่ายไฟ) อยู่ในกลุ่ม Charophyceae ซึ่งเป็นกลุ่มย่อยของสาหร่ายสีเขียวที่มีความใกล้ชิดทางวิวัฒนาการกับพืชบกมากที่สุด โครงสร้างอวัยวะสร้างเซลล์สืบพันธุ์ของ Chara มีความก้าวหน้ามาก: อวัยวะสร้างไข่ (Oogonium หรือ Nucule) มีเซลล์พี่เลี้ยงบิดเป็นเกลียวห่อหุ้มป้องกันไข่ และอวัยวะสร้างอสุจิ (Antheridium หรือ Globule) เป็นทรงกลมสีส้มสด ซึ่งเป็นก้าวสำคัญก่อนที่พืชจะวิวัฒนาการขึ้นมาบนบก",
+    "real_world_examples": "Chlorella ถูกใช้ในการทดลองของ Melvin Calvin เพื่อค้นพบ 'วัฏจักรคัลวิน' (Calvin Cycle) ในการตรึงคาร์บอนของการสังเคราะห์ด้วยแสง ซึ่งได้รับรางวัลโนเบลสาขาเคมีในปี 1961",
+    "pro_tips": "จำความสำคัญของ Chara (สาหร่ายไฟ):\n1) คล้ายพืชชั้นสูงที่สุด (มีข้อ ปล้อง กิ่งใบ ไรซอยด์)\n2) ผนังเคลือบหินปูนสากมือ\n3) เป็น Charophyte ที่มีสายสัมพันธ์ใกล้ชิดกับพืชบกมากที่สุด!",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Charophytes and Land Plant Evolution",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "Britannica: Stonewort (Chara)",
+        "url": "https://www.britannica.com/plant/stonewort"
+      }
+    ],
+    "image": "slides_img/protista/slide_20.png"
+  },
+  {
+    "id": "protista-21",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 21,
+    "chapter_id": "protista-mod-5",
+    "chapter_title": "โมดูล 5: ซูเปอร์กรุ๊ป Archaeplastida (สาหร่ายสีแดงและสีเขียว)",
+    "title": "สไลด์ 21: การสะพรั่งของสาหร่ายและการเกิดยูโทรฟิเคชัน (Algae Bloom & Eutrophication)",
+    "subtitle": "วิเคราะห์ภาพสไลด์ 21: น้ำเขียวข้น มลพิษสารอาหาร N-P การขาดออกซิเจน และปลาตายยกแพ",
+    "keywords": [
+      "Algae bloom",
+      "Eutrophication",
+      "Ulva prolifera",
+      "Hypoxia",
+      "Anoxia",
+      "Dissolved Oxygen",
+      "Fish kill"
+    ],
+    "original_content": "Algae bloom (วิเคราะห์จากภาพสไลด์ 21):\n- การสะพรั่งอย่างรุนแรงของสาหร่ายในแหล่งน้ำ (Eutrophication):\n  • ภาพซ้าย: การระบาดของสาหร่ายสีเขียวขนาดใหญ่ (Ulva / Enteromorpha prolifera) บนชายหาดเมืองชิงเต่า ประเทศจีน รถตักต้องโกยสาหร่ายนับหมื่นตันออกจากชายฝั่งก่อนการแข่งขันกีฬาโอลิมปิก\n  • ภาพขวาบน: ผิวน้ำที่เต็มไปด้วยฟิล์มสีเขียวเข้มข้นเหนียวหนืดจนติดฝ่ามือ\n  • ภาพขวาล่าง: ปลาตายลอยหงายท้องในน้ำสีเขียวจัด\n- สาเหตุหลัก: ปริมาณธาตุอาหารไนโตรเจน (N) และฟอสฟอรัส (P) จากปุ๋ยเคมีทางการเกษตร น้ำเสียชุมชน และฟาร์มปศุสัตว์ ไหลลงสู่แหล่งน้ำ\n- ผลกระทบต่อระบบนิเวศ:\n  1. แพสาหร่ายหนาทึบที่ผิวน้ำบดบังแสงแดด ทำให้พืชใต้น้ำไม่สามารถสังเคราะห์แสงได้และตายลง\n  2. เมื่อสาหร่ายหมดอายุขัยและจมลงสู่ก้นน้ำ แบคทีเรียกลุ่มย่อยสลาย (Aerobic decomposers) จะเพิ่มจำนวนอย่างมหาศาลและใช้ออกซิเจนที่ละลายในน้ำ (DO) ในการย่อยสลาย\n  3. ระดับออกซิเจนลดฮวบจนเกิดภาวะขาดออกซิเจน (Hypoxia / Anoxia) โดยเฉพาะในเวลากลางคืน ทำให้ปลา กุ้ง และสิ่งมีชีวิตในน้ำขาดอากาศหายใจและตายเป็นจำนวนมาก",
+    "deep_explanation": "ยูโทรฟิเคชัน (Eutrophication) เป็นตัวอย่างของการเสียสมดุลเชิงบวก (Positive feedback loop) ที่เป็นหายนะ: แม้ว่าในตอนแรกสาหร่ายจะผลิตออกซิเจนในเวลากลางวัน แต่ชีวมวล (Biomass) มหาศาลที่สะสมไว้จะกลายเป็นภาระความต้องการออกซิเจนทางชีวเคมี (BOD: Biochemical Oxygen Demand) ทันทีที่สาหร่ายตาย แบคทีเรียที่ไม่ใช้ออกซิเจนจะเข้ามาแทนที่และปล่อยก๊าซไข่เน่า (H2S) ส่งกลิ่นเหม็นเน่ารุนแรง",
+    "real_world_examples": "เขตมรณะในอ่าวเม็กซิโก (Gulf of Mexico Dead Zone) มีพื้นที่ขาดออกซิเจนกว้างกว่า 15,000 ตารางกิโลเมตร เกิดจากปุ๋ยไนโตรเจนและฟอสฟอรัสจากพื้นที่เกษตรกรรมแถบลุ่มแม่น้ำมิสซิสซิปปีไหลลงสู่อ่าว",
+    "pro_tips": "ลำดับเหตุการณ์ข้อสอบข้อสอบกระบวนการยูโทรฟิเคชัน:\nสารอาหาร N, P สูง -> สาหร่ายบลูม -> แสงส่องไม่ถึง พืชใต้น้ำตาย -> สาหร่ายตาย -> แบคทีเรียย่อยสลายใช้ออกซิเจนสูง (BOD พุ่ง) -> น้ำขาดออกซิเจน (Hypoxia) -> ปลาตาย",
+    "references": [
+      {
+        "title": "EPA: Nutrient Pollution and Eutrophication",
+        "url": "https://www.epa.gov/nutrientpollution"
+      },
+      {
+        "title": "Reuters: China clears huge algae bloom from Olympic sailing venue",
+        "url": "https://www.reuters.com/article/olympics-sailing-algae/"
+      }
+    ],
+    "image": "slides_img/protista/slide_21.png"
+  },
+  {
+    "id": "protista-22",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 22,
+    "chapter_id": "protista-mod-6",
+    "chapter_title": "โมดูล 6: ซูเปอร์กรุ๊ป Amoebozoa (ราเมือก และอะมีบา)",
+    "title": "สไลด์ 22: ซูเปอร์กรุ๊ป Amoebozoa: กลุ่มราเมือก (Mycetozoa / Slime Molds)",
+    "subtitle": "ราเมือกพลาสโมเดียม, ราเมือกเซลลูลาร์, ผู้ย่อยสลายขอนไม้ผุ, Stemonitis, Physarum",
+    "keywords": [
+      "Mycetozoa",
+      "Slime molds",
+      "Plasmodial slime mold",
+      "Cellular slime mold",
+      "Stemonitis",
+      "Physarum",
+      "Fruiting body",
+      "Amoebozoa"
+    ],
+    "original_content": "Mycetozoa โพรทิสต์กลุ่มราเมือก (Slime Molds):\n- แหล่งที่พบ: พบบริเวณที่ชื้นแฉะ บนขอนไม้ผุ หรือกองใบไม้ที่กำลังเน่าเปื่อยในป่า\n- บทบาทในระบบนิเวศ: ทำหน้าที่เป็น**ผู้ย่อยสลายสารอินทรีย์ที่สำคัญ (Decomposers)** และควบคุมประชากรแบคทีเรียโดยการกลืนกิน (Phagocytosis)\n- การจัดกลุ่มราเมือก แบ่งเป็น 2 กลุ่มหลัก:\n  1. ราเมือกชนิดพลาสโมเดียม (Plasmodial slime molds / Acellular): เป็นแผ่นโพรโทพลาสซึมขนาดใหญ่ที่มีหลายนิวเคลียสแต่ไม่มีผนังกั้นเซลล์\n  2. ราเมือกชนิดเซลลูลาร์ (Cellular slime molds): ปกติอาศัยเป็นเซลล์อะมีบาเดี่ยวๆ เมื่อขาดแคลนอาหารจึงมารวมกลุ่มกันเป็นก้อนคล้ายทาก (Pseudoplasmodium) แต่เซลล์ยังแยกเยื่อหุ้มชัดเจน\n- ตัวอย่างสำคัญ:\n  • สเตโมนิทิส (Stemonitis sp.): ราเมือกที่สร้างฟรุตติ้งบอดีเป็นก้านยาวคล้ายแปรงล้างขวดสีน้ำตาล ช่วยย่อยสลายขอนไม้\n  • ไฟซารัม (Physarum sp.): มีพลาสโมเดียมเป็นร่างแหสีเหลืองสด ทำให้เกิดโรคยืนต้นตายในพืชที่เรียกว่า โรคไฟซารัม\n- ลักษณะผสมระหว่างโพรทิสต์และฟังไจ:\n  • คล้ายอะมีบา (โพรทิสต์): ในระยะหาอาหารสามารถเคลื่อนที่และกินอาหารแบบฟาโกไซโทซิสได้\n  • คล้ายฟังไจ: ในระยะสร้างสปอร์ จะสร้างก้านชูและอับสปอร์ที่มีรูปร่างคล้ายฟรุตติ้งบอดี (Fruiting body) และปล่อยเอนไซม์ออกมาย่อยสลายสารภายนอกเซลล์ได้",
+    "deep_explanation": "ในอดีตราเมือกเคยถูกจัดอยู่ใน Kingdom Fungi แต่การศึกษาระดับชีวโมเลกุลพบว่าพวกมันอยู่ในซูเปอร์กรุ๊ป Amoebozoa ผนังเซลล์ของสปอร์ทำจากเซลลูโลสไม่ใช่ไคติน และระยะหาอาหารเป็นเซลล์อะมีบาที่ไม่มีผนังเซลล์และเคลื่อนที่ได้ด้วยการไหลของไซโทพลาสซึม (Cytoplasmic streaming) โดยใช้โปรตีนแอกตินและไมโอซิน",
+    "real_world_examples": "Physarum polycephalum ได้รับฉายาว่า 'The Blob' เป็นสิ่งมีชีวิตเซลล์เดียวไร้สมองแต่มีความเฉลียวฉลาด นักวิทยาศาสตร์ทดลองให้มันเดินหาอาหารในเขาวงกต มันสามารถหาระยะทางที่สั้นที่สุดได้ และสามารถสร้างเครือข่ายเชื่อมต่อคล้ายโครงข่ายรถไฟใต้ดินโตเกียวได้อย่างมีประสิทธิภาพสูง",
+    "pro_tips": "แยกชนิดราเมือก 2 กลุ่ม:\n- Plasmodial = Multinucleated coenocytic (นิวเคลียสจำนวนมากรวมในไซโทพลาสซึมแผ่นเดียว ไร้ผนังกั้น)\n- Cellular = แต่ละเซลล์มีเยื่อหุ้มของตัวเอง มารวมตัวกันชั่วคราวเมื่ออดอาหาร",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Amoebozoa - Slime Molds",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "Nature: Network formation in Physarum polycephalum",
+        "url": "https://www.nature.com/articles/news.2010.3"
+      }
+    ],
+    "image": "slides_img/protista/slide_22.png"
+  },
+  {
+    "id": "protista-23",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 23,
+    "chapter_id": "protista-mod-6",
+    "chapter_title": "โมดูล 6: ซูเปอร์กรุ๊ป Amoebozoa (ราเมือก และอะมีบา)",
+    "title": "สไลด์ 23: วงชีวิตของราเมือกชนิดพลาสโมเดียม (Life Cycle of a Plasmodial Slime Mold)",
+    "subtitle": "วิเคราะห์ระยะดิพลอยด์ (2n: Plasmodium, Sclerotia), ไมโอซิส, สปอร์ (1n), และระยะเซลล์สืบพันธุ์",
+    "keywords": [
+      "Plasmodial life cycle",
+      "Plasmodium",
+      "Sclerotia",
+      "Sporangium",
+      "Meiosis",
+      "Plasmogamy",
+      "Karyogamy",
+      "Zygote"
+    ],
+    "original_content": "The Life Cycle of a Plasmodial Slime Mold (ถอดรหัสจากแผนภาพสไลด์ 23):\nวงชีวิตสลับระหว่างระยะดิพลอยด์ (2n) และแฮพลอยด์ (n):\nระยะดิพลอยด์ (Diploid 2n):\n- ระยะพลาสโมเดียมหาอาหาร (Feeding plasmodium): เป็นมวลโพรโทพลาสซึมหลายนิวเคลียส (Multinucleated free-flowing mass) ไหลคืบคลานกินแบคทีเรียตามขอนไม้ผุ\n- สภาพแห้งแล้ง (Dry habitat): จะเปลี่ยนรูปเป็นโครงสร้างพักตัวแข็ง เรียกว่า สเกลอโรเชีย (Sclerotia) เพื่อทนแล้ง\n- ขั้นที่ 1: เมื่ออาหารหรือความชื้นหมดลง จะเริ่มก่อตัวสร้างอับสปอร์ (Sporangia formation begins)\n- ขั้นที่ 2: อับสปอร์อ่อน (Young sporangium 2n) จะเกิดการแบ่งเซลล์แบบไมโอซิส (Meiosis) เปลี่ยนเข้าสู่ระยะแฮพลอยด์\nระยะแฮพลอยด์ (Haploid n):\n- ขั้นที่ 3: อับสปอร์แก่ (Mature sporangium n) ปล่อยสปอร์ผนังหนา (Mature spores n) ปลิวไปตามลม\n- ขั้นที่ 4: สปอร์งอก (Spore germinates) ให้นิวเคลียสเจริญเป็นเซลล์แฮพลอยด์ 2 รูปแบบที่เปลี่ยนสลับไปมาได้ คือ เซลล์อะมีบา (Amoeboid cells) และเซลล์ว่ายน้ำมีแฟลกเจลลา (Flagellated gametes)\n- ขั้นที่ 5-6: การรวมตัวของเซลล์สืบพันธุ์: เกิดพลาสโมแกมี (Plasmogamy: ไซโทพลาสซึมรวมกัน) ตามด้วยคาริโอแกมี (Karyogamy: นิวเคลียสรวมกัน) เกิดการปฏิสนธิ (Fertilization)\n- ขั้นที่ 7: ได้ไซโกต (Zygote 2n) ซึ่งจะแบ่งนิวเคลียสแบบไมโทซิสซ้ำๆ หลายครั้งโดยไม่มีการแบ่งไซโทพลาสซึม เจริญเติบโตกลับเป็น Feeding plasmodium (2n) อีกครั้ง",
+    "deep_explanation": "ความมหัศจรรย์ของระยะ Plasmodium คือการแบ่งนิวเคลียสแบบ Synchronous mitosis (นิวเคลียสหลายล้านนิวเคลียสแบ่งตัวพร้อมกันในเวลาเดียวกันอย่างแม่นยำ) โดยไม่มีการสร้างเยื่อหุ้มเซลล์มาแบ่งกั้น ทำให้เกิดโครงสร้างแบบซินซีเทียม (Syncytium) หรือโคอีโนไซต์ (Coenocyte) การไหลเวียนของไซโทพลาสซึม (Shuttle streaming) มีความเร็วสูงถึง 1.35 มิลลิเมตรต่อวินาที ซึ่งเป็นการไหลแบบสองทิศทางสลับไปมาทุกๆ 1-2 นาที",
+    "real_world_examples": "ภาพสไลด์แสดงฟรุตติ้งบอดีสีส้มสดคล้ายไข่ปลาบนเนื้อไม้ และ Stemonitis ที่มีก้านชูสีน้ำตาลทองฟูฟ่อง ซึ่งมักพบได้ตามป่าเบญจพรรณและป่าดิบชื้นของไทยในฤดูฝน",
+    "pro_tips": "ลำดับเหตุการณ์ข้อสอบวงชีวิตราเมือกพลาสโมเดียม:\n1. Plasmodium (2n) ขาดอาหาร -> สร้าง Sporangium (2n)\n2. แบ่ง Meiosis ในอับสปอร์ -> ได้ Spores (n)\n3. สปอร์งอกเป็น Amoeboid cells หรือ Flagellated gametes (n)\n4. ผสมพันธุ์ (Plasmogamy + Karyogamy) -> Zygote (2n)\n5. แบ่งไมโทซิสเฉพาะนิวเคลียส -> ได้ Plasmodium (2n)",
+    "references": [
+      {
+        "title": "LibreTexts: Life Cycle of Plasmodial Slime Mold",
+        "url": "https://bio.libretexts.org/Bookshelves/Introductory_and_General_Biology"
+      },
+      {
+        "title": "OpenStax Biology 2e: Slime Mold Reproduction",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      }
+    ],
+    "image": "slides_img/protista/slide_23.png"
+  },
+  {
+    "id": "protista-24",
+    "pdf": "protista",
+    "pdf_name": "อาณาจักรโพรติสต.pdf",
+    "slide": 24,
+    "chapter_id": "protista-mod-6",
+    "chapter_title": "โมดูล 6: ซูเปอร์กรุ๊ป Amoebozoa (ราเมือก และอะมีบา)",
+    "title": "สไลด์ 24: ซูเปอร์กรุ๊ป Amoebozoa: กลุ่มอะมีบา (Amoebae & Phagocytosis)",
+    "subtitle": "วิเคราะห์ภาพสไลด์ 24: กายวิภาคอะมีบา, กลไกฟาโกไซโทซิส, คอนแทร็กไทล์แวคิวโอล และชนิดขาเทียม",
+    "keywords": [
+      "Amoeba",
+      "Pseudopod",
+      "Phagocytosis",
+      "Ectoplasm",
+      "Endoplasm",
+      "Contractile vacuole",
+      "Phagosome",
+      "Phagolysosome",
+      "Arcella",
+      "Radiolaria"
+    ],
+    "original_content": "Amoebae (ถอดรหัสจากภาพสไลด์ 24):\n1. โครงสร้างภายในของอะมีบา (Anatomy of Amoeba):\n- เท้าเทียม (Pseudopod / Pseudopodium): รยางค์ยื่นของไซโทพลาสซึมใช้ในการเคลื่อนที่และดักจับอาหาร\n- ไซโทพลาสซึมแบ่งเป็น 2 ส่วน:\n  • เอ็กโทพลาซึม (Ectoplasm): ไซโทพลาสซึมชั้นนอก ใส เนื้อเจลหนืด (Gel state)\n  • เอนโดพลาซึม (Endoplasm): ไซโทพลาสซึมชั้นใน มีเม็ดแกรนูลขุ่น เป็นของเหลวไหลได้ (Sol state)\n- นิวเคลียส (Nucleus) และนิวคลีโอลัส (Nucleolus)\n- แวคิวโอลอาหาร (Food vacuole / Phagosome)\n- คอนแทร็กไทล์แวคิวโอล (Contractile vacuole): ถุงขับน้ำส่วนเกินที่ออสโมซิสเข้าสู่เซลล์ เพื่อรักษาสมดุลออสโมซิส (Osmoregulation)\n2. ลำดับขั้นตอนกระบวนการฟาโกไซโทซิส (Phagocytosis):\n  • ขั้นที่ 1: ตรวจพบแบคทีเรียหรือเหยื่อ (Bacterium detected)\n  • ขั้นที่ 2: ยื่นเท้าเทียม (Pseudopods) โอบล้อมรอบเหยื่อ\n  • ขั้นที่ 3: ปลายเท้าเทียมเชื่อมรวมกัน เกิดเป็นถุงแวคิวโอลอาหาร (Phagosome / Food vacuole)\n  • ขั้นที่ 4: ไลโซโซมที่มีเอนไซม์ย่อยสลายเข้ามาหลอมรวม เกิดเป็นฟาโกไลโซโซม (Phagolysosome)\n  • ขั้นที่ 5: การย่อยสลายภายในเซลล์ (Digestion)\n  • ขั้นที่ 6: การขับกากอาหารที่ย่อยไม่ได้ออกนอกเซลล์ (Post-digestion / Exocytosis)\n3. ภาพจุลทรรศน์ด้านล่าง:\n- Amoeba proteus: อะมีบาเปลือย เท้าเทียมกลมมนแบบโลโบโพเดียม (Lobopodia)\n- เรดิโอลาเรีย / เฮลิโอซัว: มีเท้าเทียมเป็นเส้นเข็มละเอียดค้ำยันด้วยไมโครทูบูล (Axopodia)\n- อาร์เซลลา (Arcella): อะมีบามีเปลือกโปรตีนสีน้ำตาลทรงชามคว่ำ (Testate amoeba)",
+    "deep_explanation": "กลไกการเคลื่อนที่ของเท้าเทียม (Amoeboid movement) อธิบายด้วยทฤษฎี Sol-Gel Transformation: เอนโดพลาซึมซึ่งอยู่ในสถานะของเหลว (Sol) จะไหลไปข้างหน้าสู่ทิศทางที่ต้องการเคลื่อนที่ เมื่อกระทบกับเยื่อหุ้มเซลล์ส่วนหน้าจะเปลี่ยนสถานะเป็นเจล (Gel) แข็งตัวขึ้นเป็นเอ็กโทพลาซึม ขณะเดียวกันเอ็กโทพลาซึมส่วนท้ายจะสลายตัวกลับเป็นของเหลว (Sol) การไหลนี้ถูกขับเคลื่อนด้วยการหดตัวของเส้นใยโปรตีน Actin microfilaments และ Myosin",
+    "real_world_examples": "Entamoeba histolytica เป็นอะมีบาก่อโรคบิดมีตัว (Amoebic dysentery) ในมนุษย์ เชื้อสามารถปล่อยเอนไซม์ย่อยเยื่อบุผิวลำไส้ใหญ่จนเป็นแผลหลุมลึกรูปคนโท (Flask-shaped ulcer) ทำให้ถ่ายอุจจาระเป็นมูกเลือด และอาจไชทะลุเข้ากระแสเลือดไปสร้างฝีหนองในตับ (Amoebic liver abscess)",
+    "pro_tips": "ข้อสอบจำโครงสร้างและหน้าที่ของอะมีบา:\n1) รักษาสมดุลน้ำในเซลล์ = 'Contractile vacuole' (ถ้าใส่ในน้ำเกลือเข้มข้น แวคิวโอลนี้จะหยุดทำงานหรือทำงานช้าลง)\n2) ลำดับกินอาหาร = 'Pseudopod โอบ -> Phagosome -> รวมกับ Lysosome -> Phagolysosome -> Exocytosis'",
+    "references": [
+      {
+        "title": "OpenStax Biology 2e: Amoebozoa",
+        "url": "https://opentextbc.ca/biology2eopenstax/chapter/groups-of-protists/"
+      },
+      {
+        "title": "CDC: Amebiasis - Entamoeba histolytica",
+        "url": "https://www.cdc.gov/parasites/amebiasis/index.html"
+      }
+    ],
+    "image": "slides_img/protista/slide_24.png"
+  }
+]
